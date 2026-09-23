@@ -1910,6 +1910,269 @@
         "てんびん",
         "判断"
       ]
+    },
+    {
+      "id": "chousashi-kagi",
+      "src": "generated_chousashi_2026-09/riko_G10_kagi.png",
+      "author": "riko",
+      "title": "大事な書類を守る",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "その後",
+      "kind": "図解の部品",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "大事な書類を守るのイラストです。",
+      "howto": "書類や個人の情報を大切に扱う、という説明に使えます。",
+      "alt": "大事な書類を守るのイラスト。",
+      "tags": [
+        "個人情報",
+        "保管",
+        "かぎ"
+      ]
+    },
+    {
+      "id": "kyoutsu-desk-pc",
+      "src": "generated_chousashi_2026-09/riko_K13_desk_pc.png",
+      "author": "riko",
+      "title": "パソコンで仕事をする専門家",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "書類",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "パソコンで仕事をする専門家ところを描いたイラストです。",
+      "howto": "事務所の紹介や、採用のページに使えます。",
+      "alt": "パソコンで仕事をする専門家ところを描いたイラスト。",
+      "tags": [
+        "パソコン",
+        "事務所",
+        "仕事"
+      ]
+    },
+    {
+      "id": "kyoutsu-renkei-kaigi",
+      "src": "generated_chousashi_2026-09/riko_K14_renkei_kaigi.png",
+      "author": "riko",
+      "title": "専門家どうしの打合せ",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "専門家どうしの打合せところを描いたイラストです。",
+      "howto": "ほかの士業と組んで対応する、という説明に使えます。",
+      "alt": "専門家どうしの打合せところを描いたイラスト。",
+      "tags": [
+        "連携",
+        "打合せ",
+        "士業"
+      ]
+    },
+    {
+      "id": "kyoutsu-seido-setsumei",
+      "src": "generated_chousashi_2026-09/riko_K16_seido_setsumei.png",
+      "author": "riko",
+      "title": "制度を説明する",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "制度を説明するところを描いたイラストです。",
+      "howto": "制度の変わり目の説明会や、解説の記事に使えます。",
+      "alt": "制度を説明するところを描いたイラスト。",
+      "tags": [
+        "制度",
+        "説明",
+        "ホワイトボード"
+      ]
+    },
+    {
+      "id": "kyoutsu-yuubin",
+      "src": "generated_chousashi_2026-09/riko_K19_yuubin.png",
+      "author": "riko",
+      "title": "郵便受けから封筒を取る",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "完了",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "郵便受けから封筒を取るところを描いたイラストです。",
+      "howto": "書類が届く段の説明に使えます。",
+      "alt": "郵便受けから封筒を取るところを描いたイラスト。",
+      "tags": [
+        "郵便",
+        "封筒",
+        "届く"
+      ]
+    },
+    {
+      "id": "chousashi-wakai-kazoku",
+      "src": "generated_chousashi_2026-09/riko_A13_wakai_kazoku.png",
+      "author": "riko",
+      "title": "小さな子どもを連れた若い夫婦",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "人",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "小さな子どもを連れた若い夫婦のイラストです。",
+      "howto": "家を建てた方、家を買った方への案内に使えます。",
+      "alt": "小さな子どもを連れた若い夫婦のイラスト。",
+      "tags": [
+        "家族",
+        "子ども",
+        "依頼者"
+      ]
+    },
+    {
+      "id": "chousashi-shomei-sen",
+      "src": "generated_chousashi_2026-09/mitoma_F16_shomei.png",
+      "author": "mitoma",
+      "title": "確認書に署名していただく",
+      "shikaku": [
+        "土地家屋調査士"
+      ],
+      "dankai": "現場",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "確認書に署名していただくところを描いたイラストです。",
+      "howto": "となりの方に筆界確認書へ署名していただく段の説明に使えます。",
+      "alt": "確認書に署名していただくところを描いたイラスト。",
+      "tags": [
+        "署名",
+        "筆界確認書",
+        "となりの方"
+      ]
+    },
+    {
+      "id": "chousashi-matsu-sen",
+      "src": "generated_chousashi_2026-09/mitoma_F30_matsu.png",
+      "author": "mitoma",
+      "title": "返事を待つ",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "その後",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "返事を待つところを描いたイラストです。",
+      "howto": "返事を待つ時間がある、という説明に使えます。",
+      "alt": "返事を待つところを描いたイラスト。",
+      "tags": [
+        "待つ",
+        "手紙",
+        "期間"
+      ]
+    },
+    {
+      "id": "kyoutsu-denwa-soudan-sen",
+      "src": "generated_chousashi_2026-09/mitoma_K04_denwa_soudan.png",
+      "author": "mitoma",
+      "title": "電話で相談を受ける",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "電話で相談を受けるところを描いたイラストです。",
+      "howto": "「まずはお電話で」の案内に使えます。",
+      "alt": "電話で相談を受けるところを描いたイラスト。",
+      "tags": [
+        "電話",
+        "相談"
+      ]
+    },
+    {
+      "id": "kyoutsu-hiyou-setsumei-sen",
+      "src": "generated_chousashi_2026-09/mitoma_K08_hiyou_setsumei.png",
+      "author": "mitoma",
+      "title": "費用を説明する",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "見積もり",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "費用を説明するところを描いたイラストです。",
+      "howto": "「費用について」の説明に使えます。",
+      "alt": "費用を説明するところを描いたイラスト。",
+      "tags": [
+        "費用",
+        "見積書",
+        "説明"
+      ]
+    },
+    {
+      "id": "kyoutsu-uketsuke-sen",
+      "src": "generated_chousashi_2026-09/mitoma_K12_uketsuke.png",
+      "author": "mitoma",
+      "title": "事務所の受付",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場所",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "事務所の受付のイラストです。",
+      "howto": "事務所の案内や、はじめて来られる方への説明に使えます。",
+      "alt": "事務所の受付のイラスト。",
+      "tags": [
+        "受付",
+        "事務所",
+        "待合"
+      ]
     }
   ]
 }

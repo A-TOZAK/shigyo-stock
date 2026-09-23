@@ -1434,60 +1434,6 @@ const ITEMS=[
 "h": 1254
 },
 {
-"id": "chousashi-mitsumori-setsumei",
-"author": "riko",
-"title": "見積もりを説明する",
-"shikaku": [
-"共通"
-],
-"dankai": "見積もり",
-"kind": "場面",
-"uses": [
-"ホームページ",
-"説明の紙",
-"チラシ"
-],
-"description": "見積もりを説明するところを描いたイラストです。",
-"howto": "「費用について」の説明に使えます。",
-"alt": "見積もりを説明するところを描いたイラスト。",
-"tags": [
-"見積もり",
-"説明",
-"費用"
-],
-"credit": "Chihaya",
-"style": "フラット",
-"w": 1536,
-"h": 1024
-},
-{
-"id": "chousashi-shiryo-houmukyoku",
-"author": "riko",
-"title": "法務局で資料を受け取る",
-"shikaku": [
-"共通"
-],
-"dankai": "調査",
-"kind": "場面",
-"uses": [
-"ホームページ",
-"説明の紙",
-"チラシ"
-],
-"description": "法務局で資料を受け取るところを描いたイラストです。",
-"howto": "法務局で資料を集める段の説明に使えます。",
-"alt": "法務局で資料を受け取るところを描いたイラスト。",
-"tags": [
-"法務局",
-"資料",
-"窓口"
-],
-"credit": "Chihaya",
-"style": "フラット",
-"w": 1536,
-"h": 1024
-},
-{
 "id": "chousashi-kui-sagasu",
 "author": "riko",
 "title": "境界標を探す",
@@ -1675,33 +1621,6 @@ const ITEMS=[
 "style": "フラット",
 "w": 1254,
 "h": 1254
-},
-{
-"id": "chousashi-zumen-check",
-"author": "riko",
-"title": "二人で図面を確かめる",
-"shikaku": [
-"土地家屋調査士"
-],
-"dankai": "書類",
-"kind": "場面",
-"uses": [
-"ホームページ",
-"説明の紙",
-"チラシ"
-],
-"description": "二人で図面を確かめるところを描いたイラストです。",
-"howto": "図面を出す前に確かめる段の説明に使えます。",
-"alt": "二人で図面を確かめるところを描いたイラスト。",
-"tags": [
-"図面",
-"確認",
-"チェック"
-],
-"credit": "Chihaya",
-"style": "フラット",
-"w": 1536,
-"h": 1024
 },
 {
 "id": "chousashi-yuusou",

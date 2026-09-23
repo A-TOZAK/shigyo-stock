@@ -330,33 +330,6 @@ const ITEMS=[
 "h": 1254
 },
 {
-"id": "chousashi-prism",
-"author": "riko",
-"title": "ピンポールとプリズム",
-"shikaku": [
-"土地家屋調査士"
-],
-"dankai": "現場",
-"kind": "道具",
-"uses": [
-"ホームページ",
-"説明の紙",
-"チラシ"
-],
-"description": "ピンポールとプリズムのイラストです。",
-"howto": "境界の点を測るときの道具の紹介に使えます。",
-"alt": "ピンポールとプリズムのイラスト。",
-"tags": [
-"ピンポール",
-"プリズム",
-"測量"
-],
-"credit": "Chihaya",
-"style": "フラット",
-"w": 1254,
-"h": 1254
-},
-{
 "id": "chousashi-gnss",
 "author": "riko",
 "title": "GNSSの受信機",
@@ -1751,33 +1724,6 @@ const ITEMS=[
 "郵送",
 "ポスト",
 "書類"
-],
-"credit": "Chihaya",
-"style": "フラット",
-"w": 1254,
-"h": 1254
-},
-{
-"id": "chousashi-online-shinsei",
-"author": "riko",
-"title": "パソコンで登記を申請する",
-"shikaku": [
-"共通"
-],
-"dankai": "申請",
-"kind": "場面",
-"uses": [
-"ホームページ",
-"説明の紙",
-"チラシ"
-],
-"description": "パソコンで登記を申請するところを描いたイラストです。",
-"howto": "オンラインで申請する段の説明に使えます。",
-"alt": "パソコンで登記を申請するところを描いたイラスト。",
-"tags": [
-"オンライン申請",
-"パソコン",
-"登記"
 ],
 "credit": "Chihaya",
 "style": "フラット",

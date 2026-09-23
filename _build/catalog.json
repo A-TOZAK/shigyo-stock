@@ -1,2682 +1,2634 @@
 {
-  "_note": "士業ストックの素材の元データ。人が書く。build.py がここから img/ と items.js と i/*.html と sitemap.xml を作る。src は「17 素材集」フォルダからの相対パス。",
-  "authors": {
-    "mitoma": {
-      "romaji": "Mitoma"
-    },
-    "riko": {
-      "romaji": "Chihaya"
-    },
-    "sumire": {
-      "romaji": "Nonomiya"
-    }
+ "_note": "士業ストックの素材の元データ。人が書く。build.py がここから img/ と items.js と i/*.html と sitemap.xml を作る。src は「17 素材集」フォルダからの相対パス。",
+ "authors": {
+  "mitoma": {
+   "romaji": "Mitoma"
   },
-  "assets": [
-    {
-      "id": "chousashi-ts-kansoku",
-      "src": "generated_chousashi_2026-09/riko_F06_ts_kansoku_v2.png",
-      "author": "riko",
-      "title": "トータルステーションで観測する調査士",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "採用"
-      ],
-      "description": "三脚にのせたトータルステーションをのぞいて、土地の角の位置を測っている場面です。",
-      "howto": "「ご依頼の流れ」の測量の段に置くと、現地で何をするのかが伝わります。",
-      "alt": "作業着とヘルメットの男性が、三脚の上の測量の器械をのぞいている。",
-      "tags": [
-        "測量",
-        "トータルステーション",
-        "現地調査",
-        "境界"
-      ]
-    },
-    {
-      "id": "chousashi-kui-concrete",
-      "src": "generated_chousashi_2026-09/riko_B06_kui_concrete_v2.png",
-      "author": "riko",
-      "title": "コンクリートの境界杭（境界標）",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "土地の境目に入れるコンクリートの杭です。左は杭の全体、右は地面に埋まって頭だけが見えている様子です。",
-      "howto": "「境界標とは」の説明や、境界標を入れる段の説明に使えます。",
-      "alt": "四角いコンクリートの杭と、土に埋まって十字の刻みのある頭だけが見えている杭。",
-      "tags": [
-        "境界標",
-        "杭",
-        "境界",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-tachiai",
-      "src": "generated_chousashi_2026-09/sumire_F11_tachiai.png",
-      "author": "sumire",
-      "title": "となりの方と境界を確かめる（立会い）",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ブロック塀の足もとの境界標を、調査士ととなりの土地の方がいっしょに見ている場面です。",
-      "howto": "立会いのお願いの手紙や、境界確定測量の流れの説明に使えます。",
-      "alt": "作業着の男性と年配の女性が、塀の足もとの小さな四角い杭をいっしょに見ている水彩の絵。",
-      "tags": [
-        "立会い",
-        "境界",
-        "となりの方",
-        "境界標"
-      ]
-    },
-    {
-      "id": "kyoutsu-soudan-fufu",
-      "src": "generated_chousashi_2026-09/sumire_F02_soudan.png",
-      "author": "sumire",
-      "title": "事務所でご夫婦に図面を見せて説明する",
-      "shikaku": [
-        "共通",
-        "土地家屋調査士",
-        "司法書士"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "チラシ",
-        "説明の紙"
-      ],
-      "description": "机をはさんで、年配のご夫婦に土地の図面を見せながら話している場面です。",
-      "howto": "「まずはご相談ください」の段や、相談会の案内に使えます。",
-      "alt": "年配の夫婦が机の向かいの男性から、土地の形を描いた紙の説明を聞いている水彩の絵。",
-      "tags": [
-        "相談",
-        "高齢の方",
-        "家族",
-        "図面"
-      ]
-    },
-    {
-      "id": "chousashi-chousashi",
-      "src": "generated_chousashi_2026-09/riko_A01_chousashi.png",
-      "author": "riko",
-      "title": "土地家屋調査士",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "調査",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "土地家屋調査士の人物のイラストです。",
-      "howto": "「私たちの仕事」や採用のページで、調査士の姿として使えます。",
-      "alt": "土地家屋調査士の人物のイラスト。",
-      "tags": [
-        "調査士",
-        "人物",
-        "作業着"
-      ]
-    },
-    {
-      "id": "chousashi-hojosha",
-      "src": "generated_chousashi_2026-09/riko_A02_hojosha.png",
-      "author": "riko",
-      "title": "測量の補助者",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "測量の補助者の人物のイラストです。",
-      "howto": "採用のページで、補助者の仕事を紹介するときに使えます。",
-      "alt": "測量の補助者の人物のイラスト。",
-      "tags": [
-        "補助者",
-        "採用",
-        "ヘルメット"
-      ]
-    },
-    {
-      "id": "chousashi-jimu",
-      "src": "generated_chousashi_2026-09/riko_A03_jimu.png",
-      "author": "riko",
-      "title": "事務所の事務の方",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "事務所の事務の方の人物のイラストです。",
-      "howto": "事務所の紹介や、受付の案内に使えます。",
-      "alt": "事務所の事務の方の人物のイラスト。",
-      "tags": [
-        "事務",
-        "受付",
-        "人物"
-      ]
-    },
-    {
-      "id": "chousashi-housemaker",
-      "src": "generated_chousashi_2026-09/riko_A06_housemaker.png",
-      "author": "riko",
-      "title": "ハウスメーカーの担当の方",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "見積もり",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ハウスメーカーの担当の方の人物のイラストです。",
-      "howto": "新築の建物の登記の流れで、依頼の入口として使えます。",
-      "alt": "ハウスメーカーの担当の方の人物のイラスト。",
-      "tags": [
-        "ハウスメーカー",
-        "新築",
-        "人物"
-      ]
-    },
-    {
-      "id": "chousashi-shihoshoshi",
-      "src": "generated_chousashi_2026-09/riko_A07_shihoshoshi.png",
-      "author": "riko",
-      "title": "司法書士",
-      "shikaku": [
-        "司法書士",
-        "共通"
-      ],
-      "dankai": "書類",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "司法書士の人物のイラストです。",
-      "howto": "司法書士と組んで仕事をすることの説明に使えます。",
-      "alt": "司法書士の人物のイラスト。",
-      "tags": [
-        "司法書士",
-        "人物"
-      ]
-    },
-    {
-      "id": "chousashi-yakusho",
-      "src": "generated_chousashi_2026-09/riko_A09_yakusho.png",
-      "author": "riko",
-      "title": "役所の道路の担当の方",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "役所の道路の担当の方の人物のイラストです。",
-      "howto": "道路との境を確かめる立会いの説明に使えます。",
-      "alt": "役所の道路の担当の方の人物のイラスト。",
-      "tags": [
-        "役所",
-        "官民",
-        "立会い"
-      ]
-    },
-    {
-      "id": "chousashi-madoguchi",
-      "src": "generated_chousashi_2026-09/riko_A10_madoguchi.png",
-      "author": "riko",
-      "title": "役所の窓口",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "調査",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "役所の窓口の人物のイラストです。",
-      "howto": "法務局や役所で資料を取る段の説明に使えます。",
-      "alt": "役所の窓口の人物のイラスト。",
-      "tags": [
-        "窓口",
-        "法務局",
-        "役所"
-      ]
-    },
-    {
-      "id": "chousashi-sankyaku",
-      "src": "generated_chousashi_2026-09/riko_B02_sankyaku.png",
-      "author": "riko",
-      "title": "測量の三脚",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "測量の三脚のイラストです。",
-      "howto": "測量の道具の紹介に使えます。",
-      "alt": "測量の三脚のイラスト。",
-      "tags": [
-        "三脚",
-        "測量",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-prism",
-      "src": "generated_chousashi_2026-09/riko_B03_prism.png",
-      "author": "riko",
-      "title": "ピンポールとプリズム",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ピンポールとプリズムのイラストです。",
-      "howto": "境界の点を測るときの道具の紹介に使えます。",
-      "alt": "ピンポールとプリズムのイラスト。",
-      "tags": [
-        "ピンポール",
-        "プリズム",
-        "測量"
-      ]
-    },
-    {
-      "id": "chousashi-gnss",
-      "src": "generated_chousashi_2026-09/riko_B04_gnss_v2.png",
-      "author": "riko",
-      "title": "GNSSの受信機",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "GNSSの受信機のイラストです。",
-      "howto": "衛星を使った測量の説明に使えます。",
-      "alt": "GNSSの受信機のイラスト。",
-      "tags": [
-        "GNSS",
-        "測量",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-makijaku",
-      "src": "generated_chousashi_2026-09/riko_B05_makijaku.png",
-      "author": "riko",
-      "title": "測量の巻尺",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "測量の巻尺のイラストです。",
-      "howto": "建物や土地を測る段の説明に使えます。",
-      "alt": "測量の巻尺のイラスト。",
-      "tags": [
-        "巻尺",
-        "測る",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-byou",
-      "src": "generated_chousashi_2026-09/riko_B08_byou.png",
-      "author": "riko",
-      "title": "金属鋲（境界標）",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "金属鋲（境界標）のイラストです。",
-      "howto": "「境界標とは」の説明に使えます。",
-      "alt": "金属鋲（境界標）のイラスト。",
-      "tags": [
-        "境界標",
-        "金属鋲",
-        "境界"
-      ]
-    },
-    {
-      "id": "chousashi-hammer",
-      "src": "generated_chousashi_2026-09/riko_B09_hammer.png",
-      "author": "riko",
-      "title": "ハンマーと木の杭",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ハンマーと木の杭のイラストです。",
-      "howto": "境界標を入れる段の説明に使えます。",
-      "alt": "ハンマーと木の杭のイラスト。",
-      "tags": [
-        "杭",
-        "ハンマー",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-spray",
-      "src": "generated_chousashi_2026-09/riko_B10_spray.png",
-      "author": "riko",
-      "title": "マーキングのスプレー",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "マーキングのスプレーのイラストです。",
-      "howto": "現地で点に印をつける段の説明に使えます。",
-      "alt": "マーキングのスプレーのイラスト。",
-      "tags": [
-        "スプレー",
-        "印",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-yacho",
-      "src": "generated_chousashi_2026-09/riko_B12_yacho.png",
-      "author": "riko",
-      "title": "野帳",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "野帳のイラストです。",
-      "howto": "現地で記録をとる段の説明に使えます。",
-      "alt": "野帳のイラスト。",
-      "tags": [
-        "野帳",
-        "記録",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-scoop",
-      "src": "generated_chousashi_2026-09/riko_B13_scoop.png",
-      "author": "riko",
-      "title": "スコップ",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "スコップのイラストです。",
-      "howto": "埋まった境界標を探す段の説明に使えます。",
-      "alt": "スコップのイラスト。",
-      "tags": [
-        "スコップ",
-        "境界標をさがす",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-cone",
-      "src": "generated_chousashi_2026-09/riko_B14_cone_v2.png",
-      "author": "riko",
-      "title": "三角コーン",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "三角コーンのイラストです。",
-      "howto": "道路ぎわでの作業の説明に使えます。",
-      "alt": "三角コーンのイラスト。",
-      "tags": [
-        "コーン",
-        "安全",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-helmet",
-      "src": "generated_chousashi_2026-09/riko_B15_helmet.png",
-      "author": "riko",
-      "title": "ヘルメットと軍手",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ヘルメットと軍手のイラストです。",
-      "howto": "採用のページで、現場の仕事の紹介に使えます。",
-      "alt": "ヘルメットと軍手のイラスト。",
-      "tags": [
-        "ヘルメット",
-        "軍手",
-        "安全"
-      ]
-    },
-    {
-      "id": "chousashi-van",
-      "src": "generated_chousashi_2026-09/riko_B16_van.png",
-      "author": "riko",
-      "title": "測量の車",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "測量の車のイラストです。",
-      "howto": "現地へ向かう段の説明に使えます。",
-      "alt": "測量の車のイラスト。",
-      "tags": [
-        "車",
-        "移動",
-        "道具"
-      ]
-    },
-    {
-      "id": "chousashi-pc-cad",
-      "src": "generated_chousashi_2026-09/riko_C01_pc_cad.png",
-      "author": "riko",
-      "title": "図面をかくパソコン",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "図面をかくパソコンのイラストです。",
-      "howto": "測ったあとに図面を作る段の説明に使えます。",
-      "alt": "図面をかくパソコンのイラスト。",
-      "tags": [
-        "CAD",
-        "図面",
-        "パソコン"
-      ]
-    },
-    {
-      "id": "chousashi-printer",
-      "src": "generated_chousashi_2026-09/riko_C02_printer.png",
-      "author": "riko",
-      "title": "大きな図面のプリンター",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "大きな図面のプリンターのイラストです。",
-      "howto": "図面を出す段の説明に使えます。",
-      "alt": "大きな図面のプリンターのイラスト。",
-      "tags": [
-        "プリンター",
-        "図面"
-      ]
-    },
-    {
-      "id": "chousashi-tana",
-      "src": "generated_chousashi_2026-09/riko_C03_tana.png",
-      "author": "riko",
-      "title": "案件のファイルの棚",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "案件のファイルの棚のイラストです。",
-      "howto": "書類の保管の説明や、事務所の紹介に使えます。",
-      "alt": "案件のファイルの棚のイラスト。",
-      "tags": [
-        "ファイル",
-        "保管",
-        "事務所"
-      ]
-    },
-    {
-      "id": "chousashi-fuutou",
-      "src": "generated_chousashi_2026-09/riko_C04_fuutou.png",
-      "author": "riko",
-      "title": "手紙と封筒",
-      "shikaku": [
-        "共通",
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "手紙と封筒のイラストです。",
-      "howto": "立会いのお願いの手紙や、書類を送る段の説明に使えます。",
-      "alt": "手紙と封筒のイラスト。",
-      "tags": [
-        "封筒",
-        "手紙",
-        "立会いのお願い"
-      ]
-    },
-    {
-      "id": "chousashi-inkan",
-      "src": "generated_chousashi_2026-09/riko_C05_inkan.png",
-      "author": "riko",
-      "title": "印鑑と朱肉",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "書類",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "印鑑と朱肉のイラストです。",
-      "howto": "書類に押印していただく段の説明に使えます。",
-      "alt": "印鑑と朱肉のイラスト。",
-      "tags": [
-        "印鑑",
-        "押印",
-        "書類"
-      ]
-    },
-    {
-      "id": "chousashi-dentaku",
-      "src": "generated_chousashi_2026-09/riko_C06_dentaku.png",
-      "author": "riko",
-      "title": "電卓",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "見積もり",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "電卓のイラストです。",
-      "howto": "見積もりの説明に使えます。",
-      "alt": "電卓のイラスト。",
-      "tags": [
-        "電卓",
-        "見積もり"
-      ]
-    },
-    {
-      "id": "chousashi-smartphone",
-      "src": "generated_chousashi_2026-09/riko_C07_smartphone.png",
-      "author": "riko",
-      "title": "スマホで写真を撮る",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "スマホで写真を撮るのイラストです。",
-      "howto": "現地で写真を残す段の説明に使えます。",
-      "alt": "スマホで写真を撮るのイラスト。",
-      "tags": [
-        "スマホ",
-        "写真",
-        "記録"
-      ]
-    },
-    {
-      "id": "chousashi-denwa",
-      "src": "generated_chousashi_2026-09/riko_C08_denwa.png",
-      "author": "riko",
-      "title": "事務所の電話",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "事務所の電話のイラストです。",
-      "howto": "「まずはお電話で」の案内に使えます。",
-      "alt": "事務所の電話のイラスト。",
-      "tags": [
-        "電話",
-        "相談",
-        "連絡"
-      ]
-    },
-    {
-      "id": "chousashi-calendar",
-      "src": "generated_chousashi_2026-09/riko_C09_calendar.png",
-      "author": "riko",
-      "title": "カレンダー",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "カレンダーのイラストです。",
-      "howto": "日程の調整や、期限の説明に使えます。",
-      "alt": "カレンダーのイラスト。",
-      "tags": [
-        "カレンダー",
-        "日程",
-        "期限"
-      ]
-    },
-    {
-      "id": "chousashi-whiteboard",
-      "src": "generated_chousashi_2026-09/riko_C10_whiteboard.png",
-      "author": "riko",
-      "title": "ホワイトボード",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ホワイトボードのイラストです。",
-      "howto": "事務所の中での共有の説明に使えます。",
-      "alt": "ホワイトボードのイラスト。",
-      "tags": [
-        "ホワイトボード",
-        "共有"
-      ]
-    },
-    {
-      "id": "chousashi-clipboard",
-      "src": "generated_chousashi_2026-09/riko_C11_clipboard.png",
-      "author": "riko",
-      "title": "クリップボード",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "クリップボードのイラストです。",
-      "howto": "記録や確認の段の説明に使えます。",
-      "alt": "クリップボードのイラスト。",
-      "tags": [
-        "クリップボード",
-        "記録"
-      ]
-    },
-    {
-      "id": "chousashi-post",
-      "src": "generated_chousashi_2026-09/riko_C12_post.png",
-      "author": "riko",
-      "title": "郵便ポスト",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "書類",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "郵便ポストのイラストです。",
-      "howto": "書類を郵送する段の説明に使えます。",
-      "alt": "郵便ポストのイラスト。",
-      "tags": [
-        "ポスト",
-        "郵送"
-      ]
-    },
-    {
-      "id": "chousashi-kouzu",
-      "src": "generated_chousashi_2026-09/riko_D01_kouzu.png",
-      "author": "riko",
-      "title": "公図",
-      "shikaku": [
-        "土地家屋調査士",
-        "司法書士"
-      ],
-      "dankai": "調査",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "公図の形を、字を入れずに描いたイラストです。",
-      "howto": "法務局で資料を集める段の説明に使えます。",
-      "alt": "公図の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "公図",
-        "地図",
-        "法務局"
-      ]
-    },
-    {
-      "id": "chousashi-chiseki",
-      "src": "generated_chousashi_2026-09/riko_D02_chiseki.png",
-      "author": "riko",
-      "title": "地積測量図",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "地積測量図の形を、字を入れずに描いたイラストです。",
-      "howto": "土地の面積を示す図面の説明に使えます。",
-      "alt": "地積測量図の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "地積測量図",
-        "図面",
-        "面積"
-      ]
-    },
-    {
-      "id": "chousashi-tatemono-zumen",
-      "src": "generated_chousashi_2026-09/riko_D03_tatemono_zumen.png",
-      "author": "riko",
-      "title": "建物図面",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "建物図面の形を、字を入れずに描いたイラストです。",
-      "howto": "建物の登記に使う図面の説明に使えます。",
-      "alt": "建物図面の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "建物図面",
-        "平面図",
-        "新築"
-      ]
-    },
-    {
-      "id": "chousashi-kakunin-sho",
-      "src": "generated_chousashi_2026-09/riko_D05_kakunin_sho.png",
-      "author": "riko",
-      "title": "筆界確認書",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "筆界確認書の形を、字を入れずに描いたイラストです。",
-      "howto": "となりの方と境界を確かめたあとの書類の説明に使えます。",
-      "alt": "筆界確認書の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "筆界確認書",
-        "境界",
-        "署名"
-      ]
-    },
-    {
-      "id": "chousashi-mitsumori",
-      "src": "generated_chousashi_2026-09/riko_D06_mitsumori.png",
-      "author": "riko",
-      "title": "見積書",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "見積もり",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "見積書の形を、字を入れずに描いたイラストです。",
-      "howto": "「費用について」の説明に使えます。",
-      "alt": "見積書の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "見積書",
-        "費用"
-      ]
-    },
-    {
-      "id": "chousashi-kanryo",
-      "src": "generated_chousashi_2026-09/riko_D07_kanryo.png",
-      "author": "riko",
-      "title": "完了の書類",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "完了",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "完了の書類の形を、字を入れずに描いたイラストです。",
-      "howto": "手続きが終わったあとにお渡しする書類の説明に使えます。",
-      "alt": "完了の書類の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "完了",
-        "お渡し",
-        "書類"
-      ]
-    },
-    {
-      "id": "chousashi-online",
-      "src": "generated_chousashi_2026-09/riko_D08_online.png",
-      "author": "riko",
-      "title": "オンライン申請",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "申請",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "オンライン申請の形を、字を入れずに描いたイラストです。",
-      "howto": "インターネットで申請する段の説明に使えます。",
-      "alt": "オンライン申請の形を、字を入れずに描いたイラスト。",
-      "tags": [
-        "オンライン申請",
-        "パソコン",
-        "申請"
-      ]
-    },
-    {
-      "id": "chousashi-houmukyoku",
-      "src": "generated_chousashi_2026-09/riko_E01_houmukyoku.png",
-      "author": "riko",
-      "title": "法務局（役所の建物）",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "申請",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "法務局（役所の建物）のイラストです。",
-      "howto": "法務局で資料を取る、申請する段の説明に使えます。",
-      "alt": "法務局（役所の建物）のイラスト。",
-      "tags": [
-        "法務局",
-        "役所",
-        "建物"
-      ]
-    },
-    {
-      "id": "chousashi-shiyakusho",
-      "src": "generated_chousashi_2026-09/riko_E02_shiyakusho.png",
-      "author": "riko",
-      "title": "市役所",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "調査",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "市役所のイラストです。",
-      "howto": "役所で道路や水路の資料を調べる段の説明に使えます。",
-      "alt": "市役所のイラスト。",
-      "tags": [
-        "市役所",
-        "役所",
-        "建物"
-      ]
-    },
-    {
-      "id": "chousashi-jimusho",
-      "src": "generated_chousashi_2026-09/riko_E03_jimusho.png",
-      "author": "riko",
-      "title": "事務所の外観",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "事務所の外観のイラストです。",
-      "howto": "事務所の案内や、アクセスのページに使えます。",
-      "alt": "事務所の外観のイラスト。",
-      "tags": [
-        "事務所",
-        "外観",
-        "建物"
-      ]
-    },
-    {
-      "id": "chousashi-shinchiku",
-      "src": "generated_chousashi_2026-09/riko_E04_shinchiku.png",
-      "author": "riko",
-      "title": "建ったばかりの家",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "見積もり",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "建ったばかりの家のイラストです。",
-      "howto": "新築の建物の登記（建物表題登記）の説明に使えます。",
-      "alt": "建ったばかりの家のイラスト。",
-      "tags": [
-        "新築",
-        "家",
-        "建物表題登記"
-      ]
-    },
-    {
-      "id": "chousashi-akiya",
-      "src": "generated_chousashi_2026-09/riko_E05_akiya.png",
-      "author": "riko",
-      "title": "空き家",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "空き家のイラストです。",
-      "howto": "空き家の相談や、実家の話の入口に使えます。",
-      "alt": "空き家のイラスト。",
-      "tags": [
-        "空き家",
-        "実家",
-        "家"
-      ]
-    },
-    {
-      "id": "chousashi-kaitai-chu",
-      "src": "generated_chousashi_2026-09/riko_E06_kaitai_chu.png",
-      "author": "riko",
-      "title": "解体中の古い家",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "解体中の古い家のイラストです。",
-      "howto": "建物を取り壊したあとの登記（建物滅失登記）の説明に使えます。",
-      "alt": "解体中の古い家のイラスト。",
-      "tags": [
-        "解体",
-        "取り壊し",
-        "建物滅失登記"
-      ]
-    },
-    {
-      "id": "chousashi-akichi",
-      "src": "generated_chousashi_2026-09/riko_E07_akichi.png",
-      "author": "riko",
-      "title": "分ける前の空き地",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "調査",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "分ける前の空き地のイラストです。",
-      "howto": "土地を分ける（分筆）や、境界を確かめる前の説明に使えます。",
-      "alt": "分ける前の空き地のイラスト。",
-      "tags": [
-        "空き地",
-        "土地",
-        "分筆"
-      ]
-    },
-    {
-      "id": "chousashi-douro",
-      "src": "generated_chousashi_2026-09/riko_E08_douro.png",
-      "author": "riko",
-      "title": "道路と側溝",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "道路と側溝のイラストです。",
-      "howto": "道路との境（官民の境）の説明に使えます。",
-      "alt": "道路と側溝のイラスト。",
-      "tags": [
-        "道路",
-        "側溝",
-        "官民"
-      ]
-    },
-    {
-      "id": "chousashi-suiro",
-      "src": "generated_chousashi_2026-09/riko_E09_suiro.png",
-      "author": "riko",
-      "title": "水路",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "水路のイラストです。",
-      "howto": "水路との境の説明に使えます。",
-      "alt": "水路のイラスト。",
-      "tags": [
-        "水路",
-        "官民",
-        "境界"
-      ]
-    },
-    {
-      "id": "chousashi-hatake",
-      "src": "generated_chousashi_2026-09/riko_E10_hatake.png",
-      "author": "riko",
-      "title": "畑",
-      "shikaku": [
-        "土地家屋調査士",
-        "行政書士"
-      ],
-      "dankai": "相談",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "畑のイラストです。",
-      "howto": "農地の地目の変更や、畑の相続の説明に使えます。",
-      "alt": "畑のイラスト。",
-      "tags": [
-        "畑",
-        "農地",
-        "地目"
-      ]
-    },
-    {
-      "id": "chousashi-yamarin",
-      "src": "generated_chousashi_2026-09/riko_E12_yamarin.png",
-      "author": "riko",
-      "title": "山林",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "山林のイラストです。",
-      "howto": "山林の相続や境界の説明に使えます。",
-      "alt": "山林のイラスト。",
-      "tags": [
-        "山林",
-        "山",
-        "相続"
-      ]
-    },
-    {
-      "id": "chousashi-soudan-denwa",
-      "src": "generated_chousashi_2026-09/riko_F01_soudan_denwa.png",
-      "author": "riko",
-      "title": "電話で相談を受ける",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "電話で相談を受けるところを描いたイラストです。",
-      "howto": "「まずはお電話で」の案内や、ご依頼の流れの最初の段に使えます。",
-      "alt": "電話で相談を受けるところを描いたイラスト。",
-      "tags": [
-        "電話",
-        "相談",
-        "受付"
-      ]
-    },
-    {
-      "id": "chousashi-mitsumori-setsumei",
-      "src": "generated_chousashi_2026-09/riko_F03_mitsumori_setsumei.png",
-      "author": "riko",
-      "title": "見積もりを説明する",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "見積もり",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "見積もりを説明するところを描いたイラストです。",
-      "howto": "「費用について」の説明に使えます。",
-      "alt": "見積もりを説明するところを描いたイラスト。",
-      "tags": [
-        "見積もり",
-        "説明",
-        "費用"
-      ]
-    },
-    {
-      "id": "chousashi-shiryo-houmukyoku",
-      "src": "generated_chousashi_2026-09/riko_F04_shiryo_houmukyoku.png",
-      "author": "riko",
-      "title": "法務局で資料を受け取る",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "調査",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "法務局で資料を受け取るところを描いたイラストです。",
-      "howto": "法務局で資料を集める段の説明に使えます。",
-      "alt": "法務局で資料を受け取るところを描いたイラスト。",
-      "tags": [
-        "法務局",
-        "資料",
-        "窓口"
-      ]
-    },
-    {
-      "id": "chousashi-kui-sagasu",
-      "src": "generated_chousashi_2026-09/riko_F05_kui_sagasu.png",
-      "author": "riko",
-      "title": "境界標を探す",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "境界標を探すところを描いたイラストです。",
-      "howto": "現地で境界標を探す段の説明に使えます。",
-      "alt": "境界標を探すところを描いたイラスト。",
-      "tags": [
-        "境界標",
-        "現地調査",
-        "探す"
-      ]
-    },
-    {
-      "id": "chousashi-pole-tateru",
-      "src": "generated_chousashi_2026-09/riko_F07_pole_tateru.png",
-      "author": "riko",
-      "title": "補助者がポールを立てる",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "補助者がポールを立てるところを描いたイラストです。",
-      "howto": "測量の段や、採用のページで補助者の仕事の説明に使えます。",
-      "alt": "補助者がポールを立てるところを描いたイラスト。",
-      "tags": [
-        "ピンポール",
-        "補助者",
-        "測量"
-      ]
-    },
-    {
-      "id": "chousashi-gnss-kansoku",
-      "src": "generated_chousashi_2026-09/riko_F08_gnss_kansoku_v2.png",
-      "author": "riko",
-      "title": "GNSSで観測する",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "GNSSで観測するところを描いたイラストです。",
-      "howto": "衛星を使った測量の説明に使えます。",
-      "alt": "GNSSで観測するところを描いたイラスト。",
-      "tags": [
-        "GNSS",
-        "測量",
-        "観測"
-      ]
-    },
-    {
-      "id": "chousashi-shashin",
-      "src": "generated_chousashi_2026-09/riko_F09_shashin.png",
-      "author": "riko",
-      "title": "境界標の写真を撮る",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "境界標の写真を撮るところを描いたイラストです。",
-      "howto": "現地で記録を残す段の説明に使えます。",
-      "alt": "境界標の写真を撮るところを描いたイラスト。",
-      "tags": [
-        "写真",
-        "境界標",
-        "記録"
-      ]
-    },
-    {
-      "id": "chousashi-tachiai-kanmin",
-      "src": "generated_chousashi_2026-09/riko_F12_tachiai_kanmin.png",
-      "author": "riko",
-      "title": "役所の方と道路の境を確かめる",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "役所の方と道路の境を確かめるところを描いたイラストです。",
-      "howto": "道路との境を確かめる立会い（官民の立会い）の説明に使えます。",
-      "alt": "役所の方と道路の境を確かめるところを描いたイラスト。",
-      "tags": [
-        "立会い",
-        "官民",
-        "道路"
-      ]
-    },
-    {
-      "id": "chousashi-kui-secchi",
-      "src": "generated_chousashi_2026-09/riko_F13_kui_secchi.png",
-      "author": "riko",
-      "title": "境界標を入れる",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "境界標を入れるところを描いたイラストです。",
-      "howto": "境界が決まったあとに境界標を入れる段の説明に使えます。",
-      "alt": "境界標を入れるところを描いたイラスト。",
-      "tags": [
-        "境界標",
-        "設置",
-        "境界"
-      ]
-    },
-    {
-      "id": "chousashi-cad",
-      "src": "generated_chousashi_2026-09/riko_F14_cad.png",
-      "author": "riko",
-      "title": "事務所で図面をかく",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "事務所で図面をかくところを描いたイラストです。",
-      "howto": "測ったあとに事務所で図面を作る段の説明に使えます。",
-      "alt": "事務所で図面をかくところを描いたイラスト。",
-      "tags": [
-        "CAD",
-        "図面",
-        "事務所"
-      ]
-    },
-    {
-      "id": "chousashi-zumen-check",
-      "src": "generated_chousashi_2026-09/riko_F15_zumen_check.png",
-      "author": "riko",
-      "title": "二人で図面を確かめる",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "二人で図面を確かめるところを描いたイラストです。",
-      "howto": "図面を出す前に確かめる段の説明に使えます。",
-      "alt": "二人で図面を確かめるところを描いたイラスト。",
-      "tags": [
-        "図面",
-        "確認",
-        "チェック"
-      ]
-    },
-    {
-      "id": "chousashi-yuusou",
-      "src": "generated_chousashi_2026-09/riko_F17_yuusou.png",
-      "author": "riko",
-      "title": "書類を郵送する",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "書類",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "書類を郵送するところを描いたイラストです。",
-      "howto": "書類をお送りする段の説明に使えます。",
-      "alt": "書類を郵送するところを描いたイラスト。",
-      "tags": [
-        "郵送",
-        "ポスト",
-        "書類"
-      ]
-    },
-    {
-      "id": "chousashi-online-shinsei",
-      "src": "generated_chousashi_2026-09/riko_F18_online_shinsei.png",
-      "author": "riko",
-      "title": "パソコンで登記を申請する",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "申請",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "パソコンで登記を申請するところを描いたイラストです。",
-      "howto": "オンラインで申請する段の説明に使えます。",
-      "alt": "パソコンで登記を申請するところを描いたイラスト。",
-      "tags": [
-        "オンライン申請",
-        "パソコン",
-        "登記"
-      ]
-    },
-    {
-      "id": "chousashi-hosei-denwa",
-      "src": "generated_chousashi_2026-09/riko_F19_hosei_denwa.png",
-      "author": "riko",
-      "title": "法務局からの電話に答える",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "申請",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "法務局からの電話に答えるところを描いたイラストです。",
-      "howto": "申請のあとに法務局とやりとりする段の説明に使えます。",
-      "alt": "法務局からの電話に答えるところを描いたイラスト。",
-      "tags": [
-        "電話",
-        "法務局",
-        "申請のあと"
-      ]
-    },
-    {
-      "id": "chousashi-housemaker-genba",
-      "src": "generated_chousashi_2026-09/riko_F22_housemaker_genba.png",
-      "author": "riko",
-      "title": "新しい家の前でハウスメーカーと話す",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "新しい家の前でハウスメーカーと話すところを描いたイラストです。",
-      "howto": "新築の建物の登記の流れの説明に使えます。",
-      "alt": "新しい家の前でハウスメーカーと話すところを描いたイラスト。",
-      "tags": [
-        "新築",
-        "ハウスメーカー",
-        "建物表題登記"
-      ]
-    },
-    {
-      "id": "chousashi-ame",
-      "src": "generated_chousashi_2026-09/riko_F24_ame.png",
-      "author": "riko",
-      "title": "雨の日の事務所",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "その後",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "雨の日の事務所ところを描いたイラストです。",
-      "howto": "天気で現地の作業を延ばすことがある、という説明に使えます。",
-      "alt": "雨の日の事務所ところを描いたイラスト。",
-      "tags": [
-        "雨",
-        "日程",
-        "延期"
-      ]
-    },
-    {
-      "id": "chousashi-asa-uchiawase",
-      "src": "generated_chousashi_2026-09/riko_F26_asa_uchiawase.png",
-      "author": "riko",
-      "title": "朝の打合せ",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "朝の打合せところを描いたイラストです。",
-      "howto": "事務所の一日や、採用のページで使えます。",
-      "alt": "朝の打合せところを描いたイラスト。",
-      "tags": [
-        "打合せ",
-        "朝",
-        "チーム"
-      ]
-    },
-    {
-      "id": "chousashi-idou",
-      "src": "generated_chousashi_2026-09/riko_F29_idou.png",
-      "author": "riko",
-      "title": "現場へ車で向かう",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "現場へ車で向かうところを描いたイラストです。",
-      "howto": "現地へ向かう段の説明に使えます。",
-      "alt": "現場へ車で向かうところを描いたイラスト。",
-      "tags": [
-        "移動",
-        "車",
-        "現地"
-      ]
-    },
-    {
-      "id": "chousashi-kukaku-ue",
-      "src": "generated_chousashi_2026-09/riko_G01_kukaku_ue.png",
-      "author": "riko",
-      "title": "上から見た2つの土地と境界",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "上から見た2つの土地と境界のイラストです。",
-      "howto": "「境界とは」の図解の部品として使えます。",
-      "alt": "上から見た2つの土地と境界のイラスト。",
-      "tags": [
-        "境界",
-        "区画",
-        "図解"
-      ]
-    },
-    {
-      "id": "chousashi-bunpitsu",
-      "src": "generated_chousashi_2026-09/riko_G02_bunpitsu.png",
-      "author": "riko",
-      "title": "1つの土地を2つに分ける",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "申請",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "1つの土地を2つに分けるのイラストです。",
-      "howto": "分筆（土地を分ける登記）の図解の部品として使えます。",
-      "alt": "1つの土地を2つに分けるのイラスト。",
-      "tags": [
-        "分筆",
-        "土地を分ける",
-        "図解"
-      ]
-    },
-    {
-      "id": "chousashi-hei-zure",
-      "src": "generated_chousashi_2026-09/riko_G04_hei_zure.png",
-      "author": "riko",
-      "title": "塀と本当の境のずれ",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "塀と本当の境のずれのイラストです。",
-      "howto": "塀の位置と境界がずれていることがある、という説明に使えます。",
-      "alt": "塀と本当の境のずれのイラスト。",
-      "tags": [
-        "境界",
-        "塀",
-        "ずれ"
-      ]
-    },
-    {
-      "id": "chousashi-mushimegane",
-      "src": "generated_chousashi_2026-09/riko_G05_mushimegane.png",
-      "author": "riko",
-      "title": "地図と虫めがね",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "調査",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "地図と虫めがねのイラストです。",
-      "howto": "資料を調べる段の図解の部品として使えます。",
-      "alt": "地図と虫めがねのイラスト。",
-      "tags": [
-        "調べる",
-        "地図",
-        "虫めがね"
-      ]
-    },
-    {
-      "id": "chousashi-tokei",
-      "src": "generated_chousashi_2026-09/riko_G06_tokei.png",
-      "author": "riko",
-      "title": "時計と砂時計",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "時計と砂時計のイラストです。",
-      "howto": "かかる期間や、待つ時間の説明に使えます。",
-      "alt": "時計と砂時計のイラスト。",
-      "tags": [
-        "期間",
-        "時間",
-        "待つ"
-      ]
-    },
-    {
-      "id": "chousashi-goui",
-      "src": "generated_chousashi_2026-09/riko_G07_goui.png",
-      "author": "riko",
-      "title": "書類を前に話がまとまる",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "完了",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "書類を前に話がまとまるのイラストです。",
-      "howto": "話し合いがまとまった段の説明に使えます。",
-      "alt": "書類を前に話がまとまるのイラスト。",
-      "tags": [
-        "合意",
-        "話し合い",
-        "書類"
-      ]
-    },
-    {
-      "id": "chousashi-ie-kazoku",
-      "src": "generated_chousashi_2026-09/riko_G08_ie_kazoku.png",
-      "author": "riko",
-      "title": "家と家族",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "家と家族のイラストです。",
-      "howto": "相続や実家の話の入口の図解に使えます。",
-      "alt": "家と家族のイラスト。",
-      "tags": [
-        "家族",
-        "家",
-        "相続"
-      ]
-    },
-    {
-      "id": "chousashi-tenbin",
-      "src": "generated_chousashi_2026-09/riko_G09_tenbin.png",
-      "author": "riko",
-      "title": "家と書類のてんびん",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "家と書類のてんびんのイラストです。",
-      "howto": "見比べて決める、という説明に使えます。",
-      "alt": "家と書類のてんびんのイラスト。",
-      "tags": [
-        "くらべる",
-        "てんびん",
-        "判断"
-      ]
-    },
-    {
-      "id": "chousashi-kagi",
-      "src": "generated_chousashi_2026-09/riko_G10_kagi.png",
-      "author": "riko",
-      "title": "大事な書類を守る",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "大事な書類を守るのイラストです。",
-      "howto": "書類や個人の情報を大切に扱う、という説明に使えます。",
-      "alt": "大事な書類を守るのイラスト。",
-      "tags": [
-        "個人情報",
-        "保管",
-        "かぎ"
-      ]
-    },
-    {
-      "id": "kyoutsu-desk-pc",
-      "src": "generated_chousashi_2026-09/riko_K13_desk_pc.png",
-      "author": "riko",
-      "title": "パソコンで仕事をする専門家",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "書類",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "パソコンで仕事をする専門家ところを描いたイラストです。",
-      "howto": "事務所の紹介や、採用のページに使えます。",
-      "alt": "パソコンで仕事をする専門家ところを描いたイラスト。",
-      "tags": [
-        "パソコン",
-        "事務所",
-        "仕事"
-      ]
-    },
-    {
-      "id": "kyoutsu-renkei-kaigi",
-      "src": "generated_chousashi_2026-09/riko_K14_renkei_kaigi.png",
-      "author": "riko",
-      "title": "専門家どうしの打合せ",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "専門家どうしの打合せところを描いたイラストです。",
-      "howto": "ほかの士業と組んで対応する、という説明に使えます。",
-      "alt": "専門家どうしの打合せところを描いたイラスト。",
-      "tags": [
-        "連携",
-        "打合せ",
-        "士業"
-      ]
-    },
-    {
-      "id": "kyoutsu-seido-setsumei",
-      "src": "generated_chousashi_2026-09/riko_K16_seido_setsumei.png",
-      "author": "riko",
-      "title": "制度を説明する",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "制度を説明するところを描いたイラストです。",
-      "howto": "制度の変わり目の説明会や、解説の記事に使えます。",
-      "alt": "制度を説明するところを描いたイラスト。",
-      "tags": [
-        "制度",
-        "説明",
-        "ホワイトボード"
-      ]
-    },
-    {
-      "id": "kyoutsu-yuubin",
-      "src": "generated_chousashi_2026-09/riko_K19_yuubin.png",
-      "author": "riko",
-      "title": "郵便受けから封筒を取る",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "完了",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "郵便受けから封筒を取るところを描いたイラストです。",
-      "howto": "書類が届く段の説明に使えます。",
-      "alt": "郵便受けから封筒を取るところを描いたイラスト。",
-      "tags": [
-        "郵便",
-        "封筒",
-        "届く"
-      ]
-    },
-    {
-      "id": "chousashi-wakai-kazoku",
-      "src": "generated_chousashi_2026-09/riko_A13_wakai_kazoku.png",
-      "author": "riko",
-      "title": "小さな子どもを連れた若い夫婦",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "小さな子どもを連れた若い夫婦のイラストです。",
-      "howto": "家を建てた方、家を買った方への案内に使えます。",
-      "alt": "小さな子どもを連れた若い夫婦のイラスト。",
-      "tags": [
-        "家族",
-        "子ども",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-shomei-sen",
-      "src": "generated_chousashi_2026-09/mitoma_F16_shomei.png",
-      "author": "mitoma",
-      "title": "確認書に署名していただく",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "確認書に署名していただくところを描いたイラストです。",
-      "howto": "となりの方に筆界確認書へ署名していただく段の説明に使えます。",
-      "alt": "確認書に署名していただくところを描いたイラスト。",
-      "tags": [
-        "署名",
-        "筆界確認書",
-        "となりの方"
-      ]
-    },
-    {
-      "id": "chousashi-matsu-sen",
-      "src": "generated_chousashi_2026-09/mitoma_F30_matsu.png",
-      "author": "mitoma",
-      "title": "返事を待つ",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "その後",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "返事を待つところを描いたイラストです。",
-      "howto": "返事を待つ時間がある、という説明に使えます。",
-      "alt": "返事を待つところを描いたイラスト。",
-      "tags": [
-        "待つ",
-        "手紙",
-        "期間"
-      ]
-    },
-    {
-      "id": "kyoutsu-denwa-soudan-sen",
-      "src": "generated_chousashi_2026-09/mitoma_K04_denwa_soudan.png",
-      "author": "mitoma",
-      "title": "電話で相談を受ける",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "電話で相談を受けるところを描いたイラストです。",
-      "howto": "「まずはお電話で」の案内に使えます。",
-      "alt": "電話で相談を受けるところを描いたイラスト。",
-      "tags": [
-        "電話",
-        "相談"
-      ]
-    },
-    {
-      "id": "kyoutsu-hiyou-setsumei-sen",
-      "src": "generated_chousashi_2026-09/mitoma_K08_hiyou_setsumei.png",
-      "author": "mitoma",
-      "title": "費用を説明する",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "見積もり",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "費用を説明するところを描いたイラストです。",
-      "howto": "「費用について」の説明に使えます。",
-      "alt": "費用を説明するところを描いたイラスト。",
-      "tags": [
-        "費用",
-        "見積書",
-        "説明"
-      ]
-    },
-    {
-      "id": "kyoutsu-uketsuke-sen",
-      "src": "generated_chousashi_2026-09/mitoma_K12_uketsuke.png",
-      "author": "mitoma",
-      "title": "事務所の受付",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "事務所の受付のイラストです。",
-      "howto": "事務所の案内や、はじめて来られる方への説明に使えます。",
-      "alt": "事務所の受付のイラスト。",
-      "tags": [
-        "受付",
-        "事務所",
-        "待合"
-      ]
-    },
-    {
-      "id": "chousashi-irai-fufu",
-      "src": "generated_chousashi_2026-09/riko_A04_irai_fufu_v2.png",
-      "author": "riko",
-      "title": "依頼する高齢のご夫婦",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "依頼する高齢のご夫婦のイラストです。",
-      "howto": "相続や実家の相談の案内に使えます。",
-      "alt": "依頼する高齢のご夫婦のイラスト。",
-      "tags": [
-        "ご夫婦",
-        "高齢の方",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-irai-kazoku",
-      "src": "generated_chousashi_2026-09/riko_A05_irai_kazoku_v2.png",
-      "author": "riko",
-      "title": "依頼する親子",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "依頼する親子のイラストです。",
-      "howto": "親と子どもがいっしょに相談に来る場面の案内に使えます。",
-      "alt": "依頼する親子のイラスト。",
-      "tags": [
-        "親子",
-        "家族",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-rinchi",
-      "src": "generated_chousashi_2026-09/riko_A08_rinchi_v2.png",
-      "author": "riko",
-      "title": "となりの土地の方",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "となりの土地の方のイラストです。",
-      "howto": "境界の立会いをお願いする相手の説明に使えます。",
-      "alt": "となりの土地の方のイラスト。",
-      "tags": [
-        "となりの方",
-        "立会い",
-        "隣地"
-      ]
-    },
-    {
-      "id": "chousashi-kaitai",
-      "src": "generated_chousashi_2026-09/riko_A11_kaitai_v2.png",
-      "author": "riko",
-      "title": "解体業者の方",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "解体業者の方のイラストです。",
-      "howto": "建物を取り壊したあとの登記の説明に使えます。",
-      "alt": "解体業者の方のイラスト。",
-      "tags": [
-        "解体",
-        "業者",
-        "建物滅失登記"
-      ]
-    },
-    {
-      "id": "chousashi-fudosan",
-      "src": "generated_chousashi_2026-09/riko_A12_fudosan_v2.png",
-      "author": "riko",
-      "title": "不動産会社の担当の方",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "見積もり",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "不動産会社の担当の方のイラストです。",
-      "howto": "売買や分筆の相談の入口の説明に使えます。",
-      "alt": "不動産会社の担当の方のイラスト。",
-      "tags": [
-        "不動産",
-        "担当者",
-        "人物"
-      ]
-    },
-    {
-      "id": "chousashi-plate",
-      "src": "generated_chousashi_2026-09/riko_B07_plate_v2.png",
-      "author": "riko",
-      "title": "金属プレートの境界標",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "金属プレートの境界標のイラストです。",
-      "howto": "「境界標とは」の説明に使えます。",
-      "alt": "金属プレートの境界標のイラスト。",
-      "tags": [
-        "境界標",
-        "プレート",
-        "境界"
-      ]
-    },
-    {
-      "id": "chousashi-kokuban",
-      "src": "generated_chousashi_2026-09/riko_B11_kokuban_v2.png",
-      "author": "riko",
-      "title": "現場の写真の黒板",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "道具",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "現場の写真の黒板のイラストです。",
-      "howto": "現地で記録の写真を撮る段の説明に使えます。",
-      "alt": "現場の写真の黒板のイラスト。",
-      "tags": [
-        "黒板",
-        "写真",
-        "記録"
-      ]
-    },
-    {
-      "id": "chousashi-shorui-taba",
-      "src": "generated_chousashi_2026-09/riko_D04_shorui_taba_v2.png",
-      "author": "riko",
-      "title": "書類の束",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "書類",
-      "kind": "書類の形",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "書類の束のイラストです。",
-      "howto": "集める書類や、お渡しする書類の説明に使えます。",
-      "alt": "書類の束のイラスト。",
-      "tags": [
-        "書類",
-        "束",
-        "登記"
-      ]
-    },
-    {
-      "id": "chousashi-block",
-      "src": "generated_chousashi_2026-09/riko_E11_block_v2.png",
-      "author": "riko",
-      "title": "ブロック塀と境界標",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場所",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ブロック塀と境界標のイラストです。",
-      "howto": "塀の足元に境界標がある、という説明に使えます。",
-      "alt": "ブロック塀と境界標のイラスト。",
-      "tags": [
-        "ブロック塀",
-        "境界標",
-        "境界"
-      ]
-    },
-    {
-      "id": "chousashi-tatemono-chousa",
-      "src": "generated_chousashi_2026-09/riko_F21_tatemono_chousa_v2.png",
-      "author": "riko",
-      "title": "建物の外まわりを測る",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "建物の外まわりを測るところを描いたイラストです。",
-      "howto": "建物の登記のために建物を測る段の説明に使えます。",
-      "alt": "建物の外まわりを測るところを描いたイラスト。",
-      "tags": [
-        "建物調査",
-        "巻尺",
-        "測る"
-      ]
-    },
-    {
-      "id": "chousashi-kaitai-ato",
-      "src": "generated_chousashi_2026-09/riko_F23_kaitai_ato_v2.png",
-      "author": "riko",
-      "title": "取り壊したあとの土地を確かめる",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "現場",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "取り壊したあとの土地を確かめるところを描いたイラストです。",
-      "howto": "建物を取り壊したあとの登記の説明に使えます。",
-      "alt": "取り壊したあとの土地を確かめるところを描いたイラスト。",
-      "tags": [
-        "解体",
-        "建物滅失登記",
-        "現地"
-      ]
-    },
-    {
-      "id": "chousashi-tatemono-ue",
-      "src": "generated_chousashi_2026-09/riko_G03_tatemono_ue_v2.png",
-      "author": "riko",
-      "title": "上から見た土地と建物",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "書類",
-      "kind": "図解の部品",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "上から見た土地と建物のイラストです。",
-      "howto": "建物の位置を示す図解の部品として使えます。",
-      "alt": "上から見た土地と建物のイラスト。",
-      "tags": [
-        "建物",
-        "土地",
-        "上から見た図"
-      ]
-    },
-    {
-      "id": "chousashi-tanshin-dansei",
-      "src": "generated_chousashi_2026-09/riko_A14_tanshin_dansei_v2.png",
-      "author": "riko",
-      "title": "ひとりで来る30代の男性",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ひとりで来る30代の男性のイラストです。",
-      "howto": "ひとりで相談に来る方への案内に使えます。",
-      "alt": "ひとりで来る30代の男性のイラスト。",
-      "tags": [
-        "依頼者",
-        "ひとり",
-        "男性"
-      ]
-    },
-    {
-      "id": "chousashi-hitorigurashi",
-      "src": "generated_chousashi_2026-09/riko_A15_hitorigurashi_v2.png",
-      "author": "riko",
-      "title": "ひとり暮らしの60代の女性",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ひとり暮らしの60代の女性のイラストです。",
-      "howto": "ひとり暮らしの方への案内に使えます。",
-      "alt": "ひとり暮らしの60代の女性のイラスト。",
-      "tags": [
-        "ひとり暮らし",
-        "高齢の方",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-wakai-josei",
-      "src": "generated_chousashi_2026-09/riko_A16_wakai_josei_v2.png",
-      "author": "riko",
-      "title": "20代の女性",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "20代の女性のイラストです。",
-      "howto": "初めて土地や家を買う方への案内に使えます。",
-      "alt": "20代の女性のイラスト。",
-      "tags": [
-        "若い方",
-        "女性",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-chunen-dansei",
-      "src": "generated_chousashi_2026-09/riko_A17_chunen_dansei_v2.png",
-      "author": "riko",
-      "title": "50代の男性",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "50代の男性のイラストです。",
-      "howto": "親の家のことで相談に来る方への案内に使えます。",
-      "alt": "50代の男性のイラスト。",
-      "tags": [
-        "親の家",
-        "男性",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-senior-dansei",
-      "src": "generated_chousashi_2026-09/riko_A18_senior_dansei_v2.png",
-      "author": "riko",
-      "title": "80代の男性",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "人",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "80代の男性のイラストです。",
-      "howto": "高齢の方への案内に使えます。",
-      "alt": "80代の男性のイラスト。",
-      "tags": [
-        "高齢の方",
-        "男性",
-        "依頼者"
-      ]
-    },
-    {
-      "id": "chousashi-shinchiku-kazoku",
-      "src": "generated_chousashi_2026-09/riko_F31_shinchiku_kazoku_v2.png",
-      "author": "riko",
-      "title": "新しい家の前の若い家族",
-      "shikaku": [
-        "土地家屋調査士"
-      ],
-      "dankai": "完了",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "新しい家の前の若い家族ところを描いたイラストです。",
-      "howto": "建物表題登記の依頼者への説明に使えます。",
-      "alt": "新しい家の前の若い家族ところを描いたイラスト。",
-      "tags": [
-        "新築",
-        "家族",
-        "建物表題登記"
-      ]
-    },
-    {
-      "id": "kyoutsu-kodure-soudan-sen",
-      "src": "generated_chousashi_2026-09/mitoma_K21_kodure_soudan_v2.png",
-      "author": "mitoma",
-      "title": "子どもを連れた夫婦の相談",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "子どもを連れた夫婦の相談ところを描いたイラストです。",
-      "howto": "子ども連れでも相談できる、という案内に使えます。",
-      "alt": "子どもを連れた夫婦の相談ところを描いたイラスト。",
-      "tags": [
-        "子ども連れ",
-        "夫婦",
-        "相談"
-      ]
-    },
-    {
-      "id": "kyoutsu-tanshin-soudan-sen",
-      "src": "generated_chousashi_2026-09/mitoma_K22_tanshin_soudan_v2.png",
-      "author": "mitoma",
-      "title": "ひとりで来た男性の相談",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ひとりで来た男性の相談ところを描いたイラストです。",
-      "howto": "ひとりで相談に来る方への案内に使えます。",
-      "alt": "ひとりで来た男性の相談ところを描いたイラスト。",
-      "tags": [
-        "ひとり",
-        "相談",
-        "男性"
-      ]
-    },
-    {
-      "id": "kyoutsu-hitori-senior-sen",
-      "src": "generated_chousashi_2026-09/mitoma_K23_hitori_senior_v2.png",
-      "author": "mitoma",
-      "title": "ひとりで来た高齢の女性の相談",
-      "shikaku": [
-        "共通"
-      ],
-      "dankai": "相談",
-      "kind": "場面",
-      "uses": [
-        "ホームページ",
-        "説明の紙",
-        "チラシ"
-      ],
-      "description": "ひとりで来た高齢の女性の相談ところを描いたイラストです。",
-      "howto": "高齢の方がひとりで相談に来る場面の案内に使えます。",
-      "alt": "ひとりで来た高齢の女性の相談ところを描いたイラスト。",
-      "tags": [
-        "高齢の方",
-        "ひとり",
-        "相談"
-      ]
-    }
-  ]
+  "riko": {
+   "romaji": "Chihaya"
+  },
+  "sumire": {
+   "romaji": "Nonomiya"
+  }
+ },
+ "assets": [
+  {
+   "id": "chousashi-ts-kansoku",
+   "src": "generated_chousashi_2026-09/riko_F06_ts_kansoku_v2.png",
+   "author": "riko",
+   "title": "トータルステーションで観測する調査士",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "採用"
+   ],
+   "description": "三脚にのせたトータルステーションをのぞいて、土地の角の位置を測っている場面です。",
+   "howto": "「ご依頼の流れ」の測量の段に置くと、現地で何をするのかが伝わります。",
+   "alt": "作業着とヘルメットの男性が、三脚の上の測量の器械をのぞいている。",
+   "tags": [
+    "測量",
+    "トータルステーション",
+    "現地調査",
+    "境界"
+   ]
+  },
+  {
+   "id": "chousashi-kui-concrete",
+   "src": "generated_chousashi_2026-09/riko_B06_kui_concrete_v2.png",
+   "author": "riko",
+   "title": "コンクリートの境界杭（境界標）",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "土地の境目に入れるコンクリートの杭です。左は杭の全体、右は地面に埋まって頭だけが見えている様子です。",
+   "howto": "「境界標とは」の説明や、境界標を入れる段の説明に使えます。",
+   "alt": "四角いコンクリートの杭と、土に埋まって十字の刻みのある頭だけが見えている杭。",
+   "tags": [
+    "境界標",
+    "杭",
+    "境界",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-tachiai",
+   "src": "generated_chousashi_2026-09/sumire_F11_tachiai.png",
+   "author": "sumire",
+   "title": "となりの方と境界を確かめる（立会い）",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ブロック塀の足もとの境界標を、調査士ととなりの土地の方がいっしょに見ている場面です。",
+   "howto": "立会いのお願いの手紙や、境界確定測量の流れの説明に使えます。",
+   "alt": "作業着の男性と年配の女性が、塀の足もとの小さな四角い杭をいっしょに見ている水彩の絵。",
+   "tags": [
+    "立会い",
+    "境界",
+    "となりの方",
+    "境界標"
+   ]
+  },
+  {
+   "id": "kyoutsu-soudan-fufu",
+   "src": "generated_chousashi_2026-09/sumire_F02_soudan.png",
+   "author": "sumire",
+   "title": "事務所でご夫婦に図面を見せて説明する",
+   "shikaku": [
+    "共通",
+    "土地家屋調査士",
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "チラシ",
+    "説明の紙"
+   ],
+   "description": "机をはさんで、年配のご夫婦に土地の図面を見せながら話している場面です。",
+   "howto": "「まずはご相談ください」の段や、相談会の案内に使えます。",
+   "alt": "年配の夫婦が机の向かいの男性から、土地の形を描いた紙の説明を聞いている水彩の絵。",
+   "tags": [
+    "相談",
+    "高齢の方",
+    "家族",
+    "図面"
+   ]
+  },
+  {
+   "id": "chousashi-chousashi",
+   "src": "generated_chousashi_2026-09/riko_A01_chousashi.png",
+   "author": "riko",
+   "title": "土地家屋調査士",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "調査",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "土地家屋調査士の人物のイラストです。",
+   "howto": "「私たちの仕事」や採用のページで、調査士の姿として使えます。",
+   "alt": "土地家屋調査士の人物のイラスト。",
+   "tags": [
+    "調査士",
+    "人物",
+    "作業着"
+   ]
+  },
+  {
+   "id": "chousashi-hojosha",
+   "src": "generated_chousashi_2026-09/riko_A02_hojosha.png",
+   "author": "riko",
+   "title": "測量の補助者",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "測量の補助者の人物のイラストです。",
+   "howto": "採用のページで、補助者の仕事を紹介するときに使えます。",
+   "alt": "測量の補助者の人物のイラスト。",
+   "tags": [
+    "補助者",
+    "採用",
+    "ヘルメット"
+   ]
+  },
+  {
+   "id": "chousashi-jimu",
+   "src": "generated_chousashi_2026-09/riko_A03_jimu.png",
+   "author": "riko",
+   "title": "事務所の事務の方",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所の事務の方の人物のイラストです。",
+   "howto": "事務所の紹介や、受付の案内に使えます。",
+   "alt": "事務所の事務の方の人物のイラスト。",
+   "tags": [
+    "事務",
+    "受付",
+    "人物"
+   ]
+  },
+  {
+   "id": "chousashi-housemaker",
+   "src": "generated_chousashi_2026-09/riko_A06_housemaker.png",
+   "author": "riko",
+   "title": "ハウスメーカーの担当の方",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "見積もり",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ハウスメーカーの担当の方の人物のイラストです。",
+   "howto": "新築の建物の登記の流れで、依頼の入口として使えます。",
+   "alt": "ハウスメーカーの担当の方の人物のイラスト。",
+   "tags": [
+    "ハウスメーカー",
+    "新築",
+    "人物"
+   ]
+  },
+  {
+   "id": "chousashi-shihoshoshi",
+   "src": "generated_chousashi_2026-09/riko_A07_shihoshoshi.png",
+   "author": "riko",
+   "title": "司法書士",
+   "shikaku": [
+    "司法書士",
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "司法書士の人物のイラストです。",
+   "howto": "司法書士と組んで仕事をすることの説明に使えます。",
+   "alt": "司法書士の人物のイラスト。",
+   "tags": [
+    "司法書士",
+    "人物"
+   ]
+  },
+  {
+   "id": "chousashi-yakusho",
+   "src": "generated_chousashi_2026-09/riko_A09_yakusho.png",
+   "author": "riko",
+   "title": "役所の道路の担当の方",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "役所の道路の担当の方の人物のイラストです。",
+   "howto": "道路との境を確かめる立会いの説明に使えます。",
+   "alt": "役所の道路の担当の方の人物のイラスト。",
+   "tags": [
+    "役所",
+    "官民",
+    "立会い"
+   ]
+  },
+  {
+   "id": "chousashi-madoguchi",
+   "src": "generated_chousashi_2026-09/riko_A10_madoguchi.png",
+   "author": "riko",
+   "title": "役所の窓口",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "調査",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "役所の窓口の人物のイラストです。",
+   "howto": "法務局や役所で資料を取る段の説明に使えます。",
+   "alt": "役所の窓口の人物のイラスト。",
+   "tags": [
+    "窓口",
+    "法務局",
+    "役所"
+   ]
+  },
+  {
+   "id": "chousashi-sankyaku",
+   "src": "generated_chousashi_2026-09/riko_B02_sankyaku.png",
+   "author": "riko",
+   "title": "測量の三脚",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "測量の三脚のイラストです。",
+   "howto": "測量の道具の紹介に使えます。",
+   "alt": "測量の三脚のイラスト。",
+   "tags": [
+    "三脚",
+    "測量",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-gnss",
+   "src": "generated_chousashi_2026-09/riko_B04_gnss_v2.png",
+   "author": "riko",
+   "title": "GNSSの受信機",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "GNSSの受信機のイラストです。",
+   "howto": "衛星を使った測量の説明に使えます。",
+   "alt": "GNSSの受信機のイラスト。",
+   "tags": [
+    "GNSS",
+    "測量",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-makijaku",
+   "src": "generated_chousashi_2026-09/riko_B05_makijaku.png",
+   "author": "riko",
+   "title": "測量の巻尺",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "測量の巻尺のイラストです。",
+   "howto": "建物や土地を測る段の説明に使えます。",
+   "alt": "測量の巻尺のイラスト。",
+   "tags": [
+    "巻尺",
+    "測る",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-byou",
+   "src": "generated_chousashi_2026-09/riko_B08_byou.png",
+   "author": "riko",
+   "title": "金属鋲（境界標）",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "金属鋲（境界標）のイラストです。",
+   "howto": "「境界標とは」の説明に使えます。",
+   "alt": "金属鋲（境界標）のイラスト。",
+   "tags": [
+    "境界標",
+    "金属鋲",
+    "境界"
+   ]
+  },
+  {
+   "id": "chousashi-hammer",
+   "src": "generated_chousashi_2026-09/riko_B09_hammer.png",
+   "author": "riko",
+   "title": "ハンマーと木の杭",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ハンマーと木の杭のイラストです。",
+   "howto": "境界標を入れる段の説明に使えます。",
+   "alt": "ハンマーと木の杭のイラスト。",
+   "tags": [
+    "杭",
+    "ハンマー",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-spray",
+   "src": "generated_chousashi_2026-09/riko_B10_spray.png",
+   "author": "riko",
+   "title": "マーキングのスプレー",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "マーキングのスプレーのイラストです。",
+   "howto": "現地で点に印をつける段の説明に使えます。",
+   "alt": "マーキングのスプレーのイラスト。",
+   "tags": [
+    "スプレー",
+    "印",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-yacho",
+   "src": "generated_chousashi_2026-09/riko_B12_yacho.png",
+   "author": "riko",
+   "title": "野帳",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "野帳のイラストです。",
+   "howto": "現地で記録をとる段の説明に使えます。",
+   "alt": "野帳のイラスト。",
+   "tags": [
+    "野帳",
+    "記録",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-scoop",
+   "src": "generated_chousashi_2026-09/riko_B13_scoop.png",
+   "author": "riko",
+   "title": "スコップ",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "スコップのイラストです。",
+   "howto": "埋まった境界標を探す段の説明に使えます。",
+   "alt": "スコップのイラスト。",
+   "tags": [
+    "スコップ",
+    "境界標をさがす",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-cone",
+   "src": "generated_chousashi_2026-09/riko_B14_cone_v2.png",
+   "author": "riko",
+   "title": "三角コーン",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "三角コーンのイラストです。",
+   "howto": "道路ぎわでの作業の説明に使えます。",
+   "alt": "三角コーンのイラスト。",
+   "tags": [
+    "コーン",
+    "安全",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-helmet",
+   "src": "generated_chousashi_2026-09/riko_B15_helmet.png",
+   "author": "riko",
+   "title": "ヘルメットと軍手",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ヘルメットと軍手のイラストです。",
+   "howto": "採用のページで、現場の仕事の紹介に使えます。",
+   "alt": "ヘルメットと軍手のイラスト。",
+   "tags": [
+    "ヘルメット",
+    "軍手",
+    "安全"
+   ]
+  },
+  {
+   "id": "chousashi-van",
+   "src": "generated_chousashi_2026-09/riko_B16_van.png",
+   "author": "riko",
+   "title": "測量の車",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "測量の車のイラストです。",
+   "howto": "現地へ向かう段の説明に使えます。",
+   "alt": "測量の車のイラスト。",
+   "tags": [
+    "車",
+    "移動",
+    "道具"
+   ]
+  },
+  {
+   "id": "chousashi-pc-cad",
+   "src": "generated_chousashi_2026-09/riko_C01_pc_cad.png",
+   "author": "riko",
+   "title": "図面をかくパソコン",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "図面をかくパソコンのイラストです。",
+   "howto": "測ったあとに図面を作る段の説明に使えます。",
+   "alt": "図面をかくパソコンのイラスト。",
+   "tags": [
+    "CAD",
+    "図面",
+    "パソコン"
+   ]
+  },
+  {
+   "id": "chousashi-printer",
+   "src": "generated_chousashi_2026-09/riko_C02_printer.png",
+   "author": "riko",
+   "title": "大きな図面のプリンター",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "大きな図面のプリンターのイラストです。",
+   "howto": "図面を出す段の説明に使えます。",
+   "alt": "大きな図面のプリンターのイラスト。",
+   "tags": [
+    "プリンター",
+    "図面"
+   ]
+  },
+  {
+   "id": "chousashi-tana",
+   "src": "generated_chousashi_2026-09/riko_C03_tana.png",
+   "author": "riko",
+   "title": "案件のファイルの棚",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "案件のファイルの棚のイラストです。",
+   "howto": "書類の保管の説明や、事務所の紹介に使えます。",
+   "alt": "案件のファイルの棚のイラスト。",
+   "tags": [
+    "ファイル",
+    "保管",
+    "事務所"
+   ]
+  },
+  {
+   "id": "chousashi-fuutou",
+   "src": "generated_chousashi_2026-09/riko_C04_fuutou.png",
+   "author": "riko",
+   "title": "手紙と封筒",
+   "shikaku": [
+    "共通",
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "手紙と封筒のイラストです。",
+   "howto": "立会いのお願いの手紙や、書類を送る段の説明に使えます。",
+   "alt": "手紙と封筒のイラスト。",
+   "tags": [
+    "封筒",
+    "手紙",
+    "立会いのお願い"
+   ]
+  },
+  {
+   "id": "chousashi-inkan",
+   "src": "generated_chousashi_2026-09/riko_C05_inkan.png",
+   "author": "riko",
+   "title": "印鑑と朱肉",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "印鑑と朱肉のイラストです。",
+   "howto": "書類に押印していただく段の説明に使えます。",
+   "alt": "印鑑と朱肉のイラスト。",
+   "tags": [
+    "印鑑",
+    "押印",
+    "書類"
+   ]
+  },
+  {
+   "id": "chousashi-dentaku",
+   "src": "generated_chousashi_2026-09/riko_C06_dentaku.png",
+   "author": "riko",
+   "title": "電卓",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "見積もり",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "電卓のイラストです。",
+   "howto": "見積もりの説明に使えます。",
+   "alt": "電卓のイラスト。",
+   "tags": [
+    "電卓",
+    "見積もり"
+   ]
+  },
+  {
+   "id": "chousashi-smartphone",
+   "src": "generated_chousashi_2026-09/riko_C07_smartphone.png",
+   "author": "riko",
+   "title": "スマホで写真を撮る",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "スマホで写真を撮るのイラストです。",
+   "howto": "現地で写真を残す段の説明に使えます。",
+   "alt": "スマホで写真を撮るのイラスト。",
+   "tags": [
+    "スマホ",
+    "写真",
+    "記録"
+   ]
+  },
+  {
+   "id": "chousashi-denwa",
+   "src": "generated_chousashi_2026-09/riko_C08_denwa.png",
+   "author": "riko",
+   "title": "事務所の電話",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所の電話のイラストです。",
+   "howto": "「まずはお電話で」の案内に使えます。",
+   "alt": "事務所の電話のイラスト。",
+   "tags": [
+    "電話",
+    "相談",
+    "連絡"
+   ]
+  },
+  {
+   "id": "chousashi-calendar",
+   "src": "generated_chousashi_2026-09/riko_C09_calendar.png",
+   "author": "riko",
+   "title": "カレンダー",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "カレンダーのイラストです。",
+   "howto": "日程の調整や、期限の説明に使えます。",
+   "alt": "カレンダーのイラスト。",
+   "tags": [
+    "カレンダー",
+    "日程",
+    "期限"
+   ]
+  },
+  {
+   "id": "chousashi-whiteboard",
+   "src": "generated_chousashi_2026-09/riko_C10_whiteboard.png",
+   "author": "riko",
+   "title": "ホワイトボード",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ホワイトボードのイラストです。",
+   "howto": "事務所の中での共有の説明に使えます。",
+   "alt": "ホワイトボードのイラスト。",
+   "tags": [
+    "ホワイトボード",
+    "共有"
+   ]
+  },
+  {
+   "id": "chousashi-clipboard",
+   "src": "generated_chousashi_2026-09/riko_C11_clipboard.png",
+   "author": "riko",
+   "title": "クリップボード",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "クリップボードのイラストです。",
+   "howto": "記録や確認の段の説明に使えます。",
+   "alt": "クリップボードのイラスト。",
+   "tags": [
+    "クリップボード",
+    "記録"
+   ]
+  },
+  {
+   "id": "chousashi-post",
+   "src": "generated_chousashi_2026-09/riko_C12_post.png",
+   "author": "riko",
+   "title": "郵便ポスト",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "郵便ポストのイラストです。",
+   "howto": "書類を郵送する段の説明に使えます。",
+   "alt": "郵便ポストのイラスト。",
+   "tags": [
+    "ポスト",
+    "郵送"
+   ]
+  },
+  {
+   "id": "chousashi-kouzu",
+   "src": "generated_chousashi_2026-09/riko_D01_kouzu.png",
+   "author": "riko",
+   "title": "公図",
+   "shikaku": [
+    "土地家屋調査士",
+    "司法書士"
+   ],
+   "dankai": "調査",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "公図の形を、字を入れずに描いたイラストです。",
+   "howto": "法務局で資料を集める段の説明に使えます。",
+   "alt": "公図の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "公図",
+    "地図",
+    "法務局"
+   ]
+  },
+  {
+   "id": "chousashi-chiseki",
+   "src": "generated_chousashi_2026-09/riko_D02_chiseki.png",
+   "author": "riko",
+   "title": "地積測量図",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "地積測量図の形を、字を入れずに描いたイラストです。",
+   "howto": "土地の面積を示す図面の説明に使えます。",
+   "alt": "地積測量図の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "地積測量図",
+    "図面",
+    "面積"
+   ]
+  },
+  {
+   "id": "chousashi-tatemono-zumen",
+   "src": "generated_chousashi_2026-09/riko_D03_tatemono_zumen.png",
+   "author": "riko",
+   "title": "建物図面",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "建物図面の形を、字を入れずに描いたイラストです。",
+   "howto": "建物の登記に使う図面の説明に使えます。",
+   "alt": "建物図面の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "建物図面",
+    "平面図",
+    "新築"
+   ]
+  },
+  {
+   "id": "chousashi-kakunin-sho",
+   "src": "generated_chousashi_2026-09/riko_D05_kakunin_sho.png",
+   "author": "riko",
+   "title": "筆界確認書",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "筆界確認書の形を、字を入れずに描いたイラストです。",
+   "howto": "となりの方と境界を確かめたあとの書類の説明に使えます。",
+   "alt": "筆界確認書の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "筆界確認書",
+    "境界",
+    "署名"
+   ]
+  },
+  {
+   "id": "chousashi-mitsumori",
+   "src": "generated_chousashi_2026-09/riko_D06_mitsumori.png",
+   "author": "riko",
+   "title": "見積書",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "見積もり",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "見積書の形を、字を入れずに描いたイラストです。",
+   "howto": "「費用について」の説明に使えます。",
+   "alt": "見積書の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "見積書",
+    "費用"
+   ]
+  },
+  {
+   "id": "chousashi-kanryo",
+   "src": "generated_chousashi_2026-09/riko_D07_kanryo.png",
+   "author": "riko",
+   "title": "完了の書類",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "完了",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "完了の書類の形を、字を入れずに描いたイラストです。",
+   "howto": "手続きが終わったあとにお渡しする書類の説明に使えます。",
+   "alt": "完了の書類の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "完了",
+    "お渡し",
+    "書類"
+   ]
+  },
+  {
+   "id": "chousashi-online",
+   "src": "generated_chousashi_2026-09/riko_D08_online.png",
+   "author": "riko",
+   "title": "オンライン申請",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "申請",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "オンライン申請の形を、字を入れずに描いたイラストです。",
+   "howto": "インターネットで申請する段の説明に使えます。",
+   "alt": "オンライン申請の形を、字を入れずに描いたイラスト。",
+   "tags": [
+    "オンライン申請",
+    "パソコン",
+    "申請"
+   ]
+  },
+  {
+   "id": "chousashi-houmukyoku",
+   "src": "generated_chousashi_2026-09/riko_E01_houmukyoku.png",
+   "author": "riko",
+   "title": "法務局（役所の建物）",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "申請",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "法務局（役所の建物）のイラストです。",
+   "howto": "法務局で資料を取る、申請する段の説明に使えます。",
+   "alt": "法務局（役所の建物）のイラスト。",
+   "tags": [
+    "法務局",
+    "役所",
+    "建物"
+   ]
+  },
+  {
+   "id": "chousashi-shiyakusho",
+   "src": "generated_chousashi_2026-09/riko_E02_shiyakusho.png",
+   "author": "riko",
+   "title": "市役所",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "調査",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "市役所のイラストです。",
+   "howto": "役所で道路や水路の資料を調べる段の説明に使えます。",
+   "alt": "市役所のイラスト。",
+   "tags": [
+    "市役所",
+    "役所",
+    "建物"
+   ]
+  },
+  {
+   "id": "chousashi-jimusho",
+   "src": "generated_chousashi_2026-09/riko_E03_jimusho.png",
+   "author": "riko",
+   "title": "事務所の外観",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所の外観のイラストです。",
+   "howto": "事務所の案内や、アクセスのページに使えます。",
+   "alt": "事務所の外観のイラスト。",
+   "tags": [
+    "事務所",
+    "外観",
+    "建物"
+   ]
+  },
+  {
+   "id": "chousashi-shinchiku",
+   "src": "generated_chousashi_2026-09/riko_E04_shinchiku.png",
+   "author": "riko",
+   "title": "建ったばかりの家",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "見積もり",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "建ったばかりの家のイラストです。",
+   "howto": "新築の建物の登記（建物表題登記）の説明に使えます。",
+   "alt": "建ったばかりの家のイラスト。",
+   "tags": [
+    "新築",
+    "家",
+    "建物表題登記"
+   ]
+  },
+  {
+   "id": "chousashi-akiya",
+   "src": "generated_chousashi_2026-09/riko_E05_akiya.png",
+   "author": "riko",
+   "title": "空き家",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "空き家のイラストです。",
+   "howto": "空き家の相談や、実家の話の入口に使えます。",
+   "alt": "空き家のイラスト。",
+   "tags": [
+    "空き家",
+    "実家",
+    "家"
+   ]
+  },
+  {
+   "id": "chousashi-kaitai-chu",
+   "src": "generated_chousashi_2026-09/riko_E06_kaitai_chu.png",
+   "author": "riko",
+   "title": "解体中の古い家",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "解体中の古い家のイラストです。",
+   "howto": "建物を取り壊したあとの登記（建物滅失登記）の説明に使えます。",
+   "alt": "解体中の古い家のイラスト。",
+   "tags": [
+    "解体",
+    "取り壊し",
+    "建物滅失登記"
+   ]
+  },
+  {
+   "id": "chousashi-akichi",
+   "src": "generated_chousashi_2026-09/riko_E07_akichi.png",
+   "author": "riko",
+   "title": "分ける前の空き地",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "調査",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "分ける前の空き地のイラストです。",
+   "howto": "土地を分ける（分筆）や、境界を確かめる前の説明に使えます。",
+   "alt": "分ける前の空き地のイラスト。",
+   "tags": [
+    "空き地",
+    "土地",
+    "分筆"
+   ]
+  },
+  {
+   "id": "chousashi-douro",
+   "src": "generated_chousashi_2026-09/riko_E08_douro.png",
+   "author": "riko",
+   "title": "道路と側溝",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "道路と側溝のイラストです。",
+   "howto": "道路との境（官民の境）の説明に使えます。",
+   "alt": "道路と側溝のイラスト。",
+   "tags": [
+    "道路",
+    "側溝",
+    "官民"
+   ]
+  },
+  {
+   "id": "chousashi-suiro",
+   "src": "generated_chousashi_2026-09/riko_E09_suiro.png",
+   "author": "riko",
+   "title": "水路",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "水路のイラストです。",
+   "howto": "水路との境の説明に使えます。",
+   "alt": "水路のイラスト。",
+   "tags": [
+    "水路",
+    "官民",
+    "境界"
+   ]
+  },
+  {
+   "id": "chousashi-hatake",
+   "src": "generated_chousashi_2026-09/riko_E10_hatake.png",
+   "author": "riko",
+   "title": "畑",
+   "shikaku": [
+    "土地家屋調査士",
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "畑のイラストです。",
+   "howto": "農地の地目の変更や、畑の相続の説明に使えます。",
+   "alt": "畑のイラスト。",
+   "tags": [
+    "畑",
+    "農地",
+    "地目"
+   ]
+  },
+  {
+   "id": "chousashi-yamarin",
+   "src": "generated_chousashi_2026-09/riko_E12_yamarin.png",
+   "author": "riko",
+   "title": "山林",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "山林のイラストです。",
+   "howto": "山林の相続や境界の説明に使えます。",
+   "alt": "山林のイラスト。",
+   "tags": [
+    "山林",
+    "山",
+    "相続"
+   ]
+  },
+  {
+   "id": "chousashi-soudan-denwa",
+   "src": "generated_chousashi_2026-09/riko_F01_soudan_denwa.png",
+   "author": "riko",
+   "title": "電話で相談を受ける",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "電話で相談を受けるところを描いたイラストです。",
+   "howto": "「まずはお電話で」の案内や、ご依頼の流れの最初の段に使えます。",
+   "alt": "電話で相談を受けるところを描いたイラスト。",
+   "tags": [
+    "電話",
+    "相談",
+    "受付"
+   ]
+  },
+  {
+   "id": "chousashi-mitsumori-setsumei",
+   "src": "generated_chousashi_2026-09/riko_F03_mitsumori_setsumei.png",
+   "author": "riko",
+   "title": "見積もりを説明する",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "見積もり",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "見積もりを説明するところを描いたイラストです。",
+   "howto": "「費用について」の説明に使えます。",
+   "alt": "見積もりを説明するところを描いたイラスト。",
+   "tags": [
+    "見積もり",
+    "説明",
+    "費用"
+   ]
+  },
+  {
+   "id": "chousashi-shiryo-houmukyoku",
+   "src": "generated_chousashi_2026-09/riko_F04_shiryo_houmukyoku.png",
+   "author": "riko",
+   "title": "法務局で資料を受け取る",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "調査",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "法務局で資料を受け取るところを描いたイラストです。",
+   "howto": "法務局で資料を集める段の説明に使えます。",
+   "alt": "法務局で資料を受け取るところを描いたイラスト。",
+   "tags": [
+    "法務局",
+    "資料",
+    "窓口"
+   ]
+  },
+  {
+   "id": "chousashi-kui-sagasu",
+   "src": "generated_chousashi_2026-09/riko_F05_kui_sagasu.png",
+   "author": "riko",
+   "title": "境界標を探す",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "境界標を探すところを描いたイラストです。",
+   "howto": "現地で境界標を探す段の説明に使えます。",
+   "alt": "境界標を探すところを描いたイラスト。",
+   "tags": [
+    "境界標",
+    "現地調査",
+    "探す"
+   ]
+  },
+  {
+   "id": "chousashi-pole-tateru",
+   "src": "generated_chousashi_2026-09/riko_F07_pole_tateru.png",
+   "author": "riko",
+   "title": "補助者がポールを立てる",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "補助者がポールを立てるところを描いたイラストです。",
+   "howto": "測量の段や、採用のページで補助者の仕事の説明に使えます。",
+   "alt": "補助者がポールを立てるところを描いたイラスト。",
+   "tags": [
+    "ピンポール",
+    "補助者",
+    "測量"
+   ]
+  },
+  {
+   "id": "chousashi-gnss-kansoku",
+   "src": "generated_chousashi_2026-09/riko_F08_gnss_kansoku_v2.png",
+   "author": "riko",
+   "title": "GNSSで観測する",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "GNSSで観測するところを描いたイラストです。",
+   "howto": "衛星を使った測量の説明に使えます。",
+   "alt": "GNSSで観測するところを描いたイラスト。",
+   "tags": [
+    "GNSS",
+    "測量",
+    "観測"
+   ]
+  },
+  {
+   "id": "chousashi-shashin",
+   "src": "generated_chousashi_2026-09/riko_F09_shashin.png",
+   "author": "riko",
+   "title": "境界標の写真を撮る",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "境界標の写真を撮るところを描いたイラストです。",
+   "howto": "現地で記録を残す段の説明に使えます。",
+   "alt": "境界標の写真を撮るところを描いたイラスト。",
+   "tags": [
+    "写真",
+    "境界標",
+    "記録"
+   ]
+  },
+  {
+   "id": "chousashi-tachiai-kanmin",
+   "src": "generated_chousashi_2026-09/riko_F12_tachiai_kanmin.png",
+   "author": "riko",
+   "title": "役所の方と道路の境を確かめる",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "役所の方と道路の境を確かめるところを描いたイラストです。",
+   "howto": "道路との境を確かめる立会い（官民の立会い）の説明に使えます。",
+   "alt": "役所の方と道路の境を確かめるところを描いたイラスト。",
+   "tags": [
+    "立会い",
+    "官民",
+    "道路"
+   ]
+  },
+  {
+   "id": "chousashi-kui-secchi",
+   "src": "generated_chousashi_2026-09/riko_F13_kui_secchi.png",
+   "author": "riko",
+   "title": "境界標を入れる",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "境界標を入れるところを描いたイラストです。",
+   "howto": "境界が決まったあとに境界標を入れる段の説明に使えます。",
+   "alt": "境界標を入れるところを描いたイラスト。",
+   "tags": [
+    "境界標",
+    "設置",
+    "境界"
+   ]
+  },
+  {
+   "id": "chousashi-cad",
+   "src": "generated_chousashi_2026-09/riko_F14_cad.png",
+   "author": "riko",
+   "title": "事務所で図面をかく",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所で図面をかくところを描いたイラストです。",
+   "howto": "測ったあとに事務所で図面を作る段の説明に使えます。",
+   "alt": "事務所で図面をかくところを描いたイラスト。",
+   "tags": [
+    "CAD",
+    "図面",
+    "事務所"
+   ]
+  },
+  {
+   "id": "chousashi-zumen-check",
+   "src": "generated_chousashi_2026-09/riko_F15_zumen_check.png",
+   "author": "riko",
+   "title": "二人で図面を確かめる",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "二人で図面を確かめるところを描いたイラストです。",
+   "howto": "図面を出す前に確かめる段の説明に使えます。",
+   "alt": "二人で図面を確かめるところを描いたイラスト。",
+   "tags": [
+    "図面",
+    "確認",
+    "チェック"
+   ]
+  },
+  {
+   "id": "chousashi-yuusou",
+   "src": "generated_chousashi_2026-09/riko_F17_yuusou.png",
+   "author": "riko",
+   "title": "書類を郵送する",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類を郵送するところを描いたイラストです。",
+   "howto": "書類をお送りする段の説明に使えます。",
+   "alt": "書類を郵送するところを描いたイラスト。",
+   "tags": [
+    "郵送",
+    "ポスト",
+    "書類"
+   ]
+  },
+  {
+   "id": "chousashi-hosei-denwa",
+   "src": "generated_chousashi_2026-09/riko_F19_hosei_denwa.png",
+   "author": "riko",
+   "title": "法務局からの電話に答える",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "法務局からの電話に答えるところを描いたイラストです。",
+   "howto": "申請のあとに法務局とやりとりする段の説明に使えます。",
+   "alt": "法務局からの電話に答えるところを描いたイラスト。",
+   "tags": [
+    "電話",
+    "法務局",
+    "申請のあと"
+   ]
+  },
+  {
+   "id": "chousashi-housemaker-genba",
+   "src": "generated_chousashi_2026-09/riko_F22_housemaker_genba.png",
+   "author": "riko",
+   "title": "新しい家の前でハウスメーカーと話す",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "新しい家の前でハウスメーカーと話すところを描いたイラストです。",
+   "howto": "新築の建物の登記の流れの説明に使えます。",
+   "alt": "新しい家の前でハウスメーカーと話すところを描いたイラスト。",
+   "tags": [
+    "新築",
+    "ハウスメーカー",
+    "建物表題登記"
+   ]
+  },
+  {
+   "id": "chousashi-ame",
+   "src": "generated_chousashi_2026-09/riko_F24_ame.png",
+   "author": "riko",
+   "title": "雨の日の事務所",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "雨の日の事務所ところを描いたイラストです。",
+   "howto": "天気で現地の作業を延ばすことがある、という説明に使えます。",
+   "alt": "雨の日の事務所ところを描いたイラスト。",
+   "tags": [
+    "雨",
+    "日程",
+    "延期"
+   ]
+  },
+  {
+   "id": "chousashi-asa-uchiawase",
+   "src": "generated_chousashi_2026-09/riko_F26_asa_uchiawase.png",
+   "author": "riko",
+   "title": "朝の打合せ",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "朝の打合せところを描いたイラストです。",
+   "howto": "事務所の一日や、採用のページで使えます。",
+   "alt": "朝の打合せところを描いたイラスト。",
+   "tags": [
+    "打合せ",
+    "朝",
+    "チーム"
+   ]
+  },
+  {
+   "id": "chousashi-idou",
+   "src": "generated_chousashi_2026-09/riko_F29_idou.png",
+   "author": "riko",
+   "title": "現場へ車で向かう",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "現場へ車で向かうところを描いたイラストです。",
+   "howto": "現地へ向かう段の説明に使えます。",
+   "alt": "現場へ車で向かうところを描いたイラスト。",
+   "tags": [
+    "移動",
+    "車",
+    "現地"
+   ]
+  },
+  {
+   "id": "chousashi-kukaku-ue",
+   "src": "generated_chousashi_2026-09/riko_G01_kukaku_ue.png",
+   "author": "riko",
+   "title": "上から見た2つの土地と境界",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "上から見た2つの土地と境界のイラストです。",
+   "howto": "「境界とは」の図解の部品として使えます。",
+   "alt": "上から見た2つの土地と境界のイラスト。",
+   "tags": [
+    "境界",
+    "区画",
+    "図解"
+   ]
+  },
+  {
+   "id": "chousashi-bunpitsu",
+   "src": "generated_chousashi_2026-09/riko_G02_bunpitsu.png",
+   "author": "riko",
+   "title": "1つの土地を2つに分ける",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "申請",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "1つの土地を2つに分けるのイラストです。",
+   "howto": "分筆（土地を分ける登記）の図解の部品として使えます。",
+   "alt": "1つの土地を2つに分けるのイラスト。",
+   "tags": [
+    "分筆",
+    "土地を分ける",
+    "図解"
+   ]
+  },
+  {
+   "id": "chousashi-hei-zure",
+   "src": "generated_chousashi_2026-09/riko_G04_hei_zure.png",
+   "author": "riko",
+   "title": "塀と本当の境のずれ",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "塀と本当の境のずれのイラストです。",
+   "howto": "塀の位置と境界がずれていることがある、という説明に使えます。",
+   "alt": "塀と本当の境のずれのイラスト。",
+   "tags": [
+    "境界",
+    "塀",
+    "ずれ"
+   ]
+  },
+  {
+   "id": "chousashi-mushimegane",
+   "src": "generated_chousashi_2026-09/riko_G05_mushimegane.png",
+   "author": "riko",
+   "title": "地図と虫めがね",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "調査",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "地図と虫めがねのイラストです。",
+   "howto": "資料を調べる段の図解の部品として使えます。",
+   "alt": "地図と虫めがねのイラスト。",
+   "tags": [
+    "調べる",
+    "地図",
+    "虫めがね"
+   ]
+  },
+  {
+   "id": "chousashi-tokei",
+   "src": "generated_chousashi_2026-09/riko_G06_tokei.png",
+   "author": "riko",
+   "title": "時計と砂時計",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "時計と砂時計のイラストです。",
+   "howto": "かかる期間や、待つ時間の説明に使えます。",
+   "alt": "時計と砂時計のイラスト。",
+   "tags": [
+    "期間",
+    "時間",
+    "待つ"
+   ]
+  },
+  {
+   "id": "chousashi-goui",
+   "src": "generated_chousashi_2026-09/riko_G07_goui.png",
+   "author": "riko",
+   "title": "書類を前に話がまとまる",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "完了",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類を前に話がまとまるのイラストです。",
+   "howto": "話し合いがまとまった段の説明に使えます。",
+   "alt": "書類を前に話がまとまるのイラスト。",
+   "tags": [
+    "合意",
+    "話し合い",
+    "書類"
+   ]
+  },
+  {
+   "id": "chousashi-ie-kazoku",
+   "src": "generated_chousashi_2026-09/riko_G08_ie_kazoku.png",
+   "author": "riko",
+   "title": "家と家族",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "家と家族のイラストです。",
+   "howto": "相続や実家の話の入口の図解に使えます。",
+   "alt": "家と家族のイラスト。",
+   "tags": [
+    "家族",
+    "家",
+    "相続"
+   ]
+  },
+  {
+   "id": "chousashi-tenbin",
+   "src": "generated_chousashi_2026-09/riko_G09_tenbin.png",
+   "author": "riko",
+   "title": "家と書類のてんびん",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "家と書類のてんびんのイラストです。",
+   "howto": "見比べて決める、という説明に使えます。",
+   "alt": "家と書類のてんびんのイラスト。",
+   "tags": [
+    "くらべる",
+    "てんびん",
+    "判断"
+   ]
+  },
+  {
+   "id": "chousashi-kagi",
+   "src": "generated_chousashi_2026-09/riko_G10_kagi.png",
+   "author": "riko",
+   "title": "大事な書類を守る",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "大事な書類を守るのイラストです。",
+   "howto": "書類や個人の情報を大切に扱う、という説明に使えます。",
+   "alt": "大事な書類を守るのイラスト。",
+   "tags": [
+    "個人情報",
+    "保管",
+    "かぎ"
+   ]
+  },
+  {
+   "id": "kyoutsu-desk-pc",
+   "src": "generated_chousashi_2026-09/riko_K13_desk_pc.png",
+   "author": "riko",
+   "title": "パソコンで仕事をする専門家",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "パソコンで仕事をする専門家ところを描いたイラストです。",
+   "howto": "事務所の紹介や、採用のページに使えます。",
+   "alt": "パソコンで仕事をする専門家ところを描いたイラスト。",
+   "tags": [
+    "パソコン",
+    "事務所",
+    "仕事"
+   ]
+  },
+  {
+   "id": "kyoutsu-renkei-kaigi",
+   "src": "generated_chousashi_2026-09/riko_K14_renkei_kaigi.png",
+   "author": "riko",
+   "title": "専門家どうしの打合せ",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "専門家どうしの打合せところを描いたイラストです。",
+   "howto": "ほかの士業と組んで対応する、という説明に使えます。",
+   "alt": "専門家どうしの打合せところを描いたイラスト。",
+   "tags": [
+    "連携",
+    "打合せ",
+    "士業"
+   ]
+  },
+  {
+   "id": "kyoutsu-seido-setsumei",
+   "src": "generated_chousashi_2026-09/riko_K16_seido_setsumei.png",
+   "author": "riko",
+   "title": "制度を説明する",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "制度を説明するところを描いたイラストです。",
+   "howto": "制度の変わり目の説明会や、解説の記事に使えます。",
+   "alt": "制度を説明するところを描いたイラスト。",
+   "tags": [
+    "制度",
+    "説明",
+    "ホワイトボード"
+   ]
+  },
+  {
+   "id": "kyoutsu-yuubin",
+   "src": "generated_chousashi_2026-09/riko_K19_yuubin.png",
+   "author": "riko",
+   "title": "郵便受けから封筒を取る",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "完了",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "郵便受けから封筒を取るところを描いたイラストです。",
+   "howto": "書類が届く段の説明に使えます。",
+   "alt": "郵便受けから封筒を取るところを描いたイラスト。",
+   "tags": [
+    "郵便",
+    "封筒",
+    "届く"
+   ]
+  },
+  {
+   "id": "chousashi-wakai-kazoku",
+   "src": "generated_chousashi_2026-09/riko_A13_wakai_kazoku.png",
+   "author": "riko",
+   "title": "小さな子どもを連れた若い夫婦",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "小さな子どもを連れた若い夫婦のイラストです。",
+   "howto": "家を建てた方、家を買った方への案内に使えます。",
+   "alt": "小さな子どもを連れた若い夫婦のイラスト。",
+   "tags": [
+    "家族",
+    "子ども",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-shomei-sen",
+   "src": "generated_chousashi_2026-09/mitoma_F16_shomei.png",
+   "author": "mitoma",
+   "title": "確認書に署名していただく",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "確認書に署名していただくところを描いたイラストです。",
+   "howto": "となりの方に筆界確認書へ署名していただく段の説明に使えます。",
+   "alt": "確認書に署名していただくところを描いたイラスト。",
+   "tags": [
+    "署名",
+    "筆界確認書",
+    "となりの方"
+   ]
+  },
+  {
+   "id": "chousashi-matsu-sen",
+   "src": "generated_chousashi_2026-09/mitoma_F30_matsu.png",
+   "author": "mitoma",
+   "title": "返事を待つ",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "返事を待つところを描いたイラストです。",
+   "howto": "返事を待つ時間がある、という説明に使えます。",
+   "alt": "返事を待つところを描いたイラスト。",
+   "tags": [
+    "待つ",
+    "手紙",
+    "期間"
+   ]
+  },
+  {
+   "id": "kyoutsu-denwa-soudan-sen",
+   "src": "generated_chousashi_2026-09/mitoma_K04_denwa_soudan.png",
+   "author": "mitoma",
+   "title": "電話で相談を受ける",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "電話で相談を受けるところを描いたイラストです。",
+   "howto": "「まずはお電話で」の案内に使えます。",
+   "alt": "電話で相談を受けるところを描いたイラスト。",
+   "tags": [
+    "電話",
+    "相談"
+   ]
+  },
+  {
+   "id": "kyoutsu-hiyou-setsumei-sen",
+   "src": "generated_chousashi_2026-09/mitoma_K08_hiyou_setsumei.png",
+   "author": "mitoma",
+   "title": "費用を説明する",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "見積もり",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "費用を説明するところを描いたイラストです。",
+   "howto": "「費用について」の説明に使えます。",
+   "alt": "費用を説明するところを描いたイラスト。",
+   "tags": [
+    "費用",
+    "見積書",
+    "説明"
+   ]
+  },
+  {
+   "id": "kyoutsu-uketsuke-sen",
+   "src": "generated_chousashi_2026-09/mitoma_K12_uketsuke.png",
+   "author": "mitoma",
+   "title": "事務所の受付",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所の受付のイラストです。",
+   "howto": "事務所の案内や、はじめて来られる方への説明に使えます。",
+   "alt": "事務所の受付のイラスト。",
+   "tags": [
+    "受付",
+    "事務所",
+    "待合"
+   ]
+  },
+  {
+   "id": "chousashi-irai-fufu",
+   "src": "generated_chousashi_2026-09/riko_A04_irai_fufu_v2.png",
+   "author": "riko",
+   "title": "依頼する高齢のご夫婦",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "依頼する高齢のご夫婦のイラストです。",
+   "howto": "相続や実家の相談の案内に使えます。",
+   "alt": "依頼する高齢のご夫婦のイラスト。",
+   "tags": [
+    "ご夫婦",
+    "高齢の方",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-irai-kazoku",
+   "src": "generated_chousashi_2026-09/riko_A05_irai_kazoku_v2.png",
+   "author": "riko",
+   "title": "依頼する親子",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "依頼する親子のイラストです。",
+   "howto": "親と子どもがいっしょに相談に来る場面の案内に使えます。",
+   "alt": "依頼する親子のイラスト。",
+   "tags": [
+    "親子",
+    "家族",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-rinchi",
+   "src": "generated_chousashi_2026-09/riko_A08_rinchi_v2.png",
+   "author": "riko",
+   "title": "となりの土地の方",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "となりの土地の方のイラストです。",
+   "howto": "境界の立会いをお願いする相手の説明に使えます。",
+   "alt": "となりの土地の方のイラスト。",
+   "tags": [
+    "となりの方",
+    "立会い",
+    "隣地"
+   ]
+  },
+  {
+   "id": "chousashi-kaitai",
+   "src": "generated_chousashi_2026-09/riko_A11_kaitai_v2.png",
+   "author": "riko",
+   "title": "解体業者の方",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "解体業者の方のイラストです。",
+   "howto": "建物を取り壊したあとの登記の説明に使えます。",
+   "alt": "解体業者の方のイラスト。",
+   "tags": [
+    "解体",
+    "業者",
+    "建物滅失登記"
+   ]
+  },
+  {
+   "id": "chousashi-fudosan",
+   "src": "generated_chousashi_2026-09/riko_A12_fudosan_v2.png",
+   "author": "riko",
+   "title": "不動産会社の担当の方",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "見積もり",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "不動産会社の担当の方のイラストです。",
+   "howto": "売買や分筆の相談の入口の説明に使えます。",
+   "alt": "不動産会社の担当の方のイラスト。",
+   "tags": [
+    "不動産",
+    "担当者",
+    "人物"
+   ]
+  },
+  {
+   "id": "chousashi-plate",
+   "src": "generated_chousashi_2026-09/riko_B07_plate_v2.png",
+   "author": "riko",
+   "title": "金属プレートの境界標",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "金属プレートの境界標のイラストです。",
+   "howto": "「境界標とは」の説明に使えます。",
+   "alt": "金属プレートの境界標のイラスト。",
+   "tags": [
+    "境界標",
+    "プレート",
+    "境界"
+   ]
+  },
+  {
+   "id": "chousashi-kokuban",
+   "src": "generated_chousashi_2026-09/riko_B11_kokuban_v2.png",
+   "author": "riko",
+   "title": "現場の写真の黒板",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "現場の写真の黒板のイラストです。",
+   "howto": "現地で記録の写真を撮る段の説明に使えます。",
+   "alt": "現場の写真の黒板のイラスト。",
+   "tags": [
+    "黒板",
+    "写真",
+    "記録"
+   ]
+  },
+  {
+   "id": "chousashi-shorui-taba",
+   "src": "generated_chousashi_2026-09/riko_D04_shorui_taba_v2.png",
+   "author": "riko",
+   "title": "書類の束",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類の束のイラストです。",
+   "howto": "集める書類や、お渡しする書類の説明に使えます。",
+   "alt": "書類の束のイラスト。",
+   "tags": [
+    "書類",
+    "束",
+    "登記"
+   ]
+  },
+  {
+   "id": "chousashi-block",
+   "src": "generated_chousashi_2026-09/riko_E11_block_v2.png",
+   "author": "riko",
+   "title": "ブロック塀と境界標",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ブロック塀と境界標のイラストです。",
+   "howto": "塀の足元に境界標がある、という説明に使えます。",
+   "alt": "ブロック塀と境界標のイラスト。",
+   "tags": [
+    "ブロック塀",
+    "境界標",
+    "境界"
+   ]
+  },
+  {
+   "id": "chousashi-tatemono-chousa",
+   "src": "generated_chousashi_2026-09/riko_F21_tatemono_chousa_v2.png",
+   "author": "riko",
+   "title": "建物の外まわりを測る",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "建物の外まわりを測るところを描いたイラストです。",
+   "howto": "建物の登記のために建物を測る段の説明に使えます。",
+   "alt": "建物の外まわりを測るところを描いたイラスト。",
+   "tags": [
+    "建物調査",
+    "巻尺",
+    "測る"
+   ]
+  },
+  {
+   "id": "chousashi-kaitai-ato",
+   "src": "generated_chousashi_2026-09/riko_F23_kaitai_ato_v2.png",
+   "author": "riko",
+   "title": "取り壊したあとの土地を確かめる",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "取り壊したあとの土地を確かめるところを描いたイラストです。",
+   "howto": "建物を取り壊したあとの登記の説明に使えます。",
+   "alt": "取り壊したあとの土地を確かめるところを描いたイラスト。",
+   "tags": [
+    "解体",
+    "建物滅失登記",
+    "現地"
+   ]
+  },
+  {
+   "id": "chousashi-tatemono-ue",
+   "src": "generated_chousashi_2026-09/riko_G03_tatemono_ue_v2.png",
+   "author": "riko",
+   "title": "上から見た土地と建物",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "書類",
+   "kind": "図解の部品",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "上から見た土地と建物のイラストです。",
+   "howto": "建物の位置を示す図解の部品として使えます。",
+   "alt": "上から見た土地と建物のイラスト。",
+   "tags": [
+    "建物",
+    "土地",
+    "上から見た図"
+   ]
+  },
+  {
+   "id": "chousashi-tanshin-dansei",
+   "src": "generated_chousashi_2026-09/riko_A14_tanshin_dansei_v2.png",
+   "author": "riko",
+   "title": "ひとりで来る30代の男性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ひとりで来る30代の男性のイラストです。",
+   "howto": "ひとりで相談に来る方への案内に使えます。",
+   "alt": "ひとりで来る30代の男性のイラスト。",
+   "tags": [
+    "依頼者",
+    "ひとり",
+    "男性"
+   ]
+  },
+  {
+   "id": "chousashi-hitorigurashi",
+   "src": "generated_chousashi_2026-09/riko_A15_hitorigurashi_v2.png",
+   "author": "riko",
+   "title": "ひとり暮らしの60代の女性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ひとり暮らしの60代の女性のイラストです。",
+   "howto": "ひとり暮らしの方への案内に使えます。",
+   "alt": "ひとり暮らしの60代の女性のイラスト。",
+   "tags": [
+    "ひとり暮らし",
+    "高齢の方",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-wakai-josei",
+   "src": "generated_chousashi_2026-09/riko_A16_wakai_josei_v2.png",
+   "author": "riko",
+   "title": "20代の女性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "20代の女性のイラストです。",
+   "howto": "初めて土地や家を買う方への案内に使えます。",
+   "alt": "20代の女性のイラスト。",
+   "tags": [
+    "若い方",
+    "女性",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-chunen-dansei",
+   "src": "generated_chousashi_2026-09/riko_A17_chunen_dansei_v2.png",
+   "author": "riko",
+   "title": "50代の男性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "50代の男性のイラストです。",
+   "howto": "親の家のことで相談に来る方への案内に使えます。",
+   "alt": "50代の男性のイラスト。",
+   "tags": [
+    "親の家",
+    "男性",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-senior-dansei",
+   "src": "generated_chousashi_2026-09/riko_A18_senior_dansei_v2.png",
+   "author": "riko",
+   "title": "80代の男性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "80代の男性のイラストです。",
+   "howto": "高齢の方への案内に使えます。",
+   "alt": "80代の男性のイラスト。",
+   "tags": [
+    "高齢の方",
+    "男性",
+    "依頼者"
+   ]
+  },
+  {
+   "id": "chousashi-shinchiku-kazoku",
+   "src": "generated_chousashi_2026-09/riko_F31_shinchiku_kazoku_v2.png",
+   "author": "riko",
+   "title": "新しい家の前の若い家族",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "完了",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "新しい家の前の若い家族ところを描いたイラストです。",
+   "howto": "建物表題登記の依頼者への説明に使えます。",
+   "alt": "新しい家の前の若い家族ところを描いたイラスト。",
+   "tags": [
+    "新築",
+    "家族",
+    "建物表題登記"
+   ]
+  },
+  {
+   "id": "kyoutsu-kodure-soudan-sen",
+   "src": "generated_chousashi_2026-09/mitoma_K21_kodure_soudan_v2.png",
+   "author": "mitoma",
+   "title": "子どもを連れた夫婦の相談",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "子どもを連れた夫婦の相談ところを描いたイラストです。",
+   "howto": "子ども連れでも相談できる、という案内に使えます。",
+   "alt": "子どもを連れた夫婦の相談ところを描いたイラスト。",
+   "tags": [
+    "子ども連れ",
+    "夫婦",
+    "相談"
+   ]
+  },
+  {
+   "id": "kyoutsu-tanshin-soudan-sen",
+   "src": "generated_chousashi_2026-09/mitoma_K22_tanshin_soudan_v2.png",
+   "author": "mitoma",
+   "title": "ひとりで来た男性の相談",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ひとりで来た男性の相談ところを描いたイラストです。",
+   "howto": "ひとりで相談に来る方への案内に使えます。",
+   "alt": "ひとりで来た男性の相談ところを描いたイラスト。",
+   "tags": [
+    "ひとり",
+    "相談",
+    "男性"
+   ]
+  },
+  {
+   "id": "kyoutsu-hitori-senior-sen",
+   "src": "generated_chousashi_2026-09/mitoma_K23_hitori_senior_v2.png",
+   "author": "mitoma",
+   "title": "ひとりで来た高齢の女性の相談",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ひとりで来た高齢の女性の相談ところを描いたイラストです。",
+   "howto": "高齢の方がひとりで相談に来る場面の案内に使えます。",
+   "alt": "ひとりで来た高齢の女性の相談ところを描いたイラスト。",
+   "tags": [
+    "高齢の方",
+    "ひとり",
+    "相談"
+   ]
+  }
+ ]
 }

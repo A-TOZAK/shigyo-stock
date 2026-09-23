@@ -14,7 +14,7 @@
  "assets": [
   {
    "id": "chousashi-ts-kansoku",
-   "src": "generated_chousashi_2026-09/riko_F06_ts_kansoku_v2.png",
+   "src": "generated_shigyo_b2_2026-09/riko_F06_ts_kansoku_v3b.png",
    "author": "riko",
    "title": "トータルステーションで観測する調査士",
    "shikaku": [
@@ -3789,6 +3789,199 @@
     "タブレット",
     "説明",
     "高齢の方"
+   ]
+  },
+  {
+   "id": "kyoutsu-wakai-josei",
+   "src": "generated_shigyo_b2_2026-09/riko_Q02_wakai_josei_v2.png",
+   "author": "riko",
+   "title": "相談に来た20代の女性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類のファイルを持って、ひとりで相談に来た20代の女性のイラストです。",
+   "howto": "「こんな方がご相談に来られます」という案内や、相談の流れの説明に使えます。",
+   "alt": "書類のファイルを持って、ひとりで相談に来た20代の女性のイラスト。",
+   "tags": [
+    "女性",
+    "20代",
+    "ひとり"
+   ]
+  },
+  {
+   "id": "kyoutsu-koureisha-josei",
+   "src": "generated_shigyo_b2_2026-09/riko_Q06_koureisha_josei_v2.png",
+   "author": "riko",
+   "title": "相談に来た70代の女性",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "手さげを持って、ひとりで相談に来た70代の女性のイラストです。",
+   "howto": "「こんな方がご相談に来られます」という案内や、相談の流れの説明に使えます。",
+   "alt": "手さげを持って、ひとりで相談に来た70代の女性のイラスト。",
+   "tags": [
+    "女性",
+    "高齢の方",
+    "ひとり"
+   ]
+  },
+  {
+   "id": "kyoutsu-chunen-fufu",
+   "src": "generated_shigyo_b2_2026-09/riko_Q08_chunen_fufu_v2.png",
+   "author": "riko",
+   "title": "相談に来た50代の夫婦",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "並んで立つ50代の夫婦のイラストです。",
+   "howto": "「こんな方がご相談に来られます」という案内や、相談の流れの説明に使えます。",
+   "alt": "並んで立つ50代の夫婦のイラスト。",
+   "tags": [
+    "夫婦",
+    "50代"
+   ]
+  },
+  {
+   "id": "kyoutsu-haha-musume",
+   "src": "generated_shigyo_b2_2026-09/riko_Q10_haha_musume_v2.png",
+   "author": "riko",
+   "title": "高齢の母と娘",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "並んで立つ70代の母と40代の娘のイラストです。",
+   "howto": "「こんな方がご相談に来られます」という案内や、相談の流れの説明に使えます。",
+   "alt": "並んで立つ70代の母と40代の娘のイラスト。",
+   "tags": [
+    "親子",
+    "高齢の方",
+    "相続"
+   ]
+  },
+  {
+   "id": "chousashi-pc-f",
+   "src": "generated_shigyo_b2_2026-09/riko_R07_pc_v2.png",
+   "author": "riko",
+   "title": "パソコンで仕事をする女性の調査士",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "女性の調査士が、机のノートパソコンで仕事をする場面のイラストです。",
+   "howto": "ご依頼の流れの説明や、採用ページに使えます。",
+   "alt": "女性の調査士が、机のノートパソコンで仕事をする場面のイラスト。",
+   "tags": [
+    "パソコン",
+    "事務所",
+    "女性"
+   ]
+  },
+  {
+   "id": "chousashi-pc-m",
+   "src": "generated_shigyo_b2_2026-09/riko_R08_pc_v2.png",
+   "author": "riko",
+   "title": "パソコンで仕事をする男性の調査士",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "男性の調査士が、机のノートパソコンで仕事をする場面のイラストです。",
+   "howto": "ご依頼の流れの説明や、採用ページに使えます。",
+   "alt": "男性の調査士が、机のノートパソコンで仕事をする場面のイラスト。",
+   "tags": [
+    "パソコン",
+    "事務所",
+    "男性"
+   ]
+  },
+  {
+   "id": "chousashi-kyoukai-yubisasu-f",
+   "src": "generated_shigyo_b2_2026-09/riko_S03_kyoukai_yubisasu_v2.png",
+   "author": "riko",
+   "title": "境界標を指して近所の方に説明する（女性）",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "住宅地で、女性の調査士が境界標を指さし、近所の高齢の男性が見ている場面のイラストです。",
+   "howto": "ご依頼の流れの説明や、採用ページに使えます。",
+   "alt": "住宅地で、女性の調査士が境界標を指さし、近所の高齢の男性が見ている場面のイラスト。",
+   "tags": [
+    "境界標",
+    "近所",
+    "住宅地",
+    "女性"
+   ]
+  },
+  {
+   "id": "chousashi-kyoukai-yubisasu-m",
+   "src": "generated_shigyo_b2_2026-09/riko_S04_kyoukai_yubisasu_v2.png",
+   "author": "riko",
+   "title": "境界標を指して近所の方に説明する（男性）",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "住宅地で、男性の調査士が境界標を指さし、近所の高齢の女性が見ている場面のイラストです。",
+   "howto": "ご依頼の流れの説明や、採用ページに使えます。",
+   "alt": "住宅地で、男性の調査士が境界標を指さし、近所の高齢の女性が見ている場面のイラスト。",
+   "tags": [
+    "境界標",
+    "近所",
+    "住宅地",
+    "男性"
    ]
   }
  ]

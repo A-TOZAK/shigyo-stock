@@ -58,6 +58,8 @@ ids = {a["id"] for a in c["assets"]}
 for f in sys.argv[1:]:
     key = f.replace("riko_", "").replace("mitoma_", "").replace(".png", "")
     au = "mitoma" if f.startswith("mitoma") else "riko"
+    if key[0] in "QRS" and key.endswith("_v2"):
+        key = key[:-3]
     if key.startswith("P"):
         _, w, p = key.split("_")
         t = f"{W[w][0]}（{P[p][0]}）"; d = f"{W[w][0]}が、{P[p][1]}"

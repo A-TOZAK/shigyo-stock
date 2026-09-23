@@ -23,6 +23,7 @@ const ITEMS=[
 "境界"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -50,6 +51,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -77,6 +79,7 @@ const ITEMS=[
 "境界標"
 ],
 "credit": "Nonomiya",
+"style": "水彩",
 "w": 1536,
 "h": 1024
 },
@@ -106,6 +109,7 @@ const ITEMS=[
 "図面"
 ],
 "credit": "Nonomiya",
+"style": "水彩",
 "w": 1536,
 "h": 1024
 },
@@ -132,6 +136,7 @@ const ITEMS=[
 "作業着"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -158,6 +163,7 @@ const ITEMS=[
 "ヘルメット"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -184,6 +190,7 @@ const ITEMS=[
 "人物"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -210,6 +217,7 @@ const ITEMS=[
 "人物"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -236,6 +244,7 @@ const ITEMS=[
 "人物"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -262,6 +271,7 @@ const ITEMS=[
 "立会い"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -288,6 +298,7 @@ const ITEMS=[
 "役所"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -314,6 +325,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -340,6 +352,7 @@ const ITEMS=[
 "測量"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -366,6 +379,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -392,6 +406,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -418,6 +433,7 @@ const ITEMS=[
 "境界"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -444,6 +460,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -470,6 +487,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -496,6 +514,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -522,6 +541,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -548,6 +568,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -574,6 +595,7 @@ const ITEMS=[
 "安全"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -600,6 +622,7 @@ const ITEMS=[
 "道具"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -626,6 +649,7 @@ const ITEMS=[
 "パソコン"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -651,6 +675,7 @@ const ITEMS=[
 "図面"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -677,6 +702,7 @@ const ITEMS=[
 "事務所"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -704,6 +730,7 @@ const ITEMS=[
 "立会いのお願い"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -730,6 +757,7 @@ const ITEMS=[
 "書類"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -755,6 +783,7 @@ const ITEMS=[
 "見積もり"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -781,6 +810,7 @@ const ITEMS=[
 "記録"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -807,6 +837,7 @@ const ITEMS=[
 "連絡"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -833,6 +864,7 @@ const ITEMS=[
 "期限"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -858,6 +890,7 @@ const ITEMS=[
 "共有"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -883,6 +916,7 @@ const ITEMS=[
 "記録"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -908,6 +942,7 @@ const ITEMS=[
 "郵送"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -935,6 +970,7 @@ const ITEMS=[
 "法務局"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -961,6 +997,7 @@ const ITEMS=[
 "面積"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -987,6 +1024,7 @@ const ITEMS=[
 "新築"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1013,6 +1051,7 @@ const ITEMS=[
 "署名"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1038,6 +1077,7 @@ const ITEMS=[
 "費用"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1064,6 +1104,7 @@ const ITEMS=[
 "書類"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1090,6 +1131,7 @@ const ITEMS=[
 "申請"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1116,6 +1158,7 @@ const ITEMS=[
 "建物"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1142,6 +1185,7 @@ const ITEMS=[
 "建物"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1168,6 +1212,7 @@ const ITEMS=[
 "建物"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1194,6 +1239,7 @@ const ITEMS=[
 "建物表題登記"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1220,6 +1266,7 @@ const ITEMS=[
 "家"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1246,6 +1293,7 @@ const ITEMS=[
 "建物滅失登記"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1272,6 +1320,7 @@ const ITEMS=[
 "分筆"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1298,6 +1347,7 @@ const ITEMS=[
 "官民"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1324,6 +1374,7 @@ const ITEMS=[
 "境界"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1351,6 +1402,7 @@ const ITEMS=[
 "地目"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1377,6 +1429,7 @@ const ITEMS=[
 "相続"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1403,6 +1456,7 @@ const ITEMS=[
 "受付"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1429,6 +1483,7 @@ const ITEMS=[
 "費用"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1455,6 +1510,7 @@ const ITEMS=[
 "窓口"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1481,6 +1537,7 @@ const ITEMS=[
 "探す"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1507,6 +1564,7 @@ const ITEMS=[
 "測量"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1533,6 +1591,7 @@ const ITEMS=[
 "観測"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1559,6 +1618,7 @@ const ITEMS=[
 "記録"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1585,6 +1645,7 @@ const ITEMS=[
 "道路"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1611,6 +1672,7 @@ const ITEMS=[
 "境界"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1637,6 +1699,7 @@ const ITEMS=[
 "事務所"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1663,6 +1726,7 @@ const ITEMS=[
 "チェック"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1689,6 +1753,7 @@ const ITEMS=[
 "書類"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1715,6 +1780,7 @@ const ITEMS=[
 "登記"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1741,6 +1807,7 @@ const ITEMS=[
 "申請のあと"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1767,6 +1834,7 @@ const ITEMS=[
 "建物表題登記"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1793,6 +1861,7 @@ const ITEMS=[
 "延期"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1819,6 +1888,7 @@ const ITEMS=[
 "チーム"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1845,6 +1915,7 @@ const ITEMS=[
 "現地"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1536,
 "h": 1024
 },
@@ -1871,6 +1942,7 @@ const ITEMS=[
 "図解"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1897,6 +1969,7 @@ const ITEMS=[
 "図解"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1923,6 +1996,7 @@ const ITEMS=[
 "ずれ"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1949,6 +2023,7 @@ const ITEMS=[
 "虫めがね"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -1975,6 +2050,7 @@ const ITEMS=[
 "待つ"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -2001,6 +2077,7 @@ const ITEMS=[
 "書類"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -2027,6 +2104,7 @@ const ITEMS=[
 "相続"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 },
@@ -2053,6 +2131,7 @@ const ITEMS=[
 "判断"
 ],
 "credit": "Chihaya",
+"style": "フラット",
 "w": 1254,
 "h": 1254
 }

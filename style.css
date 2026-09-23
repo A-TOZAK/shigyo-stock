@@ -43,3 +43,5 @@ a{color:var(--ai)}
 .rule b{color:var(--shu)}
 footer{border-top:1px solid var(--line);padding:18px 24px;font-size:13px;color:var(--sub);text-align:center}
 @media (max-width:600px){.hero h1{font-size:23px}.top nav a{margin-left:12px}.filters .lab{width:100%}}
+.styleh{font-size:13px;color:var(--sub);margin:-2px 0 2px 4.5em}
+@media (max-width:600px){.styleh{margin-left:0}}

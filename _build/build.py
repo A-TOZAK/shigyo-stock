@@ -44,6 +44,7 @@ if missing:
     print("元の画像が見つかりません:", *missing, sep="\n  ")
     sys.exit(1)
 
+STYLE_OF = {"riko": "フラット", "mitoma": "線画", "sumire": "水彩"}
 items = []
 for a in cat["assets"]:
     im = flat(Image.open(SOZAI / a["src"]))
@@ -53,6 +54,7 @@ for a in cat["assets"]:
     ImageOps.grayscale(fit(im, FULL_W)).save(out / f'{a["id"]}_mono.jpg', quality=Q)
     it = {k: v for k, v in a.items() if k != "src"}
     it["credit"] = authors[a["author"]]["romaji"]
+    it["style"] = STYLE_OF[a["author"]]
     it["w"], it["h"] = fit(im, FULL_W).size
     items.append(it)
 
@@ -71,7 +73,7 @@ PAGE = """<!doctype html><html lang="ja"><head><meta charset="utf-8">
 </head><body>
 <header class="top"><a class="logo" href="../">士業ストック</a><nav><a href="../">素材をさがす</a><a href="../about.html">このサイトについて</a><a href="../terms.html">利用規約</a></nav></header>
 <main class="one">
-<p class="crumb"><a href="../">トップ</a> ／ {shikaku} ／ {dankai}</p>
+<p class="crumb"><a href="../">トップ</a> ／ {shikaku} ／ {dankai} ／ 絵柄　{style}</p>
 <h1>{title}</h1>
 <img class="big" src="../img/{id}.jpg" alt="{alt}" width="{w}" height="{h}">
 <div class="dl"><a class="btn" href="../img/{id}.jpg" download>カラーで保存</a><a class="btn sub" href="../img/{id}_mono.jpg" download>白黒で保存</a></div>
@@ -99,7 +101,7 @@ for it in items:
         url=url, img=img, ld=json.dumps(ld, ensure_ascii=False), id=it["id"],
         alt=e(it["alt"]), w=it["w"], h=it["h"], howto=e(it["howto"]),
         shikaku=e("、".join(it["shikaku"])), dankai=e(it["dankai"]),
-        tags=" ".join(f"<span>{e(t)}</span>" for t in it["tags"]), credit=it["credit"]))
+        style=it["style"], tags=" ".join(f"<span>{e(t)}</span>" for t in it["tags"]), credit=it["credit"]))
     urls.append(url)
 
 sm = ['<?xml version="1.0" encoding="UTF-8"?>',

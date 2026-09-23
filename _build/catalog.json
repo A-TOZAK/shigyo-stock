@@ -2461,6 +2461,222 @@
         "土地",
         "上から見た図"
       ]
+    },
+    {
+      "id": "chousashi-tanshin-dansei",
+      "src": "generated_chousashi_2026-09/riko_A14_tanshin_dansei_v2.png",
+      "author": "riko",
+      "title": "ひとりで来る30代の男性",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "人",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "ひとりで来る30代の男性のイラストです。",
+      "howto": "ひとりで相談に来る方への案内に使えます。",
+      "alt": "ひとりで来る30代の男性のイラスト。",
+      "tags": [
+        "依頼者",
+        "ひとり",
+        "男性"
+      ]
+    },
+    {
+      "id": "chousashi-hitorigurashi",
+      "src": "generated_chousashi_2026-09/riko_A15_hitorigurashi_v2.png",
+      "author": "riko",
+      "title": "ひとり暮らしの60代の女性",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "人",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "ひとり暮らしの60代の女性のイラストです。",
+      "howto": "ひとり暮らしの方への案内に使えます。",
+      "alt": "ひとり暮らしの60代の女性のイラスト。",
+      "tags": [
+        "ひとり暮らし",
+        "高齢の方",
+        "依頼者"
+      ]
+    },
+    {
+      "id": "chousashi-wakai-josei",
+      "src": "generated_chousashi_2026-09/riko_A16_wakai_josei_v2.png",
+      "author": "riko",
+      "title": "20代の女性",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "人",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "20代の女性のイラストです。",
+      "howto": "初めて土地や家を買う方への案内に使えます。",
+      "alt": "20代の女性のイラスト。",
+      "tags": [
+        "若い方",
+        "女性",
+        "依頼者"
+      ]
+    },
+    {
+      "id": "chousashi-chunen-dansei",
+      "src": "generated_chousashi_2026-09/riko_A17_chunen_dansei_v2.png",
+      "author": "riko",
+      "title": "50代の男性",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "人",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "50代の男性のイラストです。",
+      "howto": "親の家のことで相談に来る方への案内に使えます。",
+      "alt": "50代の男性のイラスト。",
+      "tags": [
+        "親の家",
+        "男性",
+        "依頼者"
+      ]
+    },
+    {
+      "id": "chousashi-senior-dansei",
+      "src": "generated_chousashi_2026-09/riko_A18_senior_dansei_v2.png",
+      "author": "riko",
+      "title": "80代の男性",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "人",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "80代の男性のイラストです。",
+      "howto": "高齢の方への案内に使えます。",
+      "alt": "80代の男性のイラスト。",
+      "tags": [
+        "高齢の方",
+        "男性",
+        "依頼者"
+      ]
+    },
+    {
+      "id": "chousashi-shinchiku-kazoku",
+      "src": "generated_chousashi_2026-09/riko_F31_shinchiku_kazoku_v2.png",
+      "author": "riko",
+      "title": "新しい家の前の若い家族",
+      "shikaku": [
+        "土地家屋調査士"
+      ],
+      "dankai": "完了",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "新しい家の前の若い家族ところを描いたイラストです。",
+      "howto": "建物表題登記の依頼者への説明に使えます。",
+      "alt": "新しい家の前の若い家族ところを描いたイラスト。",
+      "tags": [
+        "新築",
+        "家族",
+        "建物表題登記"
+      ]
+    },
+    {
+      "id": "kyoutsu-kodure-soudan-sen",
+      "src": "generated_chousashi_2026-09/mitoma_K21_kodure_soudan_v2.png",
+      "author": "mitoma",
+      "title": "子どもを連れた夫婦の相談",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "子どもを連れた夫婦の相談ところを描いたイラストです。",
+      "howto": "子ども連れでも相談できる、という案内に使えます。",
+      "alt": "子どもを連れた夫婦の相談ところを描いたイラスト。",
+      "tags": [
+        "子ども連れ",
+        "夫婦",
+        "相談"
+      ]
+    },
+    {
+      "id": "kyoutsu-tanshin-soudan-sen",
+      "src": "generated_chousashi_2026-09/mitoma_K22_tanshin_soudan_v2.png",
+      "author": "mitoma",
+      "title": "ひとりで来た男性の相談",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "ひとりで来た男性の相談ところを描いたイラストです。",
+      "howto": "ひとりで相談に来る方への案内に使えます。",
+      "alt": "ひとりで来た男性の相談ところを描いたイラスト。",
+      "tags": [
+        "ひとり",
+        "相談",
+        "男性"
+      ]
+    },
+    {
+      "id": "kyoutsu-hitori-senior-sen",
+      "src": "generated_chousashi_2026-09/mitoma_K23_hitori_senior_v2.png",
+      "author": "mitoma",
+      "title": "ひとりで来た高齢の女性の相談",
+      "shikaku": [
+        "共通"
+      ],
+      "dankai": "相談",
+      "kind": "場面",
+      "uses": [
+        "ホームページ",
+        "説明の紙",
+        "チラシ"
+      ],
+      "description": "ひとりで来た高齢の女性の相談ところを描いたイラストです。",
+      "howto": "高齢の方がひとりで相談に来る場面の案内に使えます。",
+      "alt": "ひとりで来た高齢の女性の相談ところを描いたイラスト。",
+      "tags": [
+        "高齢の方",
+        "ひとり",
+        "相談"
+      ]
     }
   ]
 }

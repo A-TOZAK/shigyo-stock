@@ -2464,7 +2464,7 @@
   },
   {
    "id": "chousashi-shinchiku-kazoku",
-   "src": "generated_chousashi_2026-09/riko_F31_shinchiku_kazoku_v2.png",
+   "src": "generated_shigyo_b2_2026-09/riko_F31_shinchiku_kazoku_v3.png",
    "author": "riko",
    "title": "新しい家の前の若い家族",
    "shikaku": [
@@ -3693,6 +3693,102 @@
     "図面",
     "確認",
     "チェック"
+   ]
+  },
+  {
+   "id": "chousashi-prism",
+   "src": "generated_shigyo_b2_2026-09/riko_B03_prism_v3.png",
+   "author": "riko",
+   "title": "ピンポールとプリズム",
+   "shikaku": [
+    "土地家屋調査士"
+   ],
+   "dankai": "現場",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ピンポールとプリズムのイラストです。",
+   "howto": "境界の点を測るときの道具の紹介に使えます。",
+   "alt": "ピンポールとプリズムのイラスト。",
+   "tags": [
+    "ピンポール",
+    "プリズム",
+    "測量"
+   ]
+  },
+  {
+   "id": "chousashi-online-shinsei",
+   "src": "generated_shigyo_b2_2026-09/riko_F18_online_shinsei_v3.png",
+   "author": "riko",
+   "title": "パソコンで登記を申請する",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "パソコンで登記を申請するところを描いたイラストです。",
+   "howto": "オンラインで申請する段の説明に使えます。",
+   "alt": "パソコンで登記を申請するところを描いたイラスト。",
+   "tags": [
+    "オンライン申請",
+    "パソコン",
+    "登記"
+   ]
+  },
+  {
+   "id": "kyoutsu-seminar-koushi-sen",
+   "src": "generated_shigyo_b2_2026-09/mitoma_K10_seminar_koushi_v3.png",
+   "author": "mitoma",
+   "title": "勉強会で話す講師",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "小さな集会所で、講師がスクリーンの横に立って話す場面のイラストです。",
+   "howto": "相談の流れや、事務所の案内に使えます。",
+   "alt": "小さな集会所で、講師がスクリーンの横に立って話す場面のイラスト。",
+   "tags": [
+    "勉強会",
+    "セミナー",
+    "講師"
+   ]
+  },
+  {
+   "id": "kyoutsu-tablet-sen",
+   "src": "generated_shigyo_b2_2026-09/mitoma_K18_tablet_v3.png",
+   "author": "mitoma",
+   "title": "タブレットを並んで見る",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "専門家と高齢の方が並んで座り、机のタブレットを一緒に見る場面のイラストです。",
+   "howto": "相談の流れや、事務所の案内に使えます。",
+   "alt": "専門家と高齢の方が並んで座り、机のタブレットを一緒に見る場面のイラスト。",
+   "tags": [
+    "タブレット",
+    "説明",
+    "高齢の方"
    ]
   }
  ]

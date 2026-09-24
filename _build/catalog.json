@@ -3983,6 +3983,77 @@
     "住宅地",
     "男性"
    ]
+  },
+  {
+   "id": "shiho-shoshi-m",
+   "src": "generated_shigyo_shiho_2026-09/riko_J01_shoshi_dansei.png",
+   "author": "riko",
+   "title": "司法書士（男性）",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類のファイルを持って立つ、40代の男性の司法書士のイラストです。",
+   "howto": "事務所の紹介や担当者の紹介に使えます。",
+   "alt": "書類のファイルを持って立つ、40代の男性の司法書士のイラスト。",
+   "tags": [
+    "司法書士",
+    "男性"
+   ]
+  },
+  {
+   "id": "shiho-shikibetsu",
+   "src": "generated_shigyo_shiho_2026-09/riko_D13_shikibetsu.png",
+   "author": "riko",
+   "title": "登記識別情報の通知",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "完了",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "目隠しのシールが貼られた、登記識別情報の通知のイラストです。",
+   "howto": "登記が終わったあとにお渡しする書類の説明に使えます。",
+   "alt": "目隠しのシールが貼られた、登記識別情報の通知のイラスト。",
+   "tags": [
+    "登記識別情報",
+    "権利証",
+    "完了"
+   ]
+  },
+  {
+   "id": "shiho-souzoku-soudan",
+   "src": "generated_shigyo_shiho_2026-09/riko_S11_souzoku_soudan.png",
+   "author": "riko",
+   "title": "相続の相談",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "司法書士が、高齢のお母さんと息子さんに相続の手続きを説明する場面のイラストです。",
+   "howto": "相続登記の相談の案内に使えます。",
+   "alt": "司法書士が、高齢のお母さんと息子さんに相続の手続きを説明する場面のイラスト。",
+   "tags": [
+    "相続",
+    "相談",
+    "家族"
+   ]
   }
  ]
 }

@@ -4455,6 +4455,195 @@
     "相続",
     "事務"
    ]
+  },
+  {
+   "id": "shiho-jitsuin",
+   "src": "generated_shigyo_shiho_2026-09/riko_S15_jitsuin.png",
+   "author": "riko",
+   "title": "実印を押す",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "依頼した方が、書類に実印を押す場面のイラストです。",
+   "howto": "書類に押印していただく段の説明に使えます。",
+   "alt": "依頼した方が、書類に実印を押す場面のイラスト。",
+   "tags": [
+    "実印",
+    "押印",
+    "書類"
+   ]
+  },
+  {
+   "id": "shiho-honnin-kakunin",
+   "src": "generated_shigyo_shiho_2026-09/riko_S16_honnin_kakunin.png",
+   "author": "riko",
+   "title": "本人確認",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "司法書士が、身分証を見てご本人かどうかを確かめる場面のイラストです。",
+   "howto": "本人確認のお願いの説明に使えます。",
+   "alt": "司法書士が、身分証を見てご本人かどうかを確かめる場面のイラスト。",
+   "tags": [
+    "本人確認",
+    "身分証"
+   ]
+  },
+  {
+   "id": "shiho-online",
+   "src": "generated_shigyo_shiho_2026-09/riko_S19_online.png",
+   "author": "riko",
+   "title": "オンラインで申請する",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "司法書士が、パソコンで登記の申請をする場面のイラストです。",
+   "howto": "オンライン申請の説明に使えます。",
+   "alt": "司法書士が、パソコンで登記の申請をする場面のイラスト。",
+   "tags": [
+    "オンライン",
+    "申請",
+    "パソコン"
+   ]
+  },
+  {
+   "id": "shiho-kaisha-setsuritsu",
+   "src": "generated_shigyo_shiho_2026-09/riko_S21_kaisha_setsuritsu.png",
+   "author": "riko",
+   "title": "会社の設立の相談",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "会社を始める方が、司法書士と定款を見ながら相談する場面のイラストです。",
+   "howto": "会社の設立の案内に使えます。",
+   "alt": "会社を始める方が、司法書士と定款を見ながら相談する場面のイラスト。",
+   "tags": [
+    "会社設立",
+    "定款",
+    "相談"
+   ]
+  },
+  {
+   "id": "shiho-teikan-ninshou",
+   "src": "generated_shigyo_shiho_2026-09/riko_S22_teikan_ninshou.png",
+   "author": "riko",
+   "title": "定款の認証",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "公証役場で、公証人が定款を確かめ、司法書士が待つ場面のイラストです。",
+   "howto": "会社の設立の流れの説明に使えます。",
+   "alt": "公証役場で、公証人が定款を確かめ、司法書士が待つ場面のイラスト。",
+   "tags": [
+    "定款",
+    "公証役場",
+    "会社設立"
+   ]
+  },
+  {
+   "id": "shiho-juusho-henkou",
+   "src": "generated_shigyo_shiho_2026-09/riko_S24_juusho_henkou.png",
+   "author": "riko",
+   "title": "引っ越しと住所の変更",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "引っ越しの荷物の横で、夫婦が届いた手紙を読む場面のイラストです。",
+   "howto": "住所が変わったときの登記の案内に使えます。",
+   "alt": "引っ越しの荷物の横で、夫婦が届いた手紙を読む場面のイラスト。",
+   "tags": [
+    "住所変更",
+    "引っ越し"
+   ]
+  },
+  {
+   "id": "shiho-uketsuke",
+   "src": "generated_shigyo_shiho_2026-09/riko_S25_uketsuke.png",
+   "author": "riko",
+   "title": "事務所の受付",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所の受付で、事務の方が高齢の男性を迎える場面のイラストです。",
+   "howto": "ご来所の案内に使えます。",
+   "alt": "事務所の受付で、事務の方が高齢の男性を迎える場面のイラスト。",
+   "tags": [
+    "受付",
+    "来所",
+    "高齢の方"
+   ]
+  },
+  {
+   "id": "shiho-denwa",
+   "src": "generated_shigyo_shiho_2026-09/riko_S26_denwa.png",
+   "author": "riko",
+   "title": "電話で相談を受ける",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "女性の司法書士が、電話で相談を受けながらメモを取る場面のイラストです。",
+   "howto": "お電話での相談の案内に使えます。",
+   "alt": "女性の司法書士が、電話で相談を受けながらメモを取る場面のイラスト。",
+   "tags": [
+    "電話",
+    "相談"
+   ]
   }
  ]
 }

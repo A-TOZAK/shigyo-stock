@@ -4929,6 +4929,76 @@
     "高齢の方",
     "家族"
    ]
+  },
+  {
+   "id": "shiho-jikka-touki-sen",
+   "src": "generated_shigyo_shiho_2026-09/mitoma_M33_jikka_touki_v2.png",
+   "author": "mitoma",
+   "title": "実家の書類を家族で見る",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "高齢の母と息子と娘が、実家の書類を一緒に見る場面のイラストです。",
+   "howto": "実家の名義の話を家族で始める案内に使えます。",
+   "alt": "高齢の母と息子と娘が、実家の書類を一緒に見る場面のイラスト。",
+   "tags": [
+    "実家",
+    "家族",
+    "相続"
+   ]
+  },
+  {
+   "id": "shiho-yuigon-sen",
+   "src": "generated_shigyo_shiho_2026-09/mitoma_M34_yuigon_v2.png",
+   "author": "mitoma",
+   "title": "遺言を書く",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "高齢の女性が遺言を書き、専門家がそばで話を聞く場面のイラストです。",
+   "howto": "遺言の相談の案内に使えます。",
+   "alt": "高齢の女性が遺言を書き、専門家がそばで話を聞く場面のイラスト。",
+   "tags": [
+    "遺言",
+    "高齢の方"
+   ]
+  },
+  {
+   "id": "shiho-madoguchi-sen",
+   "src": "generated_shigyo_shiho_2026-09/mitoma_M36_madoguchi_v2.png",
+   "author": "mitoma",
+   "title": "窓口で説明を受ける",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "窓口の職員が、高齢の男性に書類を見せて説明する場面のイラストです。",
+   "howto": "手続きの窓口の案内に使えます。",
+   "alt": "窓口の職員が、高齢の男性に書類を見せて説明する場面のイラスト。",
+   "tags": [
+    "窓口",
+    "高齢の方"
+   ]
   }
  ]
 }

@@ -4220,6 +4220,241 @@
     "実印",
     "書類"
    ]
+  },
+  {
+   "id": "shiho-bunkatsu-kyougi",
+   "src": "generated_shigyo_shiho_2026-09/riko_D14_bunkatsu_kyougi.png",
+   "author": "riko",
+   "title": "遺産分割協議書",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "相続人の印が並んだ、遺産分割協議書のイラストです。",
+   "howto": "遺産分割の話し合いのあとの書類の説明に使えます。",
+   "alt": "相続人の印が並んだ、遺産分割協議書のイラスト。",
+   "tags": [
+    "遺産分割",
+    "相続",
+    "書類"
+   ]
+  },
+  {
+   "id": "shiho-touki-shoumei",
+   "src": "generated_shigyo_shiho_2026-09/riko_D15_touki_shoumei.png",
+   "author": "riko",
+   "title": "登記事項証明書",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "調査",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "登記事項証明書（登記簿謄本）のイラストです。",
+   "howto": "不動産の今の持ち主を調べる段の説明に使えます。",
+   "alt": "登記事項証明書（登記簿謄本）のイラスト。",
+   "tags": [
+    "登記簿",
+    "証明書",
+    "調査"
+   ]
+  },
+  {
+   "id": "shiho-ininjou",
+   "src": "generated_shigyo_shiho_2026-09/riko_D16_ininjou.png",
+   "author": "riko",
+   "title": "委任状",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ペンをそえた委任状のイラストです。",
+   "howto": "ご依頼のときに書いていただく書類の説明に使えます。",
+   "alt": "ペンをそえた委任状のイラスト。",
+   "tags": [
+    "委任状",
+    "書類"
+   ]
+  },
+  {
+   "id": "shiho-teikan",
+   "src": "generated_shigyo_shiho_2026-09/riko_D17_teikan.png",
+   "author": "riko",
+   "title": "会社の定款",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "とじた会社の定款のイラストです。",
+   "howto": "会社の設立の流れの説明に使えます。",
+   "alt": "とじた会社の定款のイラスト。",
+   "tags": [
+    "定款",
+    "会社設立"
+   ]
+  },
+  {
+   "id": "shiho-shokuin",
+   "src": "generated_shigyo_shiho_2026-09/riko_D18_shokuin.png",
+   "author": "riko",
+   "title": "職印",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "申請",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "朱肉の上の四角い職印と、押した印のイラストです。",
+   "howto": "申請の書類づくりの説明に使えます。",
+   "alt": "朱肉の上の四角い職印と、押した印のイラスト。",
+   "tags": [
+    "職印",
+    "印鑑"
+   ]
+  },
+  {
+   "id": "shiho-shorui-hako",
+   "src": "generated_shigyo_shiho_2026-09/riko_D19_kouseki_hako.png",
+   "author": "riko",
+   "title": "書類の保管箱",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "その後",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類をとじて入れた保管箱のイラストです。",
+   "howto": "お預かりした書類の保管の説明に使えます。",
+   "alt": "書類をとじて入れた保管箱のイラスト。",
+   "tags": [
+    "保管",
+    "書類"
+   ]
+  },
+  {
+   "id": "shiho-koushou-yakuba",
+   "src": "generated_shigyo_shiho_2026-09/riko_E21_koushou_yakuba.png",
+   "author": "riko",
+   "title": "公証役場",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "申請",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ビルの1階にある公証役場の入口のイラストです。",
+   "howto": "公証役場へ行く段の説明に使えます。",
+   "alt": "ビルの1階にある公証役場の入口のイラスト。",
+   "tags": [
+    "公証役場",
+    "場所"
+   ]
+  },
+  {
+   "id": "shiho-saibansho",
+   "src": "generated_shigyo_shiho_2026-09/riko_E22_saibansho.png",
+   "author": "riko",
+   "title": "裁判所",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "申請",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "低い建物の裁判所のイラストです。",
+   "howto": "成年後見や裁判所の手続きの説明に使えます。",
+   "alt": "低い建物の裁判所のイラスト。",
+   "tags": [
+    "裁判所",
+    "場所",
+    "成年後見"
+   ]
+  },
+  {
+   "id": "shiho-ginko-oosetsu",
+   "src": "generated_shigyo_shiho_2026-09/riko_E23_ginko_oosetsu.png",
+   "author": "riko",
+   "title": "銀行の応接室",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "完了",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "決済の場になる、銀行の小さな応接室のイラストです。",
+   "howto": "不動産の売買の決済の説明に使えます。",
+   "alt": "決済の場になる、銀行の小さな応接室のイラスト。",
+   "tags": [
+    "銀行",
+    "決済",
+    "場所"
+   ]
+  },
+  {
+   "id": "shiho-koseki-atsume",
+   "src": "generated_shigyo_shiho_2026-09/riko_S12_koseki_atsume.png",
+   "author": "riko",
+   "title": "戸籍を集める",
+   "shikaku": [
+    "司法書士"
+   ],
+   "dankai": "調査",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務の方が、役所から届いた封筒を開けて戸籍をそろえる場面のイラストです。",
+   "howto": "相続人を調べる段の説明に使えます。",
+   "alt": "事務の方が、役所から届いた封筒を開けて戸籍をそろえる場面のイラスト。",
+   "tags": [
+    "戸籍",
+    "相続",
+    "事務"
+   ]
   }
  ]
 }

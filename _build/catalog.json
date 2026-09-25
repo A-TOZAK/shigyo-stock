@@ -5506,6 +5506,196 @@
     "定年",
     "高齢の方"
    ]
+  },
+  {
+   "id": "sharoushi-shugyou-kisoku",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D51_shugyou_kisoku.png",
+   "author": "riko",
+   "title": "就業規則",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ふせんのついた、厚い就業規則の冊子のイラストです。",
+   "howto": "就業規則づくりの案内に使えます。",
+   "alt": "ふせんのついた、厚い就業規則の冊子のイラスト。",
+   "tags": [
+    "就業規則",
+    "書類"
+   ]
+  },
+  {
+   "id": "sharoushi-koyou-keiyaku",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D52_koyou_keiyaku.png",
+   "author": "riko",
+   "title": "雇用契約書と労働条件通知書",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "並べて置いた雇用契約書と労働条件通知書とペンのイラストです。",
+   "howto": "入社の手続きでそろえる書類の説明に使えます。",
+   "alt": "並べて置いた雇用契約書と労働条件通知書とペンのイラスト。",
+   "tags": [
+    "雇用契約",
+    "労働条件",
+    "書類"
+   ]
+  },
+  {
+   "id": "sharoushi-kyuyo-meisai",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D53_kyuyo_meisai.png",
+   "author": "riko",
+   "title": "給与明細",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "封筒から半分出た、数字のない給与明細のイラストです。",
+   "howto": "給与計算の案内に使えます。",
+   "alt": "封筒から半分出た、数字のない給与明細のイラスト。",
+   "tags": [
+    "給与計算",
+    "給与明細",
+    "書類"
+   ]
+  },
+  {
+   "id": "sharoushi-kintai",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D54_kintai.png",
+   "author": "riko",
+   "title": "タイムカード",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "壁のホルダーに差したタイムカードのイラストです。",
+   "howto": "勤怠の記録の説明に使えます。",
+   "alt": "壁のホルダーに差したタイムカードのイラスト。",
+   "tags": [
+    "勤怠",
+    "タイムカード",
+    "給与計算"
+   ]
+  },
+  {
+   "id": "sharoushi-nenkin-shorui",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D55_nenkin_shorui.png",
+   "author": "riko",
+   "title": "年金の書類",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "申請",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "表紙に何もない年金の手帳と封筒と申請書のイラストです。",
+   "howto": "年金の手続きの説明に使えます。",
+   "alt": "表紙に何もない年金の手帳と封筒と申請書のイラスト。",
+   "tags": [
+    "年金",
+    "書類"
+   ]
+  },
+  {
+   "id": "sharoushi-todokede",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D56_todokede.png",
+   "author": "riko",
+   "title": "社会保険の届出書類",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "申請",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "クリップでとめた、社会保険の届出書類の束のイラストです。",
+   "howto": "手続きの代行の説明に使えます。",
+   "alt": "クリップでとめた、社会保険の届出書類の束のイラスト。",
+   "tags": [
+    "社会保険",
+    "届出",
+    "書類"
+   ]
+  },
+  {
+   "id": "sharoushi-card-reader",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D57_card_reader.png",
+   "author": "riko",
+   "title": "ICカードリーダー",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "申請",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "カードを差したICカードリーダーのイラストです。",
+   "howto": "電子申請の準備の説明に使えます。",
+   "alt": "カードを差したICカードリーダーのイラスト。",
+   "tags": [
+    "電子申請",
+    "カードリーダー",
+    "道具"
+   ]
+  },
+  {
+   "id": "sharoushi-kinmu-seido",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_D58_kinmu_seido.png",
+   "author": "riko",
+   "title": "働き方を選ぶ表",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "チェック欄のついた、働き方の制度の一覧表のイラストです。",
+   "howto": "短時間勤務などの制度の説明に使えます。",
+   "alt": "チェック欄のついた、働き方の制度の一覧表のイラスト。",
+   "tags": [
+    "働き方",
+    "制度",
+    "育児"
+   ]
   }
  ]
 }

@@ -4605,7 +4605,7 @@
   },
   {
    "id": "gyosei-f",
-   "src": "generated_shigyo_gyosei_2026-09/riko_G02_gyosei_josei.png",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G02_gyosei_josei_v2.png",
    "author": "riko",
    "title": "行政書士（女性）",
    "shikaku": [
@@ -4958,6 +4958,339 @@
     "勉強会",
     "セミナー",
     "講師"
+   ]
+  },
+  {
+   "id": "gyosei-kensetsu-shachou",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G05_kensetsu_shachou_v2.png",
+   "author": "riko",
+   "title": "建設会社の社長",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "図面を持って立つ、小さな建設会社の社長のイラストです。",
+   "howto": "建設業の許可の相談の案内に使えます。",
+   "alt": "図面を持って立つ、小さな建設会社の社長のイラスト。",
+   "tags": [
+    "建設業",
+    "許可",
+    "社長"
+   ]
+  },
+  {
+   "id": "gyosei-inshokuten",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G06_inshokuten_v2.png",
+   "author": "riko",
+   "title": "お店を開く方",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "エプロン姿で書類を持つ、飲食店を開く方のイラストです。",
+   "howto": "飲食店の開業の手続きの案内に使えます。",
+   "alt": "エプロン姿で書類を持つ、飲食店を開く方のイラスト。",
+   "tags": [
+    "飲食店",
+    "開業",
+    "許可"
+   ]
+  },
+  {
+   "id": "gyosei-gaikokujin-m",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G07_gaikokujin_dansei_v2.png",
+   "author": "riko",
+   "title": "日本で働く方（男性）",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "封筒を持って立つ、日本で働く若い男性のイラストです。",
+   "howto": "在留資格の手続きの案内に使えます。",
+   "alt": "封筒を持って立つ、日本で働く若い男性のイラスト。",
+   "tags": [
+    "在留資格",
+    "外国の方",
+    "男性"
+   ]
+  },
+  {
+   "id": "gyosei-gaikokujin-f",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G08_gaikokujin_josei_v2.png",
+   "author": "riko",
+   "title": "日本で働く方（女性）",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ファイルを持って立つ、日本で働く女性のイラストです。",
+   "howto": "在留資格の手続きの案内に使えます。",
+   "alt": "ファイルを持って立つ、日本で働く女性のイラスト。",
+   "tags": [
+    "在留資格",
+    "外国の方",
+    "女性"
+   ]
+  },
+  {
+   "id": "gyosei-youken-kakunin",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S32_youken_kakunin_v2.png",
+   "author": "riko",
+   "title": "許可の要件を確かめる",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "調査",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "行政書士と社長が並んで、これまでの仕事の記録を確かめる場面のイラストです。",
+   "howto": "許可の条件を満たしているか確かめる段の説明に使えます。",
+   "alt": "行政書士と社長が並んで、これまでの仕事の記録を確かめる場面のイラスト。",
+   "tags": [
+    "許可",
+    "要件",
+    "確認"
+   ]
+  },
+  {
+   "id": "kyoutsu-seminar-memo",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K32_seminar_memo_v2.png",
+   "author": "riko",
+   "title": "勉強会でメモを取る参加者",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "勉強会で、高齢の方と中年の方が配られた紙にメモを取る場面のイラストです。",
+   "howto": "勉強会やセミナーのチラシに使えます。",
+   "alt": "勉強会で、高齢の方と中年の方が配られた紙にメモを取る場面のイラスト。",
+   "tags": [
+    "勉強会",
+    "セミナー",
+    "メモ"
+   ]
+  },
+  {
+   "id": "kyoutsu-houmon",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K34_houmon.png",
+   "author": "riko",
+   "title": "お宅を訪ねる",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "専門家が高齢の方のお宅を訪ね、玄関であいさつする場面のイラストです。",
+   "howto": "出張での相談の案内に使えます。",
+   "alt": "専門家が高齢の方のお宅を訪ね、玄関であいさつする場面のイラスト。",
+   "tags": [
+    "訪問",
+    "高齢の方",
+    "玄関"
+   ]
+  },
+  {
+   "id": "kyoutsu-meishi-aisatsu",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K35_meishi_aisatsu.png",
+   "author": "riko",
+   "title": "名刺を渡してあいさつする",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "専門家が名刺を両手で差し出して、あいさつする場面のイラストです。",
+   "howto": "初めてお会いする場面の説明に使えます。",
+   "alt": "専門家が名刺を両手で差し出して、あいさつする場面のイラスト。",
+   "tags": [
+    "あいさつ",
+    "名刺"
+   ]
+  },
+  {
+   "id": "kyoutsu-shokai-soudan",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K36_shokai_soudan.png",
+   "author": "riko",
+   "title": "初めての相談",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "40代の女性が、ソファに座って専門家に初めて相談する場面のイラストです。",
+   "howto": "初めての相談の案内に使えます。",
+   "alt": "40代の女性が、ソファに座って専門家に初めて相談する場面のイラスト。",
+   "tags": [
+    "相談",
+    "女性",
+    "初めて"
+   ]
+  },
+  {
+   "id": "kyoutsu-tegami-yomu",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K37_tegami_yomu.png",
+   "author": "riko",
+   "title": "届いた手紙を読む",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "高齢の男性が、届いた手紙を落ち着いて読む場面のイラストです。",
+   "howto": "役所からのお知らせが届いたときの案内に使えます。",
+   "alt": "高齢の男性が、届いた手紙を落ち着いて読む場面のイラスト。",
+   "tags": [
+    "手紙",
+    "お知らせ",
+    "高齢の方"
+   ]
+  },
+  {
+   "id": "kyoutsu-madoguchi-koureisha",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K38_madoguchi_koureisha.png",
+   "author": "riko",
+   "title": "窓口で説明を受ける",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "窓口の職員が、高齢の男性に書類を見せて説明する場面のイラストです。",
+   "howto": "手続きの窓口の案内に使えます。",
+   "alt": "窓口の職員が、高齢の男性に書類を見せて説明する場面のイラスト。",
+   "tags": [
+    "窓口",
+    "高齢の方"
+   ]
+  },
+  {
+   "id": "kyoutsu-shomei",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K39_shomei.png",
+   "author": "riko",
+   "title": "書類に署名する",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "女性が、机で書類に署名する場面のイラストです。",
+   "howto": "書類に署名していただく段の説明に使えます。",
+   "alt": "女性が、机で書類に署名する場面のイラスト。",
+   "tags": [
+    "署名",
+    "書類"
+   ]
+  },
+  {
+   "id": "kyoutsu-jikka-kazoku",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K40_jikka_kazoku.png",
+   "author": "riko",
+   "title": "実家の書類を家族で見る",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "高齢の母と息子と娘が、実家の書類を一緒に見る場面のイラストです。",
+   "howto": "実家の話を家族で始める案内に使えます。",
+   "alt": "高齢の母と息子と娘が、実家の書類を一緒に見る場面のイラスト。",
+   "tags": [
+    "実家",
+    "家族",
+    "相続"
+   ]
+  },
+  {
+   "id": "kyoutsu-henji-matsu",
+   "src": "generated_shigyo_gyosei_2026-09/riko_K41_henji_matsu.png",
+   "author": "riko",
+   "title": "返事を待つ",
+   "shikaku": [
+    "共通"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "高齢の夫婦が、届いた封筒を前に落ち着いて待つ場面のイラストです。",
+   "howto": "手続きのあいだの待ち時間の説明に使えます。",
+   "alt": "高齢の夫婦が、届いた封筒を前に落ち着いて待つ場面のイラスト。",
+   "tags": [
+    "待つ",
+    "高齢の方",
+    "夫婦"
    ]
   }
  ]

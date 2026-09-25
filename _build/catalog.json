@@ -4250,6 +4250,171 @@
     "高齢の方",
     "家族"
    ]
+  },
+  {
+   "id": "gyosei-m",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G01_gyosei_dansei.png",
+   "author": "riko",
+   "title": "行政書士（男性）",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類のファイルを持って立つ、40代の男性の行政書士のイラストです。",
+   "howto": "事務所の紹介や担当者の紹介に使えます。",
+   "alt": "書類のファイルを持って立つ、40代の男性の行政書士のイラスト。",
+   "tags": [
+    "行政書士",
+    "男性"
+   ]
+  },
+  {
+   "id": "gyosei-veteran-m",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G03_gyosei_veteran_dansei.png",
+   "author": "riko",
+   "title": "ベテランの行政書士（男性）",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "手を後ろに組んで立つ、60代の男性の行政書士のイラストです。",
+   "howto": "代表の紹介や事務所の案内に使えます。",
+   "alt": "手を後ろに組んで立つ、60代の男性の行政書士のイラスト。",
+   "tags": [
+    "行政書士",
+    "男性",
+    "ベテラン"
+   ]
+  },
+  {
+   "id": "gyosei-veteran-f",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G04_gyosei_veteran_josei.png",
+   "author": "riko",
+   "title": "ベテランの行政書士（女性）",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ファイルを持って立つ、50代の女性の行政書士のイラストです。",
+   "howto": "代表の紹介や事務所の案内に使えます。",
+   "alt": "ファイルを持って立つ、50代の女性の行政書士のイラスト。",
+   "tags": [
+    "行政書士",
+    "女性",
+    "ベテラン"
+   ]
+  },
+  {
+   "id": "gyosei-kyoka-madoguchi",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G09_kyoka_madoguchi.png",
+   "author": "riko",
+   "title": "許可の窓口の職員",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "申請",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "役所の許可の窓口に座る職員のイラストです。",
+   "howto": "申請先の窓口の説明に使えます。",
+   "alt": "役所の許可の窓口に座る職員のイラスト。",
+   "tags": [
+    "役所",
+    "窓口",
+    "許可"
+   ]
+  },
+  {
+   "id": "gyosei-kyoka-shinsei",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D31_kyoka_shinsei.png",
+   "author": "riko",
+   "title": "許可の申請書類",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "見出しのふせんがついた、許可の申請書類の束のイラストです。",
+   "howto": "申請書類をそろえる段の説明に使えます。",
+   "alt": "見出しのふせんがついた、許可の申請書類の束のイラスト。",
+   "tags": [
+    "許可",
+    "申請書",
+    "書類"
+   ]
+  },
+  {
+   "id": "gyosei-kessansho",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D32_kessansho.png",
+   "author": "riko",
+   "title": "決算書",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "簡単な棒グラフがのった決算書のイラストです。",
+   "howto": "許可の申請に使う書類の説明に使えます。",
+   "alt": "簡単な棒グラフがのった決算書のイラスト。",
+   "tags": [
+    "決算書",
+    "書類"
+   ]
+  },
+  {
+   "id": "gyosei-keiyakusho",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D33_keiyakusho.png",
+   "author": "riko",
+   "title": "契約書",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "印を押した2通の契約書とペンのイラストです。",
+   "howto": "契約書づくりの案内に使えます。",
+   "alt": "印を押した2通の契約書とペンのイラスト。",
+   "tags": [
+    "契約書",
+    "書類"
+   ]
   }
  ]
 }

@@ -5316,6 +5316,196 @@
     "家族",
     "高齢の方"
    ]
+  },
+  {
+   "id": "sharoushi-m",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L01_sharoushi_dansei.png",
+   "author": "riko",
+   "title": "社労士（男性）",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類のファイルを持って立つ、40代の男性の社労士のイラストです。",
+   "howto": "事務所の紹介や担当者の紹介に使えます。",
+   "alt": "書類のファイルを持って立つ、40代の男性の社労士のイラスト。",
+   "tags": [
+    "社労士",
+    "男性"
+   ]
+  },
+  {
+   "id": "sharoushi-f",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L02_sharoushi_josei.png",
+   "author": "riko",
+   "title": "社労士（女性）",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "フォルダを胸の前で持つ、30代の女性の社労士のイラストです。",
+   "howto": "事務所の紹介や担当者の紹介に使えます。",
+   "alt": "フォルダを胸の前で持つ、30代の女性の社労士のイラスト。",
+   "tags": [
+    "社労士",
+    "女性"
+   ]
+  },
+  {
+   "id": "sharoushi-veteran",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L03_sharoushi_veteran.png",
+   "author": "riko",
+   "title": "ベテランの社労士",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "手を後ろに組んで立つ、60代の男性の社労士のイラストです。",
+   "howto": "代表の紹介や事務所の案内に使えます。",
+   "alt": "手を後ろに組んで立つ、60代の男性の社労士のイラスト。",
+   "tags": [
+    "社労士",
+    "男性",
+    "ベテラン"
+   ]
+  },
+  {
+   "id": "sharoushi-keieisha",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L04_keieisha.png",
+   "author": "riko",
+   "title": "小さな会社の社長",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ノートを持って立つ、小さな会社の50代の社長のイラストです。",
+   "howto": "顧問のご相談の案内に使えます。",
+   "alt": "ノートを持って立つ、小さな会社の50代の社長のイラスト。",
+   "tags": [
+    "会社",
+    "社長",
+    "経営者"
+   ]
+  },
+  {
+   "id": "sharoushi-jinji",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L05_jinji_tantou.png",
+   "author": "riko",
+   "title": "人事の担当者",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "フォルダを持って立つ、会社の人事の担当者のイラストです。",
+   "howto": "手続きの窓口になる方の説明に使えます。",
+   "alt": "フォルダを持って立つ、会社の人事の担当者のイラスト。",
+   "tags": [
+    "人事",
+    "総務",
+    "担当者"
+   ]
+  },
+  {
+   "id": "sharoushi-part",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L06_part.png",
+   "author": "riko",
+   "title": "パートで働く方",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "エプロン姿で立つ、パートで働く40代の女性のイラストです。",
+   "howto": "社会保険の加入の説明に使えます。",
+   "alt": "エプロン姿で立つ、パートで働く40代の女性のイラスト。",
+   "tags": [
+    "パート",
+    "社会保険",
+    "女性"
+   ]
+  },
+  {
+   "id": "sharoushi-shinnyu",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L07_shinnyu_shain.png",
+   "author": "riko",
+   "title": "新しく入った社員",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "書類",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "封筒を持って立つ、新しく入った20代の社員のイラストです。",
+   "howto": "入社の手続きの説明に使えます。",
+   "alt": "封筒を持って立つ、新しく入った20代の社員のイラスト。",
+   "tags": [
+    "入社",
+    "新入社員",
+    "手続き"
+   ]
+  },
+  {
+   "id": "sharoushi-saikoyou",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_L08_saikoyou.png",
+   "author": "riko",
+   "title": "定年のあとも働く方",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "フォルダを持って立つ、60代の男性の社員のイラストです。",
+   "howto": "定年後の再雇用の案内に使えます。",
+   "alt": "フォルダを持って立つ、60代の男性の社員のイラスト。",
+   "tags": [
+    "再雇用",
+    "定年",
+    "高齢の方"
+   ]
   }
  ]
 }

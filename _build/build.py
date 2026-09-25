@@ -73,7 +73,7 @@ PAGE = """<!doctype html><html lang="ja"><head><meta charset="utf-8">
 </head><body>
 <header class="top"><a class="logo" href="../">士業ストック</a><nav><a href="../">素材をさがす</a><a href="../about.html">このサイトについて</a><a href="../terms.html">利用規約</a></nav></header>
 <main class="one">
-<p class="crumb"><a href="../">トップ</a> ／ {shikaku} ／ {dankai} ／ 絵柄　{style}</p>
+<p class="crumb"><a href="../">トップ</a> ／ {shikaku} ／ {dankai}</p>
 <h1>{title}</h1>
 <img class="big" src="../img/{id}.jpg" alt="{alt}" width="{w}" height="{h}">
 <div class="dl"><a class="btn" href="../img/{id}.jpg" download>カラーで保存</a><a class="btn sub" href="../img/{id}_mono.jpg" download>白黒で保存</a></div>

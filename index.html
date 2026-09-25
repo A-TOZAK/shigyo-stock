@@ -18,40 +18,33 @@
   <div class="flow" id="flow" aria-label="段階で絞りこむ"></div>
 </section>
 <section class="filters">
-  <div class="row"><span class="lab">絵柄</span><span id="f-style"></span></div>
-  <p class="styleh" id="styleh">1つのページの中では、絵柄をそろえて使うと読みやすくなります。</p>
   <div class="row"><span class="lab">資格</span><span id="f-shikaku"></span></div>
   <div class="row"><span class="lab">種類</span><span id="f-kind"></span></div>
   <div class="row"><input id="q" type="search" placeholder="ことばでさがす（例　立会い、相談、境界）" aria-label="ことばでさがす"></div>
 </section>
 <p class="count" id="count"></p>
 <main class="grid" id="grid"></main>
-<p class="note">いまは準備中で、見本の絵だけを置いています。土地家屋調査士の仕事の絵から順に増やします。絵はAIで下絵を作り、人が1枚ずつ確かめています。</p>
+<p class="note">土地家屋調査士と司法書士の絵から、順に増やしています。絵はAIで下絵を作り、人が1枚ずつ確かめています。</p>
 <footer>© 士業ストック（外﨑顯博）　<a href="terms.html">利用規約</a></footer>
 <script src="items.js"></script>
 <script>
 const DANKAI=["相談","見積もり","調査","現場","書類","申請","完了","その後"];
 const SHIKAKU=["共通","土地家屋調査士","司法書士","行政書士","社労士","税理士","弁護士"];
 const KIND=["人","場面","道具","書類の形","場所","図解の部品"];
-const STYLE=["フラット","線画","水彩"];
-const STYLE_NOTE={"フラット":"色の面で描いた絵です。仕事の流れ、道具、図解の説明に向いています。","線画":"藍色の線で描いた絵です。相談や家族の場面、高齢の方に向けたチラシに向いています。","水彩":"水彩の絵です。表紙やトップの情景に向いています。"};
 const st={style:null,dankai:null,shikaku:null,kind:null,q:""};
 function chips(el,list,key,cls){el.innerHTML="";list.forEach(v=>{const b=document.createElement("button");b.className=cls;b.textContent=v;b.setAttribute("aria-pressed","false");b.onclick=()=>{st[key]=st[key]===v?null:v;render()};el.appendChild(b)})}
 chips(document.getElementById("flow"),DANKAI,"dankai","");
 chips(document.getElementById("f-shikaku"),SHIKAKU,"shikaku","chip");
 chips(document.getElementById("f-kind"),KIND,"kind","chip");
-chips(document.getElementById("f-style"),STYLE,"style","chip");
 document.getElementById("q").oninput=e=>{st.q=e.target.value.trim();render()};
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 function render(){
   document.querySelectorAll("#flow button").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.dankai));
   document.querySelectorAll("#f-shikaku .chip").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.shikaku));
   document.querySelectorAll("#f-kind .chip").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.kind));
-  document.querySelectorAll("#f-style .chip").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.style));
-  document.getElementById("styleh").textContent=st.style?STYLE_NOTE[st.style]:"1つのページの中では、絵柄をそろえて使うと読みやすくなります。";
-  const hit=ITEMS.filter(it=>(!st.style||it.style===st.style)&&(!st.dankai||it.dankai===st.dankai)&&(!st.shikaku||it.shikaku.includes(st.shikaku))&&(!st.kind||it.kind===st.kind)&&(!st.q||(it.title+it.description+it.tags.join(" ")).includes(st.q)));
+  const hit=ITEMS.filter(it=>(!st.dankai||it.dankai===st.dankai)&&(!st.shikaku||it.shikaku.includes(st.shikaku))&&(!st.kind||it.kind===st.kind)&&(!st.q||(it.title+it.description+it.tags.join(" ")).includes(st.q)));
   document.getElementById("count").textContent=hit.length+"点";
-  document.getElementById("grid").innerHTML=hit.map(it=>`<article class="card"><a class="pic" href="i/${it.id}.html"><img loading="lazy" src="img/${it.id}_thumb.jpg" alt="${esc(it.alt)}"></a><div class="b"><h3>${esc(it.title)}</h3><div class="m">${esc(it.style)}　${esc(it.shikaku.join("、"))}　${esc(it.dankai)}</div><div class="d"><a class="btn" href="img/${it.id}.jpg" download>カラー</a><a class="btn sub" href="img/${it.id}_mono.jpg" download>白黒</a></div></div></article>`).join("");
+  document.getElementById("grid").innerHTML=hit.map(it=>`<article class="card"><a class="pic" href="i/${it.id}.html"><img loading="lazy" src="img/${it.id}_thumb.jpg" alt="${esc(it.alt)}"></a><div class="b"><h3>${esc(it.title)}</h3><div class="m">${esc(it.shikaku.join("、"))}　${esc(it.dankai)}</div><div class="d"><a class="btn" href="img/${it.id}.jpg" download>カラー</a><a class="btn sub" href="img/${it.id}_mono.jpg" download>白黒</a></div></div></article>`).join("");
 }
 render();
 </script>

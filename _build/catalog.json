@@ -4415,6 +4415,384 @@
     "契約書",
     "書類"
    ]
+  },
+  {
+   "id": "gyosei-zairyu-shorui",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D34_zairyu_shorui.png",
+   "author": "riko",
+   "title": "在留資格の書類",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "表紙に何もない手帳とカードと書類のイラストです。",
+   "howto": "在留資格の手続きでそろえる書類の説明に使えます。",
+   "alt": "表紙に何もない手帳とカードと書類のイラスト。",
+   "tags": [
+    "在留資格",
+    "書類"
+   ]
+  },
+  {
+   "id": "gyosei-ichizu",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D35_ichizu.png",
+   "author": "riko",
+   "title": "位置図",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "建物と道路を四角と線で表した位置図のイラストです。",
+   "howto": "申請に使う図面の説明に使えます。",
+   "alt": "建物と道路を四角と線で表した位置図のイラスト。",
+   "tags": [
+    "位置図",
+    "図面"
+   ]
+  },
+  {
+   "id": "gyosei-gijiroku",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D36_gijiroku.png",
+   "author": "riko",
+   "title": "議事録",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "書類の形",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "署名の欄と印がある議事録のイラストです。",
+   "howto": "会社の書類づくりの説明に使えます。",
+   "alt": "署名の欄と印がある議事録のイラスト。",
+   "tags": [
+    "議事録",
+    "会社"
+   ]
+  },
+  {
+   "id": "gyosei-kyokahyou",
+   "src": "generated_shigyo_gyosei_2026-09/riko_D37_kyokahyou.png",
+   "author": "riko",
+   "title": "事務所にかける許可の標識",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "完了",
+   "kind": "道具",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所の壁にかけた許可の標識のイラストです。",
+   "howto": "許可が下りたあとの説明に使えます。",
+   "alt": "事務所の壁にかけた許可の標識のイラスト。",
+   "tags": [
+    "許可",
+    "標識",
+    "建設業"
+   ]
+  },
+  {
+   "id": "gyosei-kenchou",
+   "src": "generated_shigyo_gyosei_2026-09/riko_E31_kenchou.png",
+   "author": "riko",
+   "title": "県庁",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "申請",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "大きな県庁の建物のイラストです。",
+   "howto": "申請先の説明に使えます。",
+   "alt": "大きな県庁の建物のイラスト。",
+   "tags": [
+    "県庁",
+    "役所",
+    "場所"
+   ]
+  },
+  {
+   "id": "gyosei-nyukan",
+   "src": "generated_shigyo_gyosei_2026-09/riko_E32_nyukan.png",
+   "author": "riko",
+   "title": "申請先の役所の建物",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "申請",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "入口がガラスの、中くらいの役所の建物のイラストです。",
+   "howto": "在留資格などの申請先の説明に使えます。",
+   "alt": "入口がガラスの、中くらいの役所の建物のイラスト。",
+   "tags": [
+    "役所",
+    "場所"
+   ]
+  },
+  {
+   "id": "gyosei-inshokuten-mae",
+   "src": "generated_shigyo_gyosei_2026-09/riko_E33_inshokuten_mae.png",
+   "author": "riko",
+   "title": "新しいお店の店先",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "完了",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "のれんのかかった、新しい小さな飲食店の店先のイラストです。",
+   "howto": "飲食店の開業の案内に使えます。",
+   "alt": "のれんのかかった、新しい小さな飲食店の店先のイラスト。",
+   "tags": [
+    "飲食店",
+    "開業",
+    "場所"
+   ]
+  },
+  {
+   "id": "gyosei-kensetsu-jimusho",
+   "src": "generated_shigyo_gyosei_2026-09/riko_E34_kensetsu_jimusho.png",
+   "author": "riko",
+   "title": "建設会社の事務所",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "場所",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "軽トラックがとまる、小さな建設会社の事務所のイラストです。",
+   "howto": "建設業の許可の案内に使えます。",
+   "alt": "軽トラックがとまる、小さな建設会社の事務所のイラスト。",
+   "tags": [
+    "建設業",
+    "場所"
+   ]
+  },
+  {
+   "id": "gyosei-f",
+   "src": "generated_shigyo_gyosei_2026-09/riko_G02_gyosei_josei.png",
+   "author": "riko",
+   "title": "行政書士（女性）",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "ファイルを持って立つ、30代の女性の行政書士のイラストです。",
+   "howto": "事務所の紹介や担当者の紹介に使えます。",
+   "alt": "ファイルを持って立つ、30代の女性の行政書士のイラスト。",
+   "tags": [
+    "行政書士",
+    "女性"
+   ]
+  },
+  {
+   "id": "gyosei-kensetsu-soudan",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S31_kensetsu_soudan.png",
+   "author": "riko",
+   "title": "建設業の許可の相談",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "行政書士が、建設会社の社長に許可の書類を説明する場面のイラストです。",
+   "howto": "建設業の許可の相談の案内に使えます。",
+   "alt": "行政書士が、建設会社の社長に許可の書類を説明する場面のイラスト。",
+   "tags": [
+    "建設業",
+    "許可",
+    "相談"
+   ]
+  },
+  {
+   "id": "gyosei-madoguchi-shinsei",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S33_madoguchi_shinsei.png",
+   "author": "riko",
+   "title": "役所の窓口へ申請する",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "行政書士が、役所の窓口に申請書類を出す場面のイラストです。",
+   "howto": "申請の段の説明に使えます。",
+   "alt": "行政書士が、役所の窓口に申請書類を出す場面のイラスト。",
+   "tags": [
+    "申請",
+    "窓口",
+    "役所"
+   ]
+  },
+  {
+   "id": "gyosei-kyoka-watasu",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S34_kyoka_watasu.png",
+   "author": "riko",
+   "title": "許可の書類をお渡しする",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "完了",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "行政書士が、建設会社の社長に許可の書類をお渡しする場面のイラストです。",
+   "howto": "ご依頼の流れの最後の段に使えます。",
+   "alt": "行政書士が、建設会社の社長に許可の書類をお渡しする場面のイラスト。",
+   "tags": [
+    "許可",
+    "完了",
+    "お渡し"
+   ]
+  },
+  {
+   "id": "gyosei-kaigyou-soudan",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S35_kaigyou_soudan.png",
+   "author": "riko",
+   "title": "お店の開業の相談",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "飲食店を開く方が、行政書士と店の間取りを見ながら相談する場面のイラストです。",
+   "howto": "飲食店の開業の手続きの案内に使えます。",
+   "alt": "飲食店を開く方が、行政書士と店の間取りを見ながら相談する場面のイラスト。",
+   "tags": [
+    "飲食店",
+    "開業",
+    "相談"
+   ]
+  },
+  {
+   "id": "gyosei-tenpo-kakunin",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S36_tenpo_kakunin.png",
+   "author": "riko",
+   "title": "お店の中を確かめる",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "調査",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "行政書士が、開業前の店の調理場を確かめる場面のイラストです。",
+   "howto": "申請の前に店の中を確かめる段の説明に使えます。",
+   "alt": "行政書士が、開業前の店の調理場を確かめる場面のイラスト。",
+   "tags": [
+    "飲食店",
+    "調査",
+    "開業"
+   ]
+  },
+  {
+   "id": "gyosei-zairyu-soudan",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S37_zairyu_soudan.png",
+   "author": "riko",
+   "title": "在留資格の相談",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "日本で働く若い男性が、行政書士に在留資格の相談をする場面のイラストです。",
+   "howto": "在留資格の手続きの案内に使えます。",
+   "alt": "日本で働く若い男性が、行政書士に在留資格の相談をする場面のイラスト。",
+   "tags": [
+    "在留資格",
+    "相談",
+    "外国の方"
+   ]
+  },
+  {
+   "id": "gyosei-souzoku-shorui",
+   "src": "generated_shigyo_gyosei_2026-09/riko_S38_souzoku_shorui.png",
+   "author": "riko",
+   "title": "相続の書類の説明",
+   "shikaku": [
+    "行政書士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "行政書士が、きょうだいに遺産分割協議書を説明する場面のイラストです。",
+   "howto": "相続の書類づくりの案内に使えます。",
+   "alt": "行政書士が、きょうだいに遺産分割協議書を説明する場面のイラスト。",
+   "tags": [
+    "相続",
+    "遺産分割",
+    "きょうだい"
+   ]
   }
  ]
 }

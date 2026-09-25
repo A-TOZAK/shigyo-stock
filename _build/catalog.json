@@ -6078,6 +6078,126 @@
     "男性",
     "相談"
    ]
+  },
+  {
+   "id": "sharoushi-houmon",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_S66_houmon.png",
+   "author": "riko",
+   "title": "会社を訪ねる",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "社労士が、小さな会社の入口で社長にあいさつする場面のイラストです。",
+   "howto": "訪問での相談の案内に使えます。",
+   "alt": "社労士が、小さな会社の入口で社長にあいさつする場面のイラスト。",
+   "tags": [
+    "訪問",
+    "会社",
+    "あいさつ"
+   ]
+  },
+  {
+   "id": "sharoushi-denshi-shinsei",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_S67_denshi_shinsei.png",
+   "author": "riko",
+   "title": "電子申請をする",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "社労士が、パソコンで手続きを電子申請する場面のイラストです。",
+   "howto": "電子申請の説明に使えます。",
+   "alt": "社労士が、パソコンで手続きを電子申請する場面のイラスト。",
+   "tags": [
+    "電子申請",
+    "パソコン",
+    "申請"
+   ]
+  },
+  {
+   "id": "sharoushi-saikoyou-soudan",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_S68_saikoyou_soudan.png",
+   "author": "riko",
+   "title": "再雇用の相談",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "定年が近い社員と社長が、社労士から再雇用の説明を受ける場面のイラストです。",
+   "howto": "定年後の再雇用の案内に使えます。",
+   "alt": "定年が近い社員と社長が、社労士から再雇用の説明を受ける場面のイラスト。",
+   "tags": [
+    "再雇用",
+    "定年",
+    "相談"
+   ]
+  },
+  {
+   "id": "sharoushi-online",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_S69_online_soudan.png",
+   "author": "riko",
+   "title": "オンラインで相談する",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "社労士が、画面の向こうの社長とオンラインで話す場面のイラストです。",
+   "howto": "オンライン相談の案内に使えます。",
+   "alt": "社労士が、画面の向こうの社長とオンラインで話す場面のイラスト。",
+   "tags": [
+    "オンライン",
+    "相談",
+    "パソコン"
+   ]
+  },
+  {
+   "id": "sharoushi-hanashiai",
+   "src": "generated_shigyo_sharoushi_2026-09/riko_S70_hanashiai.png",
+   "author": "riko",
+   "title": "労使の話し合いの場",
+   "shikaku": [
+    "社労士"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "社員と社長が、間に入る人をはさんで落ち着いて話し合う場面のイラストです。",
+   "howto": "話し合いによる解決（あっせん）の説明に使えます。",
+   "alt": "社員と社長が、間に入る人をはさんで落ち着いて話し合う場面のイラスト。",
+   "tags": [
+    "あっせん",
+    "話し合い",
+    "労使"
+   ]
   }
  ]
 }

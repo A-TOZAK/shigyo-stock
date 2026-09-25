@@ -7010,6 +7010,221 @@
     "打ち合わせ",
     "パソコン"
    ]
+  },
+  {
+   "id": "zeirishi-m",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_Z01_zeirishi_dansei_v2.png",
+   "author": "riko",
+   "title": "税理士（男性）",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "相談",
+   "kind": "人",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "書類のファイルを持って立つ、40代の男性の税理士のイラストです。",
+   "howto": "事務所の紹介や担当者の紹介に使えます。",
+   "alt": "書類のファイルを持って立つ、40代の男性の税理士のイラスト。",
+   "tags": [
+    "税理士",
+    "男性"
+   ]
+  },
+  {
+   "id": "zeirishi-kaigyou-soudan",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S83_kaigyou_soudan.png",
+   "author": "riko",
+   "title": "開業の相談",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "開業を考える女性が、税理士に計画のノートを見せて相談する場面のイラストです。",
+   "howto": "開業の手続きの案内に使えます。",
+   "alt": "開業を考える女性が、税理士に計画のノートを見せて相談する場面のイラスト。",
+   "tags": [
+    "開業",
+    "起業",
+    "相談"
+   ]
+  },
+  {
+   "id": "zeirishi-kichou",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S84_kichou.png",
+   "author": "riko",
+   "title": "記帳をする",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "事務所のスタッフが、領収書をパソコンに入力する場面のイラストです。",
+   "howto": "記帳の代行の案内に使えます。",
+   "alt": "事務所のスタッフが、領収書をパソコンに入力する場面のイラスト。",
+   "tags": [
+    "記帳",
+    "領収書",
+    "スタッフ"
+   ]
+  },
+  {
+   "id": "zeirishi-junkai",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S85_junkai.png",
+   "author": "riko",
+   "title": "お店を訪ねて帳簿を見る",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "調査",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士が、パン屋の奥の事務所で店主と帳簿を見る場面のイラストです。",
+   "howto": "訪問での相談の案内に使えます。",
+   "alt": "税理士が、パン屋の奥の事務所で店主と帳簿を見る場面のイラスト。",
+   "tags": [
+    "訪問",
+    "帳簿",
+    "お店"
+   ]
+  },
+  {
+   "id": "zeirishi-online",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S86_online.png",
+   "author": "riko",
+   "title": "オンラインで相談する",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士が、画面の向こうの依頼者とオンラインで話す場面のイラストです。",
+   "howto": "オンライン相談の案内に使えます。",
+   "alt": "税理士が、画面の向こうの依頼者とオンラインで話す場面のイラスト。",
+   "tags": [
+    "オンライン",
+    "相談",
+    "パソコン"
+   ]
+  },
+  {
+   "id": "zeirishi-chousa-tachiai",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S87_chousa_tachiai.png",
+   "author": "riko",
+   "title": "税務調査の立会い",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税務署の職員と社長と税理士が、帳簿を前に落ち着いて話す場面のイラストです。",
+   "howto": "税務調査の立会いの説明に使えます。",
+   "alt": "税務署の職員と社長と税理士が、帳簿を前に落ち着いて話す場面のイラスト。",
+   "tags": [
+    "税務調査",
+    "立会い",
+    "帳簿"
+   ]
+  },
+  {
+   "id": "zeirishi-chousa-junbi",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S88_chousa_junbi.png",
+   "author": "riko",
+   "title": "調査の前に書類をそろえる",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "その後",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士と社長が、ファイルボックスを並べて書類をそろえる場面のイラストです。",
+   "howto": "税務調査の準備の説明に使えます。",
+   "alt": "税理士と社長が、ファイルボックスを並べて書類をそろえる場面のイラスト。",
+   "tags": [
+    "税務調査",
+    "準備",
+    "書類"
+   ]
+  },
+  {
+   "id": "zeirishi-nenmatsu-chousei",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S89_nenmatsu_chousei.png",
+   "author": "riko",
+   "title": "年末調整の書類を確かめる",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "経理の担当者と税理士が、年末調整の用紙を確かめる場面のイラストです。",
+   "howto": "年末調整の案内に使えます。",
+   "alt": "経理の担当者と税理士が、年末調整の用紙を確かめる場面のイラスト。",
+   "tags": [
+    "年末調整",
+    "経理",
+    "書類"
+   ]
+  },
+  {
+   "id": "zeirishi-kojin-shinkoku",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S90_kojin_shinkoku.png",
+   "author": "riko",
+   "title": "個人の確定申告を手伝う",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "個人で商売をしている方と税理士が並んで、確定申告書を確かめる場面のイラストです。",
+   "howto": "個人の方の確定申告の案内に使えます。",
+   "alt": "個人で商売をしている方と税理士が並んで、確定申告書を確かめる場面のイラスト。",
+   "tags": [
+    "確定申告",
+    "個人事業主",
+    "相談"
+   ]
   }
  ]
 }

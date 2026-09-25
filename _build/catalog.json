@@ -6819,6 +6819,197 @@
     "電卓",
     "パソコン"
    ]
+  },
+  {
+   "id": "zeirishi-komon-keiyaku",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S75_komon_keiyaku.png",
+   "author": "riko",
+   "title": "顧問契約を結ぶ",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "見積もり",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "小さな会社の社長が、税理士との顧問契約書に署名する場面のイラストです。",
+   "howto": "顧問契約の案内に使えます。",
+   "alt": "小さな会社の社長が、税理士との顧問契約書に署名する場面のイラスト。",
+   "tags": [
+    "顧問",
+    "契約",
+    "署名"
+   ]
+  },
+  {
+   "id": "zeirishi-shinkokusho-sakusei",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S76_shinkokusho_sakusei.png",
+   "author": "riko",
+   "title": "申告書をつくる",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士が、机で確定申告書を書く場面のイラストです。",
+   "howto": "確定申告の時期の案内に使えます。",
+   "alt": "税理士が、机で確定申告書を書く場面のイラスト。",
+   "tags": [
+    "確定申告",
+    "申告書"
+   ]
+  },
+  {
+   "id": "zeirishi-madoguchi",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S77_madoguchi_teishutsu.png",
+   "author": "riko",
+   "title": "税務署の窓口に出す",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "申請",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士が、税務署の窓口に申告書を出す場面のイラストです。",
+   "howto": "申告の段の説明に使えます。",
+   "alt": "税理士が、税務署の窓口に申告書を出す場面のイラスト。",
+   "tags": [
+    "税務署",
+    "申告",
+    "窓口"
+   ]
+  },
+  {
+   "id": "zeirishi-invoice",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S78_invoice.png",
+   "author": "riko",
+   "title": "請求書を確かめる",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "経理の担当者が、紙の請求書とパソコンの画面を見比べる場面のイラストです。",
+   "howto": "インボイス制度の説明に使えます。",
+   "alt": "経理の担当者が、紙の請求書とパソコンの画面を見比べる場面のイラスト。",
+   "tags": [
+    "インボイス",
+    "請求書",
+    "経理"
+   ]
+  },
+  {
+   "id": "zeirishi-denshi-hozon",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S79_denshi_hozon.png",
+   "author": "riko",
+   "title": "領収書を電子で保存する",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "書類",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "スタッフが、領収書をスキャナーで読み取ってパソコンに保存する場面のイラストです。",
+   "howto": "電子帳簿保存法の説明に使えます。",
+   "alt": "スタッフが、領収書をスキャナーで読み取ってパソコンに保存する場面のイラスト。",
+   "tags": [
+    "電子帳簿保存法",
+    "スキャナー",
+    "保存"
+   ]
+  },
+  {
+   "id": "zeirishi-kessan-setsumei",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S80_kessan_setsumei.png",
+   "author": "riko",
+   "title": "決算の説明",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "完了",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士が、社長に棒グラフののった決算の資料を見せて説明する場面のイラストです。",
+   "howto": "決算の報告の案内に使えます。",
+   "alt": "税理士が、社長に棒グラフののった決算の資料を見せて説明する場面のイラスト。",
+   "tags": [
+    "決算",
+    "説明",
+    "社長"
+   ]
+  },
+  {
+   "id": "zeirishi-souzokuzei",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S81_souzokuzei.png",
+   "author": "riko",
+   "title": "相続税の相談",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "高齢の母と息子が、税理士から相続税の説明を受ける場面のイラストです。",
+   "howto": "相続税の申告の案内に使えます。",
+   "alt": "高齢の母と息子が、税理士から相続税の説明を受ける場面のイラスト。",
+   "tags": [
+    "相続税",
+    "家族",
+    "高齢の方"
+   ]
+  },
+  {
+   "id": "zeirishi-kaikei-soft-uchiawase",
+   "src": "generated_shigyo_zeirishi_2026-09/riko_S82_kaikei_soft.png",
+   "author": "riko",
+   "title": "会計ソフトを一緒に見る",
+   "shikaku": [
+    "税理士"
+   ],
+   "dankai": "相談",
+   "kind": "場面",
+   "uses": [
+    "ホームページ",
+    "説明の紙",
+    "チラシ"
+   ],
+   "description": "税理士と社長が並んで、会計ソフトの画面を見る場面のイラストです。",
+   "howto": "クラウド会計の案内に使えます。",
+   "alt": "税理士と社長が並んで、会計ソフトの画面を見る場面のイラスト。",
+   "tags": [
+    "会計ソフト",
+    "打ち合わせ",
+    "パソコン"
+   ]
   }
  ]
 }

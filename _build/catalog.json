@@ -8542,6 +8542,366 @@
     "立食",
     "交流会"
    ]
+  },
+  {
+   "id": "event-kangeikai",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V23_kangeikai_aisatsu.png",
+   "author": "riko",
+   "title": "歓迎会のあいさつ",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "新しく入った社員が立ってあいさつし、先輩が拍手する場面のイラストです。",
+   "howto": "歓迎会の案内や採用のページに使えます。",
+   "alt": "新しく入った社員が立ってあいさつし、先輩が拍手する場面のイラスト。",
+   "tags": [
+    "歓迎会",
+    "新人",
+    "あいさつ"
+   ]
+  },
+  {
+   "id": "event-hyoushou",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V24_hyoushou.png",
+   "author": "riko",
+   "title": "表彰",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "忘年会で、社員が表彰の紙を受け取り、まわりが拍手する場面のイラストです。",
+   "howto": "表彰や忘年会の案内に使えます。",
+   "alt": "忘年会で、社員が表彰の紙を受け取り、まわりが拍手する場面のイラスト。",
+   "tags": [
+    "表彰",
+    "忘年会",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-uketsuke",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V25_uketsuke.png",
+   "author": "riko",
+   "title": "会場の受付",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "会場の入口の受付で、係の社員が来た人を迎える場面のイラストです。",
+   "howto": "受付の係の案内に使えます。",
+   "alt": "会場の入口の受付で、係の社員が来た人を迎える場面のイラスト。",
+   "tags": [
+    "受付",
+    "係",
+    "会場"
+   ]
+  },
+  {
+   "id": "event-shuugou",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V26_shuugou.png",
+   "author": "riko",
+   "title": "社員旅行の集合",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "社員旅行で、6人の社員が2列に並んで立つ場面のイラストです。",
+   "howto": "社員旅行の案内や社内報に使えます。",
+   "alt": "社員旅行で、6人の社員が2列に並んで立つ場面のイラスト。",
+   "tags": [
+    "社員旅行",
+    "集合",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-kenshu",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V27_shanai_kenshu.png",
+   "author": "riko",
+   "title": "社内の勉強会",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "会議室で、女性の社員が画面の横で話し、4人がメモを取る場面のイラストです。",
+   "howto": "勉強会や研修の案内に使えます。",
+   "alt": "会議室で、女性の社員が画面の横で話し、4人がメモを取る場面のイラスト。",
+   "tags": [
+    "勉強会",
+    "研修",
+    "社内"
+   ]
+  },
+  {
+   "id": "event-bowling",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V28_bowling.png",
+   "author": "riko",
+   "title": "ボウリング大会",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "社員がボウリングの球を投げ、2人がうしろで見守る場面のイラストです。",
+   "howto": "レクリエーションの案内に使えます。",
+   "alt": "社員がボウリングの球を投げ、2人がうしろで見守る場面のイラスト。",
+   "tags": [
+    "ボウリング",
+    "レクリエーション",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-kaeri",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V30_kaeri.png",
+   "author": "riko",
+   "title": "またね",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "行事のあと、4人の社員が出口で軽く手をふってわかれる場面のイラストです。",
+   "howto": "行事の案内のしめくくりに使えます。",
+   "alt": "行事のあと、4人の社員が出口で軽く手をふってわかれる場面のイラスト。",
+   "tags": [
+    "わかれ",
+    "社内イベント",
+    "しめくくり"
+   ]
+  },
+  {
+   "id": "dx-flow-fusen",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X01_flow_fusen.png",
+   "author": "riko",
+   "title": "付せんで仕事の流れを整理する",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "3人の社員が、ホワイトボードに付せんを並べて仕事の手順を整理する場面のイラストです。",
+   "howto": "業務の流れの見直しの説明に使えます。",
+   "alt": "3人の社員が、ホワイトボードに付せんを並べて仕事の手順を整理する場面のイラスト。",
+   "tags": [
+    "業務の流れ",
+    "付せん",
+    "整理"
+   ]
+  },
+  {
+   "id": "dx-bunsan",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X02_bunsan_nayamu.png",
+   "author": "riko",
+   "title": "道具が分かれていて考えこむ",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "電話とパソコンとノートと書類に囲まれて、事務の社員が考えこむ場面のイラストです。",
+   "howto": "いまの困りごとの説明に使えます。",
+   "alt": "電話とパソコンとノートと書類に囲まれて、事務の社員が考えこむ場面のイラスト。",
+   "tags": [
+    "二重入力",
+    "分散",
+    "困りごと"
+   ]
+  },
+  {
+   "id": "dx-ichido",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X03_ichido_nyuryoku.png",
+   "author": "riko",
+   "title": "入力は一度だけ",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "片づいた机で、事務の社員がゆとりのある顔でパソコンに入力する場面のイラストです。",
+   "howto": "見直したあとの姿の説明に使えます。",
+   "alt": "片づいた机で、事務の社員がゆとりのある顔でパソコンに入力する場面のイラスト。",
+   "tags": [
+    "入力",
+    "効率",
+    "ゆとり"
+   ]
+  },
+  {
+   "id": "dx-kanban",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X04_kanban_monitor.png",
+   "author": "riko",
+   "title": "案件の進み具合を見る",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "2人の社員が、壁の大きな画面で案件の進み具合を見る場面のイラストです。",
+   "howto": "案件の見える化の説明に使えます。",
+   "alt": "2人の社員が、壁の大きな画面で案件の進み具合を見る場面のイラスト。",
+   "tags": [
+    "見える化",
+    "進み具合",
+    "案件管理"
+   ]
+  },
+  {
+   "id": "dx-tanaoroshi",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X05_tanaoroshi.png",
+   "author": "riko",
+   "title": "仕事の聞き取り",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "社員が毎日の仕事を話し、聞き手がノートに書きとめる場面のイラストです。",
+   "howto": "業務の棚卸しの説明に使えます。",
+   "alt": "社員が毎日の仕事を話し、聞き手がノートに書きとめる場面のイラスト。",
+   "tags": [
+    "棚卸し",
+    "聞き取り",
+    "業務"
+   ]
+  },
+  {
+   "id": "dx-manual",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X06_manual.png",
+   "author": "riko",
+   "title": "チェック表をつくる",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "社員が、机でチェック表とマニュアルをつくる場面のイラストです。",
+   "howto": "マニュアルやチェック表の整備の説明に使えます。",
+   "alt": "社員が、机でチェック表とマニュアルをつくる場面のイラスト。",
+   "tags": [
+    "マニュアル",
+    "チェック表",
+    "整備"
+   ]
+  },
+  {
+   "id": "dx-ai-bunan",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X11_ai_bunan.png",
+   "author": "riko",
+   "title": "AIで文面の下書き",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "社員が、パソコンのチャットの画面で文面の下書きを作る場面のイラストです。",
+   "howto": "メールやLINEの文案づくりの説明に使えます。",
+   "alt": "社員が、パソコンのチャットの画面で文面の下書きを作る場面のイラスト。",
+   "tags": [
+    "AI",
+    "文面",
+    "下書き"
+   ]
+  },
+  {
+   "id": "dx-gijiroku",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X12_gijiroku.png",
+   "author": "riko",
+   "title": "記録をまとめる",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "会議のあと、録音機を置いた机でパソコンの要約を見る場面のイラストです。",
+   "howto": "面談記録や議事録の要約の説明に使えます。",
+   "alt": "会議のあと、録音機を置いた机でパソコンの要約を見る場面のイラスト。",
+   "tags": [
+    "AI",
+    "議事録",
+    "要約"
+   ]
   }
  ]
 }

@@ -9094,6 +9094,198 @@
     "チーム",
     "実績"
    ]
+  },
+  {
+   "id": "dx-kitting",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X31_kitting.png",
+   "author": "riko",
+   "title": "パソコンとスマホを準備する",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "IT担当の社員が、パソコンとスマホにラベルを貼って準備する場面のイラストです。",
+   "howto": "機器の管理の説明に使えます。",
+   "alt": "IT担当の社員が、パソコンとスマホにラベルを貼って準備する場面のイラスト。",
+   "tags": [
+    "IT管理",
+    "パソコン",
+    "スマホ"
+   ]
+  },
+  {
+   "id": "dx-account",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X32_account.png",
+   "author": "riko",
+   "title": "アカウントを管理する",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "IT担当の社員が、画面で人ごとの鍵の印を確かめる場面のイラストです。",
+   "howto": "アカウントや権限の管理の説明に使えます。",
+   "alt": "IT担当の社員が、画面で人ごとの鍵の印を確かめる場面のイラスト。",
+   "tags": [
+    "IT管理",
+    "アカウント",
+    "権限"
+   ]
+  },
+  {
+   "id": "dx-backup",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X33_backup.png",
+   "author": "riko",
+   "title": "バックアップ",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "パソコンと外付けの保存機器と、雲の形のイラストです。",
+   "howto": "バックアップの説明に使えます。",
+   "alt": "パソコンと外付けの保存機器と、雲の形のイラスト。",
+   "tags": [
+    "IT管理",
+    "バックアップ",
+    "クラウド"
+   ]
+  },
+  {
+   "id": "dx-security",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X34_security.png",
+   "author": "riko",
+   "title": "セキュリティ",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "画面に錠前の形が出たパソコンとスマホのイラストです。",
+   "howto": "セキュリティの説明に使えます。",
+   "alt": "画面に錠前の形が出たパソコンとスマホのイラスト。",
+   "tags": [
+    "IT管理",
+    "セキュリティ",
+    "パスワード"
+   ]
+  },
+  {
+   "id": "dx-henkyaku",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X35_henkyaku.png",
+   "author": "riko",
+   "title": "機器を返す",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "退職する社員が、パソコンとスマホを返し、IT担当が受け取る場面のイラストです。",
+   "howto": "退職のときの手続きの説明に使えます。",
+   "alt": "退職する社員が、パソコンとスマホを返し、IT担当が受け取る場面のイラスト。",
+   "tags": [
+    "IT管理",
+    "退職",
+    "返却"
+   ]
+  },
+  {
+   "id": "dx-keiyaku",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X36_keiyaku_kanri.png",
+   "author": "riko",
+   "title": "ツールの契約を確かめる",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "事務の社員が、ファイルと画面の一覧でツールの契約を確かめる場面のイラストです。",
+   "howto": "ツールの契約の管理の説明に使えます。",
+   "alt": "事務の社員が、ファイルと画面の一覧でツールの契約を確かめる場面のイラスト。",
+   "tags": [
+    "IT管理",
+    "契約",
+    "ツール"
+   ]
+  },
+  {
+   "id": "dx-renkei-parts",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_X41_renkei_parts.png",
+   "author": "riko",
+   "title": "つなぐ道具の部品",
+   "shikaku": [
+    "業務の見直し"
+   ],
+   "dankai": "社内",
+   "kind": "図解の部品",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "案件の画面、チャットのスマホ、封筒、請求の表、確認の印を横に並べた部品のイラストです。",
+   "howto": "案件管理から入金の確認までをつなぐ図に使えます。",
+   "alt": "案件の画面、チャットのスマホ、封筒、請求の表、確認の印を横に並べた部品のイラスト。",
+   "tags": [
+    "システム連携",
+    "部品",
+    "流れ"
+   ]
+  },
+  {
+   "id": "event-kaijou-junbi",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V29_kaijou_junbi_v2.png",
+   "author": "riko",
+   "title": "会場のしたく",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "2人の社員が、折りたたみ椅子を運んで並べる場面のイラストです。",
+   "howto": "準備の係の案内に使えます。",
+   "alt": "2人の社員が、折りたたみ椅子を運んで並べる場面のイラスト。",
+   "tags": [
+    "準備",
+    "会場",
+    "係"
+   ]
   }
  ]
 }

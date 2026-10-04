@@ -1,0 +1,31 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width,initial-scale=1"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%225%22 fill=%22%231b3a6b%22/%3E%3Cpath d=%22M9 22h14M16 9v13M11 13h10%22 stroke=%22white%22 stroke-width=%222.6%22 stroke-linecap=%22round%22/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css?v=1004"><title>要望を送る｜士業ストック</title><meta name="description" content="士業ストックへの要望を送るフォームです。"></head><body><header class="top"><a class="logo" href="./">士業ストック</a><nav><a href="./">素材をさがす</a><a href="templates.html">スライドのひな形</a><a href="yobo.html">要望を送る</a><a href="about.html">このサイトについて</a><a href="terms.html">利用の決まり</a></nav></header>
+<main class="one">
+<h1>要望を送る</h1>
+<p>ほしい絵、直してほしい絵、ほしいスライドのひな形などがあれば、フォームから送ってください。一言でもかまいません。</p>
+<h2>書いていただくこと</h2>
+<ul>
+<li>要望の種類（ほしい絵、絵の直し、スライドのひな形、サイトの使い方、そのほか）</li>
+<li>要望の中身（例　相続の説明会で使う、家族が集まって話し合う絵がほしい）</li>
+<li>使う場面と、いつまでにほしいか（決まっていれば）</li>
+</ul>
+<p>絵の直しを頼むときは、その絵のページのURLを書いてください。絵のページの「この絵について要望を送る」から開くと、ここにURLが出るので、コピーしてフォームに貼れます。</p>
+<p id="from" hidden>この絵のURL　<code id="from-url"></code>　<button class="favbtn" id="copy" type="button">コピーする</button></p>
+<p id="go"></p>
+</main>
+<footer>© 石山通りグループ　<a href="terms.html">利用の決まり</a></footer>
+<script>
+// フォームの「送る場所」のURLをここに入れる（Apps Script の setup を動かすとログに出る）
+const FORM_URL = "";
+const go = document.getElementById("go");
+const id = new URLSearchParams(location.search).get("from");
+if (id && /^[a-z0-9-]+$/.test(id)) {
+  const u = new URL("i/" + id + ".html", location.href).href;
+  document.getElementById("from-url").textContent = u;
+  document.getElementById("from").hidden = false;
+  document.getElementById("copy").onclick = () => navigator.clipboard.writeText(u).then(() => { document.getElementById("copy").textContent = "コピーしました"; });
+}
+go.innerHTML = FORM_URL
+  ? '<a class="btn" href="' + FORM_URL + '" target="_blank" rel="noopener">フォームを開く</a>'
+  : "フォームは準備中です。";
+</script>
+</body></html>

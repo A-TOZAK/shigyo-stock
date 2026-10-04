@@ -1764,30 +1764,6 @@
    ]
   },
   {
-   "id": "kyoutsu-desk-pc",
-   "src": "generated_chousashi_2026-09/riko_K13_desk_pc.png",
-   "author": "riko",
-   "title": "パソコンで仕事をする専門家",
-   "shikaku": [
-    "共通"
-   ],
-   "dankai": "書類",
-   "kind": "場面",
-   "uses": [
-    "ホームページ",
-    "説明の紙",
-    "チラシ"
-   ],
-   "description": "パソコンで仕事をする専門家の場面を描いたイラストです。",
-   "howto": "事務所の紹介や、採用のページに使えます。",
-   "alt": "パソコンで仕事をする専門家の場面を描いたイラスト。",
-   "tags": [
-    "パソコン",
-    "事務所",
-    "仕事"
-   ]
-  },
-  {
    "id": "kyoutsu-renkei-kaigi",
    "src": "generated_chousashi_2026-09/riko_K14_renkei_kaigi.png",
    "author": "riko",
@@ -8181,6 +8157,390 @@
     "オンライン",
     "顧問",
     "会社"
+   ]
+  },
+  {
+   "id": "event-tent",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V01_tent.png",
+   "author": "riko",
+   "title": "テント",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "芝生に立てたドーム型のテントのイラストです。",
+   "howto": "キャンプの案内や社内報に使えます。",
+   "alt": "芝生に立てたドーム型のテントのイラスト。",
+   "tags": [
+    "キャンプ",
+    "テント",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-bbq-grill",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V02_bbq_grill.png",
+   "author": "riko",
+   "title": "バーベキューのコンロ",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "肉と野菜の串をのせたバーベキューのコンロのイラストです。",
+   "howto": "バーベキューの案内に使えます。",
+   "alt": "肉と野菜の串をのせたバーベキューのコンロのイラスト。",
+   "tags": [
+    "バーベキュー",
+    "コンロ",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-camp-isu",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V03_camp_isu.png",
+   "author": "riko",
+   "title": "キャンプの椅子とクーラーボックス",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "並べたキャンプの椅子と、間に置いたクーラーボックスのイラストです。",
+   "howto": "キャンプやバーベキューの持ち物の案内に使えます。",
+   "alt": "並べたキャンプの椅子と、間に置いたクーラーボックスのイラスト。",
+   "tags": [
+    "キャンプ",
+    "椅子",
+    "持ち物"
+   ]
+  },
+  {
+   "id": "event-lantern",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V04_lantern.png",
+   "author": "riko",
+   "title": "ランタン",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "キャンプの机に置いた、あかりのついたランタンのイラストです。",
+   "howto": "夜のキャンプの案内に使えます。",
+   "alt": "キャンプの机に置いた、あかりのついたランタンのイラスト。",
+   "tags": [
+    "キャンプ",
+    "ランタン",
+    "夜"
+   ]
+  },
+  {
+   "id": "event-kanpai-glass",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V05_kanpai_glass.png",
+   "author": "riko",
+   "title": "乾杯のグラス",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "乾杯のために寄せた4つのグラスのイラストです。",
+   "howto": "懇親会の案内に使えます。",
+   "alt": "乾杯のために寄せた4つのグラスのイラスト。",
+   "tags": [
+    "懇親会",
+    "乾杯",
+    "グラス"
+   ]
+  },
+  {
+   "id": "event-oozara",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V06_oozara.png",
+   "author": "riko",
+   "title": "懇親会の料理",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "道具",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "おにぎりや唐揚げやサラダを並べた立食の机のイラストです。",
+   "howto": "懇親会や歓迎会の案内に使えます。",
+   "alt": "おにぎりや唐揚げやサラダを並べた立食の机のイラスト。",
+   "tags": [
+    "懇親会",
+    "料理",
+    "立食"
+   ]
+  },
+  {
+   "id": "event-tent-settei",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V11_tent_settei.png",
+   "author": "riko",
+   "title": "みんなでテントを立てる",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "3人の社員が、キャンプ場でいっしょにテントを立てる場面のイラストです。",
+   "howto": "キャンプの案内や社内報に使えます。",
+   "alt": "3人の社員が、キャンプ場でいっしょにテントを立てる場面のイラスト。",
+   "tags": [
+    "キャンプ",
+    "テント",
+    "協力"
+   ]
+  },
+  {
+   "id": "event-bbq-yaku",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V12_bbq_yaku.png",
+   "author": "riko",
+   "title": "バーベキューで焼く",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "エプロンの男性がコンロで串を焼き、女性が皿を差し出す場面のイラストです。",
+   "howto": "バーベキューの案内に使えます。",
+   "alt": "エプロンの男性がコンロで串を焼き、女性が皿を差し出す場面のイラスト。",
+   "tags": [
+    "バーベキュー",
+    "焼く",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-bbq-danshou",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V13_bbq_danshou.png",
+   "author": "riko",
+   "title": "バーベキューで話す",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "4人の社員が、外の机で焼いた料理を食べながら話す場面のイラストです。",
+   "howto": "バーベキューの報告や社内報に使えます。",
+   "alt": "4人の社員が、外の机で焼いた料理を食べながら話す場面のイラスト。",
+   "tags": [
+    "バーベキュー",
+    "食事",
+    "交流"
+   ]
+  },
+  {
+   "id": "event-takibi",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V14_takibi.png",
+   "author": "riko",
+   "title": "たき火を囲む",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "夜のキャンプ場で、4人の社員がたき火を囲んで話す場面のイラストです。",
+   "howto": "キャンプの案内や社内報に使えます。",
+   "alt": "夜のキャンプ場で、4人の社員がたき火を囲んで話す場面のイラスト。",
+   "tags": [
+    "キャンプ",
+    "たき火",
+    "夜"
+   ]
+  },
+  {
+   "id": "event-camp-kutsurogu",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V15_camp_kutsurogu.png",
+   "author": "riko",
+   "title": "キャンプでくつろぐ",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "テントの前で、2人の社員がカップを持ってくつろぐ場面のイラストです。",
+   "howto": "キャンプの案内に使えます。",
+   "alt": "テントの前で、2人の社員がカップを持ってくつろぐ場面のイラスト。",
+   "tags": [
+    "キャンプ",
+    "休けい",
+    "交流"
+   ]
+  },
+  {
+   "id": "event-yasai-kiru",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V16_yasai_kiru.png",
+   "author": "riko",
+   "title": "料理のしたく",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "外の机で、野菜を切り、串を作ってバーベキューのしたくをする場面のイラストです。",
+   "howto": "バーベキューの係の案内に使えます。",
+   "alt": "外の机で、野菜を切り、串を作ってバーベキューのしたくをする場面のイラスト。",
+   "tags": [
+    "バーベキュー",
+    "したく",
+    "係"
+   ]
+  },
+  {
+   "id": "event-katazuke",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V17_katazuke.png",
+   "author": "riko",
+   "title": "みんなで片づける",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "バーベキューのあと、3人の社員がごみをまとめ、椅子をたたみ、机をふく場面のイラストです。",
+   "howto": "片づけの係の案内に使えます。",
+   "alt": "バーベキューのあと、3人の社員がごみをまとめ、椅子をたたみ、机をふく場面のイラスト。",
+   "tags": [
+    "片づけ",
+    "係",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-family-bbq",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V18_family_bbq.png",
+   "author": "riko",
+   "title": "家族も来るバーベキュー",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "社員と家族がいっしょにバーベキューをする場面のイラストです。",
+   "howto": "家族も参加できる行事の案内に使えます。",
+   "alt": "社員と家族がいっしょにバーベキューをする場面のイラスト。",
+   "tags": [
+    "バーベキュー",
+    "家族",
+    "社内イベント"
+   ]
+  },
+  {
+   "id": "event-kanpai",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V21_kanpai.png",
+   "author": "riko",
+   "title": "懇親会の乾杯",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "5人の社員が、懇親会の始めにグラスを上げて乾杯する場面のイラストです。",
+   "howto": "懇親会や忘年会の案内に使えます。",
+   "alt": "5人の社員が、懇親会の始めにグラスを上げて乾杯する場面のイラスト。",
+   "tags": [
+    "懇親会",
+    "乾杯",
+    "忘年会"
+   ]
+  },
+  {
+   "id": "event-rissyoku",
+   "src": "generated_shigyo_ishiyama_2026-10/riko_V22_rissyoku.png",
+   "author": "riko",
+   "title": "立食の懇親会",
+   "shikaku": [
+    "社内イベント"
+   ],
+   "dankai": "社内",
+   "kind": "場面",
+   "uses": [
+    "社内の資料",
+    "採用",
+    "説明の紙"
+   ],
+   "description": "明るい会場で、社員がグラスと皿を持って話す立食の場面のイラストです。",
+   "howto": "懇親会や交流会の案内に使えます。",
+   "alt": "明るい会場で、社員がグラスと皿を持って話す立食の場面のイラスト。",
+   "tags": [
+    "懇親会",
+    "立食",
+    "交流会"
    ]
   }
  ]

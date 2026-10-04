@@ -19,7 +19,7 @@ a{color:var(--ai)}
 #q{font:inherit;font-size:15px;padding:8px 12px;border:1px solid var(--line);width:100%;max-width:420px}
 .count{max-width:1080px;margin:8px auto 0;padding:0 24px;font-size:13px;color:var(--sub)}
 .grid{max-width:1080px;margin:0 auto;padding:12px 24px 40px;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
-.card{border:1px solid var(--line);background:#fff;display:flex;flex-direction:column}
+.card{border:1px solid var(--line);background:#fff;display:flex;flex-direction:column;position:relative}
 .card a.pic{display:block;aspect-ratio:4/3;background:#fff;border-bottom:1px solid var(--line)}
 .card img{width:100%;height:100%;object-fit:contain}
 .card .b{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px;flex:1}
@@ -35,7 +35,7 @@ a{color:var(--ai)}
 .one p,.one li{margin:6px 0}
 .one ul,.one ol{padding-left:1.4em}
 .big{width:100%;height:auto;border:1px solid var(--line)}
-.dl{margin:12px 0;display:flex;gap:8px}
+.dl{margin:12px 0;display:flex;gap:8px;flex-wrap:wrap}
 .crumb{font-size:13px;color:var(--sub)}
 .tags span{display:inline-block;font-size:12px;border:1px solid var(--line);padding:0 8px;margin:0 4px 4px 0}
 .credit{font-size:12px;color:var(--sub);margin-top:14px}
@@ -45,3 +45,8 @@ footer{border-top:1px solid var(--line);padding:18px 24px;font-size:13px;color:v
 @media (max-width:600px){.hero h1{font-size:23px}.top nav a{margin-left:12px}.filters .lab{width:100%}}
 .styleh{font-size:13px;color:var(--sub);margin:-2px 0 2px 4.5em}
 @media (max-width:600px){.styleh{margin-left:0}}
+
+.star{position:absolute;top:6px;right:6px;width:36px;height:36px;border:1px solid var(--line);border-radius:50%;background:#fff;color:var(--sub);font-size:20px;line-height:1;cursor:pointer;z-index:1}
+.star[aria-pressed=true]{color:#d9a43a;border-color:#d9a43a}
+.favbtn{border:1px solid var(--ai);background:#fff;color:var(--ai);font:inherit;font-size:13px;padding:5px 12px;cursor:pointer}
+.favbtn[aria-pressed=true]{border-color:#d9a43a;color:#9a6f12;background:#fdf6e3}

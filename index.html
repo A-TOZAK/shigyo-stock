@@ -9,7 +9,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-<meta property="og:image" content="https://a-tozak.github.io/shigyo-stock/og.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%225%22 fill=%22%231b3a6b%22/%3E%3Cpath d=%22M9 22h14M16 9v13M11 13h10%22 stroke=%22white%22 stroke-width=%222.6%22 stroke-linecap=%22round%22/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css?v=1004">
+<meta property="og:image" content="https://a-tozak.github.io/shigyo-stock/og.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%225%22 fill=%22%231b3a6b%22/%3E%3Cpath d=%22M9 22h14M16 9v13M11 13h10%22 stroke=%22white%22 stroke-width=%222.6%22 stroke-linecap=%22round%22/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css?v=1004b">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"士業ストック","url":"https://a-tozak.github.io/shigyo-stock/","description":"士業の仕事の流れを説明できるイラスト素材（無料）"}</script></head><body>
 <header class="top"><a class="logo" href="./">士業ストック</a><nav><a href="./">素材をさがす</a><a href="templates.html">スライドのひな形</a><a href="yobo.html">要望を送る</a><a href="about.html">このサイトについて</a><a href="terms.html">利用の決まり</a></nav></header>
 <section class="hero">
@@ -17,8 +17,8 @@
   <p>石山通りグループの説明会の資料、仕事の流れの説明、社内の資料、採用の案内に使うイラストです。相談から完了まで、段階ごとに同じ絵柄でそろえています。社内のイベントや、業務の見直しの資料に使う絵もあります。</p>
   <div class="flow" id="flow" aria-label="段階で絞りこむ"></div>
 </section>
+<section class="cats" aria-label="分野からさがす"><h2>分野からさがす</h2><div id="cats"></div></section>
 <section class="filters">
-  <div class="row"><span class="lab">分野</span><span id="f-shikaku"></span></div>
   <div class="row"><span class="lab">種類</span><span id="f-kind"></span></div>
   <div class="row"><span class="lab">印</span><button class="chip" id="f-fav" aria-pressed="false">★ お気に入りだけ</button></div>
   <div class="row"><input id="q" type="search" placeholder="ことばでさがす（例　立会い、相談、境界）" aria-label="ことばでさがす"></div>
@@ -36,7 +36,9 @@ const KIND=["人","場面","道具","書類の形","場所","図解の部品"];
 const st={style:null,dankai:null,shikaku:null,kind:null,q:"",fav:false};
 function chips(el,list,key,cls){el.innerHTML="";list.forEach(v=>{const b=document.createElement("button");b.className=cls;b.textContent=v;b.setAttribute("aria-pressed","false");b.onclick=()=>{st[key]=st[key]===v?null:v;render()};el.appendChild(b)})}
 chips(document.getElementById("flow"),DANKAI,"dankai","");
-chips(document.getElementById("f-shikaku"),SHIKAKU,"shikaku","chip");
+const ICON={"共通":"kyoutsu","司法書士":"shihoshoshi","土地家屋調査士":"chousashi","行政書士":"gyoseishoshi","社労士":"sharoushi","税理士":"zeirishi","弁護士":"bengoshi","社内イベント":"shanai-event","業務の見直し":"gyomu-minaoshi"};
+const catsEl=document.getElementById("cats");
+SHIKAKU.forEach(v=>{const b=document.createElement("button");b.className="cat";b.setAttribute("aria-pressed","false");const n=ITEMS.filter(it=>it.shikaku.includes(v)).length;b.innerHTML=`<img src="icons/${ICON[v]}.png?v=1004" alt="" width="72" height="72" onerror="this.style.visibility='hidden'"><span class="nm">${v}</span><span class="ct">${n}点</span>`;b.onclick=()=>{st.shikaku=st.shikaku===v?null:v;render();document.getElementById("count").scrollIntoView({behavior:"smooth",block:"start"})};catsEl.appendChild(b)});
 chips(document.getElementById("f-kind"),KIND,"kind","chip");
 document.getElementById("q").oninput=e=>{st.q=e.target.value.trim();render()};
 document.getElementById("f-fav").onclick=()=>{st.fav=!st.fav;render()};
@@ -45,12 +47,12 @@ function favCount(){document.getElementById("f-fav").textContent="★ お気に�
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
 function render(){
   document.querySelectorAll("#flow button").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.dankai));
-  document.querySelectorAll("#f-shikaku .chip").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.shikaku));
+  document.querySelectorAll("#cats .cat").forEach(b=>b.setAttribute("aria-pressed",b.querySelector(".nm").textContent===st.shikaku));
   document.querySelectorAll("#f-kind .chip").forEach(b=>b.setAttribute("aria-pressed",b.textContent===st.kind));
   document.getElementById("f-fav").setAttribute("aria-pressed",st.fav);favCount();
   const fav=favLoad();
   const hit=ITEMS.filter(it=>(!st.fav||fav.has(it.id))&&(!st.dankai||it.dankai===st.dankai)&&(!st.shikaku||it.shikaku.includes(st.shikaku))&&(!st.kind||it.kind===st.kind)&&(!st.q||(it.title+it.description+it.tags.join(" ")).includes(st.q)));
-  document.getElementById("count").textContent=hit.length+"点"+(st.fav&&!hit.length?"　お気に入りはまだありません。絵の右上の☆を押すと入ります。":"");
+  document.getElementById("count").textContent=(st.shikaku?st.shikaku+"の絵　":"")+hit.length+"点"+(st.fav&&!hit.length?"　お気に入りはまだありません。絵の右上の☆を押すと入ります。":"");
   document.getElementById("grid").innerHTML=hit.map(it=>`<article class="card"><button class="star" data-id="${it.id}" aria-pressed="${fav.has(it.id)}" aria-label="${fav.has(it.id)?"お気に入りから外す":"お気に入りに入れる"}">${fav.has(it.id)?"★":"☆"}</button><a class="pic" href="i/${it.id}.html"><img loading="lazy" src="img/${it.id}_thumb.jpg" alt="${esc(it.alt)}"></a><div class="b"><h3>${esc(it.title)}</h3><div class="m">${esc(it.shikaku.join("、"))}　${esc(it.dankai)}</div><div class="d"><a class="btn" href="img/${it.id}.jpg" download>カラー</a><a class="btn sub" href="img/${it.id}_mono.jpg" download>白黒</a></div></div></article>`).join("");
 }
 render();

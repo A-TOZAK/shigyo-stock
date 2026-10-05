@@ -143,3 +143,10 @@ footer{border-top:1px solid var(--line);background:var(--wash);margin-top:24px}
   .card .d .btn{padding:6px 4px;font-size:12px}
   .star{width:32px;height:32px;font-size:17px}
 }
+
+.rules{width:100%;border-collapse:collapse;margin:10px 0 14px;font-size:15px;line-height:1.7}
+.rules th,.rules td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top;word-break:auto-phrase}
+.rules thead th{background:var(--wash);color:var(--ai);font-size:13px}
+.rules tbody th{color:var(--ai);white-space:nowrap}
+.small{font-size:13px;color:var(--sub)}
+@media (max-width:600px){.rules{font-size:14px}.rules th,.rules td{padding:8px}.rules tbody th{white-space:normal}}

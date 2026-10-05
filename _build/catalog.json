@@ -8664,54 +8664,6 @@
    ]
   },
   {
-   "id": "event-bowling",
-   "src": "generated_shigyo_ishiyama_2026-10/riko_V28_bowling.png",
-   "author": "riko",
-   "title": "ボウリング大会",
-   "shikaku": [
-    "社内イベント"
-   ],
-   "dankai": "社内",
-   "kind": "場面",
-   "uses": [
-    "社内の資料",
-    "採用",
-    "説明の紙"
-   ],
-   "description": "社員がボウリングの球を投げ、2人がうしろで見守る場面のイラストです。",
-   "howto": "レクリエーションの案内に使えます。",
-   "alt": "社員がボウリングの球を投げ、2人がうしろで見守る場面のイラスト。",
-   "tags": [
-    "ボウリング",
-    "レクリエーション",
-    "社内イベント"
-   ]
-  },
-  {
-   "id": "event-kaeri",
-   "src": "generated_shigyo_ishiyama_2026-10/riko_V30_kaeri.png",
-   "author": "riko",
-   "title": "またね",
-   "shikaku": [
-    "社内イベント"
-   ],
-   "dankai": "社内",
-   "kind": "場面",
-   "uses": [
-    "社内の資料",
-    "採用",
-    "説明の紙"
-   ],
-   "description": "行事のあと、4人の社員が出口で軽く手をふってわかれる場面のイラストです。",
-   "howto": "行事の案内のしめくくりに使えます。",
-   "alt": "行事のあと、4人の社員が出口で軽く手をふってわかれる場面のイラスト。",
-   "tags": [
-    "わかれ",
-    "社内イベント",
-    "しめくくり"
-   ]
-  },
-  {
    "id": "dx-flow-fusen",
    "src": "generated_shigyo_ishiyama_2026-10/riko_X01_flow_fusen.png",
    "author": "riko",
